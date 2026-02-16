@@ -1,0 +1,8 @@
+﻿# Print test
+# ----- page 0 -----
+I'ts a print test.
+I'm simple text. Look, how i'm printing.
+Actually\., there may still be pauses.
+And long pauses requiring pressing the space.\^ Like this.
+# -------------------
+

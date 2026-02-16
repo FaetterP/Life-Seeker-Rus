@@ -1,0 +1,11 @@
+﻿# Pages test
+# ----- page 0 -----
+I'ts a condition test.
+Yes | No
+You chose no
+# -------------------
+
+# ----- page 1 -----
+alt message
+# -------------------
+

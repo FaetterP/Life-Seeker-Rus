@@ -1,0 +1,8 @@
+﻿# Check var test
+# ----- page 0 -----
+I'ts a variable test.
+You didn't speak with my friend.
+You spoke with my friend 1 time.
+You spoke with my friend many times.
+# -------------------
+

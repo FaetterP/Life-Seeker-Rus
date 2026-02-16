@@ -1,0 +1,8 @@
+﻿# Condition test
+# ----- page 0 -----
+I'ts a condition test.
+Yes | No
+You chose yes
+You chose no
+# -------------------
+

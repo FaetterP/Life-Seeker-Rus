@@ -1,0 +1,20 @@
+﻿# 
+# ----- page 0 -----
+Can you hear me? \.I will not dim.
+The greatest glimpse of light, with your back to the wall.
+I will not dim! \.Can you hear me! \.god!
+Oh, \.Tomorrow. Sorry I was talking to someone else.
+# -------------------
+
+# ----- page 1 -----
+Tomorrow, \.you're back again? \.do you want to come with me to see something?
+Yes | No
+How wonderfully bright it is here! \.places like this used to never have existed!
+What could have possibly changed to allow such wonders to appear!
+I understand you seek something, \.correct? \.oh what a long distance run around you must be on.
+You've such bright eyes, Tomo. \.I do enjoy spending time with you. 
+Say, \.if your name is tomorrow then surely there must be a yesterday?
+..... | Nah | She's no longer around.
+oh... \.Oh my days.
+# -------------------
+

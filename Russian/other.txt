@@ -1,0 +1,10 @@
+﻿# Other localized texts
+# Format: key=localized text
+# Empty lines and lines starting with # are ignored
+# You can use any characters in key and value, including equal sign (=)
+
+# Examples:
+# start_button=Start Game
+# math=1+2 = 3
+
+# Add your translations here:
