@@ -1,8 +1,10 @@
 ﻿# bird
 # ----- page 0 -----
+#condition Crow == 1 goto 1
 Get away from me.
 Seriously! \.Get away!
 I'm evil. \.GO AWAY!
 I seriously have dark triad personality traits and I WILL kill you.
+#exit
 # -------------------
 

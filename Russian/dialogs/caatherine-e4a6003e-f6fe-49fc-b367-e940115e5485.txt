@@ -1,20 +1,30 @@
 ﻿# 
 # ----- page 0 -----
+#condition Cath == 1 goto p1
 I hear the last cup of coffee is gone. \.now how can this be? \.surely it can't be so!
 I suppose I will be perpetually tired now. \.this simply can't be.
 You are telling me it can be? \.No, \.it simply can't.
 In fact I've a plan! \.oh yes, \.I had met a vampire who I think can solve my crisis. \.the world is not ready for my evolution.
+#exit
 # -------------------
 
 # ----- page 1 -----
+#condition Cath == 2 goto p2
+#
+# from page 1
 The vampire refuses to help me. \.Oh, \.this simply can't be.
 How will I ever get over being oh so sleepy? \.The kind of tired that sleep can't fix? \.Oh this can't be!
 In my infinite naiviety I just sort of assumed she would be willing to feed on me. \.That's how you become a vampire, \.right?
 Apparently my blood is too fatty and not the correct type. \.That bitch! \.oh this simply can't be!
 are you a vampire perchance? \. you are rather pale.
 Yes | no
+#
+# choice: Yes
 Is that so? \.show me your teeth then!
 You are a liar!
+#
+# choice: no
 Oh this simply can't be.....
+#exit
 # -------------------
 

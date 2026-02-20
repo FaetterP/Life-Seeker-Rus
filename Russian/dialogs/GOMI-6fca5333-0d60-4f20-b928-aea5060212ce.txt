@@ -1,13 +1,18 @@
 ﻿# Gomi
 # ----- page 0 -----
+#condition Gomi == 1 goto 3-1
+#condition Gomi == 1 goto 2-1
 You see dat broad wit da blu hair? \.what a friggin bidtch....
 whats her friggin deal? she ain't foolin me with dat cutesy act.
 Le sigh.... \. we cringe on..........
 I say dat when im feelin da downs, \.helps lotz. \.Trust.
+#exit
 AYOOOOO WHAT DA FREAK????
 AYYYYYOOOOO WHAT DA FREAAAK????
 Oh my badz. \.waz prac my reactz. \.thought maybe i cudz make money reactin to shitz.
 Prac iz short for practice, \. By da byz.
+#
+# 3-1: condition: Gomi == 1
 ....
 # -------------------
 

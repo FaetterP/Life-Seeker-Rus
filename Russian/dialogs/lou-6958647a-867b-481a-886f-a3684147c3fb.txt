@@ -1,12 +1,17 @@
 ﻿# lou
 # ----- page 0 -----
+#condition lou == 2 goto ?
+#condition lou == 1 goto 2-1
 Have you seen it? \.the new grand spire? \.I can take you there if you wish.
 sure | Not now
+#exit
 Well? i\.it's quite nice out here wouldn't you say? \. The walls of the city don't come close to here.
 This spire was constructed only recently, though a rumor has spread that it may come under siege soon
 It's nothing to concern yourself with though. \.The man who aided in its rise will soon arrive once again to protect it.
 You are on your own journey after all, \.correct? 
 I'm looking for a an  asphodel.
+#
+# choice: I'm looking for a an  asphodel.
 That's right, \.Hymnia had told me. I can't help you there.
 There was once a great sage, \.after she had vanished the yellow asphodel was in abundance.
 Renown for her gentle soul and caring nature these flowers were picked clean by those who longed for her to return.
@@ -14,6 +19,9 @@ Some say you can even hear her soothing voice in the flower itself in times of p
 coincidentally it was this very tower that led to her demise, \.as she was no longer needed as a guide for lost souls.
 Karmic checks and balances have a strange way of working I reckon....
 I'll try to keep my eyes peeled for that flower, \.Don't you worry.
+#exit
+#
+# 2-1: condition: lou == 1
 
 # -------------------
 

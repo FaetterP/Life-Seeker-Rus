@@ -1,8 +1,20 @@
 ﻿# Check var test
 # ----- page 0 -----
 I'ts a variable test.
+#condition GHOST_SPEAK_COUNT == 0 goto speak 0
+#condition GHOST_SPEAK_COUNT == 1 goto speak 1
+#condition GHOST_SPEAK_COUNT >= 2 goto speak 2+
+#
+# speak 0: condition: GHOST_SPEAK_COUNT == 0
 You didn't speak with my friend.
+#exit
+#
+# speak 1: condition: GHOST_SPEAK_COUNT == 1
 You spoke with my friend 1 time.
+#exit
+#
+# speak 2+: condition: GHOST_SPEAK_COUNT >= 2
 You spoke with my friend many times.
+#exit
 # -------------------
 

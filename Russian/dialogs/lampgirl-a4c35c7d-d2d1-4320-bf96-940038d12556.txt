@@ -1,12 +1,17 @@
 ﻿# 
 # ----- page 0 -----
+#condition Lamp == 1 goto 2
 Can you hear me? \.I will not dim.
 The greatest glimpse of light, with your back to the wall.
 I will not dim! \.Can you hear me! \.god!
 Oh, \.Tomorrow. Sorry I was talking to someone else.
+#exit
 # -------------------
 
 # ----- page 1 -----
+#condition Lamp == 2 goto page2
+#
+# from page 1
 Tomorrow, \.you're back again? \.do you want to come with me to see something?
 Yes | No
 How wonderfully bright it is here! \.places like this used to never have existed!
@@ -15,6 +20,11 @@ I understand you seek something, \.correct? \.oh what a long distance run around
 You've such bright eyes, Tomo. \.I do enjoy spending time with you. 
 Say, \.if your name is tomorrow then surely there must be a yesterday?
 ..... | Nah | She's no longer around.
+#
+# choice: .....
+# choice: Nah
+# choice: She's no longer around.
 oh... \.Oh my days.
+#exit
 # -------------------
 

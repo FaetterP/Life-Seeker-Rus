@@ -1,12 +1,17 @@
 ﻿# Urania
 # ----- page 0 -----
+#condition Urania == 1 goto page1
 an umbrella? \.how often do you see it rain? \.Naaaawt much. 
 So like do you just really care for your skin or something? \.I guess I can get behind that!
 I have rejected the flesh in the pursuits of vanity! \.More robot than girl! \.Beauty for eternity!
 I know a guy if you're into that kinda thing! \.totally painless too! \.infact I still can't feel!
+#exit
 # -------------------
 
 # ----- page 1 -----
+#condition Urania == 2 goto page2
+#
+# from page 1
 Oh, \.Tomorrow! \. It's so awful, things could never be as bad as they are now.
 I am being pursued! \.Yes by something small and foul, \.rumor has it that it's got a history of ambushing augmented people! 
 Do you smell it? \.the smelll of cheap beer. \.surely it's near....
@@ -16,5 +21,6 @@ I used the same Dr as this creatures previous lover, \.yes all the patterns matc
 woahz yous guyz liek chillin and stuff? \. I been wantin to chillz n shid with Urania cuz I see her in like gamez n shid
 dat so freakin cool tomo, \.you knowz cool people
 The threat has been eliminated!
+#exit
 # -------------------
 

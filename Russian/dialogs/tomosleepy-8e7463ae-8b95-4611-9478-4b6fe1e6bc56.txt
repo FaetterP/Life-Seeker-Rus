@@ -1,8 +1,14 @@
 ﻿# 
 # ----- page 0 -----
+#condition sleepy == 2 goto 2
+#condition sleepy == 1 goto 1
 I think it's time for rest.....
 Tomo, \.Don't you think it's time to get up?
 huh... | why are you in my house?
+#
+# 1: condition: sleepy == 1
+# choice: huh...
+# choice: why are you in my house?
 I wanted to see where you live.  \.I have to say, \.It's an interesting little spot.
 I can't let you sleep all day! \.there are many wonderful things we may find on our search!
 We also can't find a yellow aspodell with our eyes closed, \.of course.
@@ -12,9 +18,14 @@ Or your face may get stuck that way, \.then everyone may think you are a grouch.
 I have a feeling if I did not wake you, \.you may just sleep forever.
 are you not happy to see me on this fine afternoon?
 ......
+#
+# 2: condition: sleepy == 2
+# choice: ......
 I see.... \. well shall we be off?
 Next time should I bring you a coffee? \.Or pehaps even a beer? \.My sister had used to use this trick.
+#exit
 Time for rest....
 .....
+#exit
 # -------------------
 

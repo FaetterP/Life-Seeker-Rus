@@ -1,21 +1,29 @@
 ﻿# Beetle
 # ----- page 0 -----
+#condition beetle == 1 goto page1
 Do I look like a protaganist to you? \.I think I do. 
 Really I want to move like you, \.jump around and explore!
 Unfortunately my story was  canceled , in favor of yours.. \.how cruel. 
 Me and froggy would make a great protag duo!
 You kinda look like you don't believe me. 
 I don't think I even got any lines last time I was on camera, \.my bad for feeling burnt by that.
+#exit
 # -------------------
 
 # ----- page 1 -----
+#condition beetle == 2 goto page2
+#
+# from page 1
 You again.... \.I'm still feelin a type of way you know.
 Do you ever wish you could be an action hero? there seems like there is not really much room for that.
 Life is.... \.rather mundane. \.that and being mundane is the norm.
 What about life with froggy?
+#
+# choice: What about life with froggy?
 Yeah.... \.I do have fun with him. \.He shows me neat places!
 Before the naraka got brighter, \.Froggy had shown me a wonderful pond.
 I cherished that spot. \.these days things are much brighter.
 Now there is so much more to cherish!
+#exit
 # -------------------
 

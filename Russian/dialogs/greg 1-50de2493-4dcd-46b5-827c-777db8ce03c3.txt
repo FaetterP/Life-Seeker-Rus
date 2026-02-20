@@ -1,5 +1,6 @@
 ﻿# 
 # ----- page 0 -----
+#condition greg == 1 goto p1
 Oh, \.heyo! \.Fine mornin' to ya neighbor.
 My fortune cookie said somethin rather profound! \.funny that.
 Oh dear, \.yeah it said the ocean yearned for me.
@@ -7,5 +8,6 @@ Tell that ocean my wife won't be too pleased! \.bwahahah....
 She used to make the greatest sweet corn, \.oh god rest her soul.
 Though I don't mind a fine wander through here! \.maybe one day I may even meet her again.
 Wouldn't that be grand!
+#exit
 # -------------------
 

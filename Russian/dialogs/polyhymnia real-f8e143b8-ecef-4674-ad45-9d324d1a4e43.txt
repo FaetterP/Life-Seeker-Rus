@@ -1,12 +1,17 @@
 ﻿# Hymnia
 # ----- page 0 -----
+#condition HymniaPost == 1 goto hymnia2-1
 The world feels so vast up here, \.don't you think?
 it's a wonderful place to come and think. \.the weather has been oh so nice ever since the arrival of the tower.
 My sister was the one who constucted it, \.though I'm not sure what her goals are.....
 To be honest, \.us muses don't speak much to each other. \.we've all gone our seperate ways.
 Do you have people you care for you speak to regularly? 
 I've met mel once. | no
+#
+# choice: I've met mel once.
 Oh really? \.I hope she is doing well.
+#
+# choice: no
 Before I had resolved myself to seek the asphodel I had traveled very far.
 I met many people, \.between the earth and the naraka.
 It seems the denizens of each are quite similar, all hold on and strive for more.
@@ -14,11 +19,18 @@ Yet they repeat the same loop. \.few understand how to bask in the beauty laid b
 Yes, \.it's true. \.an epidemic of those who ignore the moments.
 What are you thinking right now?
 of this moment. | I zoned out.
+#
+# choice: of this moment.
 I'm glad.
+#
+# choice: I zoned out.
 Oh \.Tomo..... \.I brought you up here to enjoy this moment with you. \. do you see it?
 You are looking too hard, \.Tomo.
 To enjoy this seafoam sky, \.the wind in our faces, \.few know where to experience such beauty.
 We are truly lucky.
+#exit
+#
+# hymnia2-1: condition: HymniaPost == 1
 
 # -------------------
 

@@ -2,10 +2,15 @@
 # ----- page 0 -----
 I'ts a condition test.
 Yes | No
+#exit
+#
+# choice: No
 You chose no
 # -------------------
 
 # ----- page 1 -----
+#
+# from page 1
 alt message
 # -------------------
 

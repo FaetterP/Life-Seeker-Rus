@@ -1,7 +1,9 @@
 ﻿# chaat
 # ----- page 0 -----
+#condition CT == 1 goto page2
 I am a camera with its shutter open, \.quite passive, \.recording, \.not thinking.
 .......
 Please do not break my focus While I watch.
+#exit
 # -------------------
 

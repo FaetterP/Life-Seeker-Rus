@@ -2,7 +2,12 @@
 # ----- page 0 -----
 I'ts a condition test.
 Yes | No
+#
+# choice: Yes
 You chose yes
+#exit
+#
+# choice: No
 You chose no
 # -------------------
 

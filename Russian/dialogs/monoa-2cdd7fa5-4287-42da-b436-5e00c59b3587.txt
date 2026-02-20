@@ -1,7 +1,9 @@
 ﻿# Monao
 # ----- page 0 -----
+#condition Monoa == 1 goto ?
 Can I show you something?
 yes | no
+#exit
 Are you seeing this! \.Who would deface this wonderful city with such a thing!
 Actually these folks look familiar too...
 It kind of reminds me of the homeless people gomi had hung out with who were known for passing out free beer.
@@ -11,5 +13,6 @@ Or was it a dangerous man does an evil maneuver?
 Doesn't matter!
 It's also my job to scrub this stupid wall
 You don't suppose you've seen her, \.have you?
+#exit
 # -------------------
 
