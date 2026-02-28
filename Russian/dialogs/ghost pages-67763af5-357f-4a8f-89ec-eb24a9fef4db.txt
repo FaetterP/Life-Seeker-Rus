@@ -1,16 +1,16 @@
 ﻿# Pages test
 # ----- page 0 -----
-I'ts a condition test.
-Yes | No
+Это тест условий.
+Да | Нет
 #exit
 #
 # choice: No
-You chose no
+Ты выбрала нет
 # -------------------
 
 # ----- page 1 -----
 #
 # from page 1
-alt message
+Другая страница
 # -------------------
 

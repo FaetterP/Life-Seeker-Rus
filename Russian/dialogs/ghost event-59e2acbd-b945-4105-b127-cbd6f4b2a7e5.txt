@@ -1,6 +1,6 @@
 ﻿# Event test
 # ----- page 0 -----
-I'ts an event test.
-After this message you will jump.
+Это тест условий.
+После этого сообщения ты прыгнешь.
 # -------------------
 

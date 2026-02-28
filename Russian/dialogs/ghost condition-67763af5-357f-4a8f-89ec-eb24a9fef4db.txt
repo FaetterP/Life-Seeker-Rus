@@ -1,13 +1,13 @@
 ﻿# Condition test
 # ----- page 0 -----
-I'ts a condition test.
-Yes | No
+Это тест условий.
+Да | Нет
 #
 # choice: Yes
-You chose yes
+Ты выбрала да
 #exit
 #
 # choice: No
-You chose no
+Ты выбрала нет
 # -------------------
 
