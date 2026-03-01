@@ -1,8 +1,8 @@
 ﻿# Gomi
 # ----- page 0 -----
 #condition Gomi == 1 goto 1
-You see dat broad wit da blu hair? \.what a friggin bidtch....
-whats her friggin deal? she ain't foolin me with dat cutesy act.
+Видела ту тёлку с синими волосами? \.Что за чёртова сука....
+Чё она вообще творит? Она меня не одурачит своими манерными штучками.
 #exit
 # -------------------
 

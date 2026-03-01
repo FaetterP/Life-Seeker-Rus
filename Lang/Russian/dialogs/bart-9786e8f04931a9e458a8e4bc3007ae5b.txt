@@ -4,47 +4,47 @@
 #condition Bart == 3 goto 4-1
 #condition Bart == 2 goto Bart 3-1
 #condition Bart == 1 goto bart 2-1
-Oh... you are the nimble one I see running about. \.I wish I could be so nimble.
-A word of advice for you, \. going back the way you came may not lead to where you think it should. 
+Ох... ты самая проворная из всех, кого я видел бегающими по округе. \.Хотел бы я быть таким же проворным.
+Дам тебе небольшой совет,\. когда ты возвращаешься тем же путём, каким пришла, ты можешь попасть совсем не туда, куда ожидаешь. 
 #exit
 #
 # bart 2-1: condition: Bart == 1
- When we think of numbers we think of vast seas of zeros, \.dreaming to swim in this pool of excess. 
-Excess what?\. have you wondered that?\. Watermelon?\. apples?\. meats or money?\.dried cheese?
-What about those who think of small numbers.\. 3 the magic number,\ .a tripod, \ .a man a woman and a baby,\. the heart the brain and the body, \. a triangle.
- The beginnning middle and end.\. Our lives have 3 stages, \.This beggining middle and end.
-And yet I only wish to stop before the end.\. where are the zeros to saturate this existence?
-would they do anything? \. 27 seems like a great place to stop counting.\. Though I read many just drop silent between 50 and 60. 
+Когда мы думаем о числах, мы представляем себе бескрайние моря нулей, \.мечтающих искупаться в этом омуте избытка. 
+Избытка чего?\. Тебе это интересно?\. Арбузов?\. Яблок?\. Мяса или денег?\. Сушёного сыра?
+А как насчет тех, кто думает о небольших цифрах.\. 3 - это магическое число,\ .тренога,\. мужчина, женщиной и ребёнок,\. сердце, мозг и тело,\. треугольник.
+Начало, середина и конец.\. Наша жизнь имеет 3 этапа:\. начало, середина и конец.
+И всё же я хочу остановиться перед концом.\. Где нули, чтобы насытить это существование?
+Будут ли они что-нибудь делать? \. 27, по-моему, это отличное время, чтобы перестать считать.\. Хотя я читал, что многие просто замолкают между 50 и 60 годами. 
 #exit
 #
 # Bart 3-1: condition: Bart == 2
-Oh it's you! Will you join me on a stroll?
-Sure | Not now
+Ох, это ты! Составишь мне компанию на прогулке?
+Конечно | Не сейчас
 #exit
-This was one of the earliest streets to appear in our processed world, \.though these days it just so happens to be far warmer.
-The sun never had shown itself here, at least not until a few years ago.
-There exist many circles of the naraka though it proves difficult to travel between them,\. especially now.
-The memories that held them together grow far more fragmented. \. While rare,\. They are still able to be visited.
-recently out of the naraka emerged a woman known as the Shekhinah to some.
-In her plight she brought forth a tree of life  that served as a sign that the Kabbalah still has some power over the conduct of man. 
-Togther her and her golem brought forth a great tower,\. an exit for those who wish to destroy their ego.
-Ever since then our city has expanded, yet the memories of those who were here grow distant.
+Это одна из самых первых улиц в нашем переработанном мире,\. хотя в последнее время здесь стало куда теплее.
+Солнце никогда здесь не показывалось, по крайней мере, последние несколько лет.
+Существует много кругов нараки, хотя путешествовать между ними трудно,\. особенно сейчас.
+Воспоминания, которые скрепляли их, становятся всё более разрозненными \. Хоть и редко,\. но их всё ещё можно посещать.
+Недавно из нараки вышла женщина, известная некоторым как Шехина.
+В своем тяжелом положении она взрастила древо жизни, которое служило знаком того, что Каббала всё ещё имеет власть над поступками человека.
+Вместе с ней и её големом она воздвигла великую башню:\. выход для тех, кто хочет уничтожить своё эго.
+С тех пор наш город разросся, но воспоминания о тех, кто был здесь, становятся все дальше.
 #
 # 4-1: condition: Bart == 3
-Oh... hello
-It's nice here, \.I hope. \.I like to come here to think....
-Do you wish you could remember your past life?
-I've always thought to myself that you may flay the flesh, but you cannot touch the soul.
-Though this side of the world holds many challenges for all souls alike.
-I saw miracles, and I bore witness to many wonderful things in both realms.
-I can only hope we all find what we seek, no matter how simple.
-Hymnia told me that you both seek a flower. \.It's sweet beautiful goal,I promise to keep my eyes peeled for you.
-Though I do hope you realize the significance of this yellow asphodel.
-I should probably get going, \.I think I will talk with my friend today.
-Don't worry, \.he loves you as well.
+Ох... привет
+Здесь здорово, \.надеюсь. \.Я люблю приходить сюда и подумать....
+Ты бы хотела помнить свою прошлую жизнь?
+Я всегда думал: плоть можно содрать, но души коснуться нельзя.
+Хотя на этой стороне мира для всех душ хватает испытаний.
+Я видел чудеса и был свидетелем многих удивительных вещей в обоих мирах.
+Я могу только надеяться, что все мы найдем то, что ищем, каким бы простым что-то это ни было.
+Гимния сказала мне, что вы обе ищете цветок. \.Это милая и прекрасная цель; я обещаю присматривать за тобой.
+Вообще, я надеюсь, ты понимаешь, что значит этот жёлтый асфодель.
+Наверное, мне уже нужно идти, \.думаю, я ещё поговорю сегодня со своим другом.
+Не переживай, \.он тоже тебя любит.
 #exit
 #
 # 5-1: condition: Bart == 4
-Hmmm
+Хммм
 # -------------------
 

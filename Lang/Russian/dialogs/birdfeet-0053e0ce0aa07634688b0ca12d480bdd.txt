@@ -1,10 +1,10 @@
 ﻿# bird
 # ----- page 0 -----
 #condition Crow == 1 goto 1
-Get away from me.
-Seriously! \.Get away!
-I'm evil. \.GO AWAY!
-I seriously have dark triad personality traits and I WILL kill you.
+Отойди от меня.
+Серьёзно! \.Уходи!
+Я злой. \.УХОДИ!
+У меня реально признаки тёмной триады, и я УБЬЮ тебя.
 #exit
 # -------------------
 
