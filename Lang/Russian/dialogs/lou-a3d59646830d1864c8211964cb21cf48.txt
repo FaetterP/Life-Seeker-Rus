@@ -1,7 +1,6 @@
 ﻿# lou
 # ----- page 0 -----
-#condition lou == 2 goto ?
-#condition lou == 1 goto 2-1
+#condition lou == 1 goto page1
 Have you seen it? \.the new grand spire? \.I can take you there if you wish.
 sure | Not now
 #exit
@@ -20,8 +19,17 @@ coincidentally it was this very tower that led to her demise, \.as she was no lo
 Karmic checks and balances have a strange way of working I reckon....
 I'll try to keep my eyes peeled for that flower, \.Don't you worry.
 #exit
-#
-# 2-1: condition: lou == 1
+# -------------------
 
+# ----- page 1 -----
+#condition lou == 2 goto p2
+#
+# from page 1
+I'm yet to find a flower, \. though I did meet a rather brash woman who saught out a mirror.
+Yes, \.the mirror that leads to the other side. \.Everyone seems to be looking for something, \.I wonder why this is.
+Nothing has changed, \.there was a time where items that brought happiness were deeply saught after.
+My favorite was a cat who had exchanged soul for liquor. 
+I do not recommend this exchange.
+#exit
 # -------------------
 

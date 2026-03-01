@@ -1,4 +1,4 @@
-﻿# 
+﻿# Iya
 # ----- page 0 -----
 #condition iya == 3 goto 4-1
 #condition iya == 2 goto 3-1

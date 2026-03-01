@@ -1,0 +1,14 @@
+﻿# neko
+# ----- page 0 -----
+#condition Bneko == 1 goto p1
+Aye squirt, \.I'm on the run ya see. A small creature i saw had a delectable treat, \.it was imperative I steal it.
+Yes, \.a fine 40 oz of premium malt liqour. \.The guilt won't set in till tomorrow I reckon.
+Don't look at me like that, \.I don't appreciate those judging eyes one bit.
+Sometimes you do what you gotta do, \.ya feel me?
+Screw you lady, \.I'm cut throat as hell. \.I once robbed a man for a part of his soul! 
+Scram now!
+......
+seriously lady.... \.what do ya want?
+#exit
+# -------------------
+

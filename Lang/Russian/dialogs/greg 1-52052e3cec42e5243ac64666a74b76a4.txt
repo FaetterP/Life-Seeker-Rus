@@ -1,0 +1,49 @@
+﻿# 
+# ----- page 0 -----
+#condition greg == 1 goto p1
+Ой, \.привет! \.Хорошего утречка соседям.
+Моё печенье с предсказанием сказало кое-что довольно важное! \.Забавно.
+Ох, \.да, там было написано, что океан тоскует по мне.
+Скажи этому океану, что моя жена будет не слишком довольна! \.Буахаха....
+Раньше она готовила самую вкусную сладкую кукурузу, \.царствие ей небесное.
+Хотя я не против приятной прогулки по здешним местам! \.Может, однажды я даже встречу её снова.
+Разве это не было бы великолепно!
+#exit
+# -------------------
+
+# ----- page 1 -----
+#condition greg == 2 goto 2
+#
+# from page 1
+Oh howdy again neighbor! \.what’s bouncin! Bwahahaha….
+Do you get it? \.cause you are so bouncy?
+.....
+Ol’ Mr Bick’s jokes just don’t land anymore I guess…… \.They bounced too high!
+.....
+I’m so lonely without my wife.
+#exit
+# -------------------
+
+# ----- page 2 -----
+#condition greg == 3 goto 3
+#
+# from page 2
+Howdy neighbor! \.Seems I’m a bit lost today. \.You see, \.I went for a nice stroll to collect salt water for my salt water salamander collection.
+ When I returned home a large pink thing with gills had broken in and freed all my pets! \.I chased him as long as I could…. \.now here I am, \.winded and lost.  
+“Big Sal’s big justice!”, \.he kept shouting. \.I promise I meant no harm to those lil guys. \.I just like lookin at em is all.
+#exit
+# -------------------
+
+# ----- page 3 -----
+#condition greg == 4 goto 4
+#
+# from page 3
+Howdy neighbor. \.Ol Mr Bick still seems to be lost. \.Oh how troublesome…..
+It seems like every which way is so confusing, \.sometimes I go in circles sometimes up somewhere new!
+If i were you I’d be careful, \.never know where you are gonna wind up runnin around all willy nily, \.ya know?
+Heck, \.One time I even wound up in that new fangled tower they built! \.I guess they weren’t kiddin when they said people were drawn to climbin it.
+ That tower thing, \.It’s been around a few years now ain’t it? \.woah nelly that means I’ve been here a few years now too I reckon!\. 
+I hear they already got some trouble up there, \.some dastardly foe throwin things off. \.scared me when I wound up there and couldn’t find a way out. 
+#exit
+# -------------------
+

@@ -1,6 +1,6 @@
-﻿# 
+﻿# hellgirl
 # ----- page 0 -----
-#condition hellgirl == 3 goto 3-1
+#condition hellgirl == 3 goto 1
 #condition hellgirl == 2 goto ?
 #condition hellgirl == 1 goto 2-1
 You're the lil jumpy girl! \.whats got you so peppy aye?
@@ -32,8 +32,20 @@ Hymnia?
 Yeah her! She's quite lovely isn't she.... \.so sweet. 
 Ugh I can't stand her.
 #exit
-#
-# 3-1: condition: hellgirl == 3
+# -------------------
 
+# ----- page 1 -----
+#condition hellgirl == 4 goto 2
+#
+# from page 1
+Worried about me? \.You don’t gotta check on me so often, \.Tomo. \.worry about yourself, \.Aren’t you looking for a flower? 
+What could be so important about this flower? \.surely not much right?
+Yellow asphodels were so much more common like 20 years ago all of a sudden. \.You are just a little too late as they are all but gone now.
+It took the death of someone incredibly beloved in the naraka to have them appear in such an abundance, when that muse was poking around things surely were chaotic. 
+#exit
+# -------------------
+
+# ----- page 2 -----
+#condition hellgirl == 5 goto ?
 # -------------------
 

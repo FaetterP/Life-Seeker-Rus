@@ -1,0 +1,63 @@
+﻿# Beetle
+# ----- page 0 -----
+#condition beetle == 1 goto page1
+Я что, похож на протагониста? \.Думаю, да. 
+На самом деле я хочу двигаться, как ты, \.прыгать повсюду и исследовать мир!
+К сожалению, мою историю отменили в пользу твоей... \.Как жестоко. 
+Из меня и жабки получился бы отличный дуэт героев!
+Похоже, ты мне не веришь. 
+В прошлый раз у меня, кажется, даже не было реплик, \.и я виноват, что меня это задевает.
+#exit
+# -------------------
+
+# ----- page 1 -----
+#condition beetle == 2 goto page2
+#
+# from page 1
+Опять ты.... \.Ты понимаешь, в каком состоянии я сейчас нахожусь.
+Тебе когда-нибудь хотелось быть героем боевика? Похоже, в жизни для такого места почти нету.
+Жизнь.... \.довольно обыденная. \.И быть обыденным тоже нормально.
+Как тебе жить с жабкой?
+#
+# choice: What about life with froggy?
+Да.... \.Мне с ним весело. \.Он показывает мне уютные места!
+Ещё до того, как Нарака стала светлее, \.Жабка показал мне чудесный пруд.
+Я очень дорожил этим местом. \.Сейчас там намного ярче.
+Теперь есть ещё столько всего, чем можно дорожить!
+#exit
+# -------------------
+
+# ----- page 2 -----
+#condition beetle == 3 goto 3
+#
+# from page 2
+You know even Celare was once determined she could be a protagonist. \.That woulda been pretty sick. \.I heard she trained in like fire arms and stuff.
+Talk about bad ass, \.huh! All I can do is like blow bubbles and what not. \.That ain’t exactly cool I guess.
+Here I was thinkin she had like a soft belly or something and she was trying to hide it by running all the time! \.well actually I guess she stopped doing that….
+You do probably get pretty tough from that too… \.what am I thinking! I could probably take her in a fight thought. 
+ I’m tough as hell! \.Beetle exoskeleton Tomo, \.trust me. \.I can take a beatin! 
+Beetlin….. \.Beatin beetlin.
+#exit
+# -------------------
+
+# ----- page 3 -----
+#condition beetle == 4 goto 4
+#
+# from page 3
+A small paper girl has been trying to befriend me…. \.I find her rather insufferable. \.Apparently she tried to befriend many folks before me.  Why is she so desperate for friends?  
+Should I feel guilty and just play along? \.I do feel somewhat bad that she is this lonely. I guess her best friend was taken away in some sort of fire. Rather tragic that. 
+Me and froggy ain’t need know third wheel though, \.ya feel? \.That’s like if I tried to tag along on you and Hymnia’s adventure. 
+Ugh these moral conundrums surely make me feel like I need to eat something spicy to get my brain jogged again.
+#exit
+# -------------------
+
+# ----- page 4 -----
+#condition beetle == 5 goto 5
+#
+# from page 4
+From a mechanical standpoint some of these machines I keep running into are cool. \.from a sentience stand point its rather scary….
+Mel Told me a story about an entire race of machines harvesting angels to power themselves. \.though they lived to regret it. 
+I don’t think anything crazy happened, \.they just fizzled out one day. \.I wonder what those regrets were. 
+#exit
+# -------------------
+

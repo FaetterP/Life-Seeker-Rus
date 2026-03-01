@@ -8,5 +8,6 @@
 # choice: Have you seen a yellow asphodel?
 # choice: A blue girl made me bleed once.
 Ты меня слушаешь, Завтра?\. Разве ты не видишь, как я парализован в этот момент принятия решения?
+Увидимся завтра!
 # -------------------
 
