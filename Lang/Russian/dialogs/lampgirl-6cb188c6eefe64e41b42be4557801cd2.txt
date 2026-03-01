@@ -1,0 +1,71 @@
+﻿# 
+# ----- page 0 -----
+#condition Lamp == 1 goto 2
+Can you hear me? \.I will not dim.
+The greatest glimpse of light, with your back to the wall.
+I will not dim! \.Can you hear me! \.god!
+Oh, \.Tomorrow. Sorry I was talking to someone else.
+#exit
+# -------------------
+
+# ----- page 1 -----
+#condition Lamp == 2 goto page2
+#
+# from page 1
+Tomorrow, \.you're back again? \.do you want to come with me to see something?
+Yes | No
+How wonderfully bright it is here! \.places like this used to never have existed!
+What could have possibly changed to allow such wonders to appear!
+I understand you seek something, \.correct? \.oh what a long distance run around you must be on.
+You've such bright eyes, Tomo. \.I do enjoy spending time with you. 
+Say, \.if your name is tomorrow then surely there must be a yesterday?
+..... | Nah | She's no longer around.
+#
+# choice: .....
+# choice: Nah
+# choice: She's no longer around.
+oh... \.Oh my days.
+#exit
+# -------------------
+
+# ----- page 2 -----
+#condition Lamp == 3 goto 3
+#
+# from page 2
+My Bright girl, \.you’re back! \.Oh how I wonder how you’ve been! 
+Things could be brighter for me, \.you see. \.an inconspicuous barrel has been appearing around me as of late. \. Ever since then my belongings magically vanish.
+ The owner of the barrel continues to elude me. \. I’ve yet to even discover who has been placing this container.  
+#exit
+# -------------------
+
+# ----- page 3 -----
+#condition Lamp == 4 goto 4
+#
+# from page 3
+Tomorrow, \.Have you considered teaching others in your agile ways? \.I do wish I could bounce as joyously as you. 
+Before memories had begun to leak into the naraka, \.the halls were more confined. \.this allowed for movement that felt more like walking in aimless circles.
+It is thanks to that muse and her golem that we can express such freedoms today. \.Thought the need for my lamp has since diminished. Yes, \.I am now unemployed. 
+The sun feels so warm now that it shines much more often, \. This is true freedom I suppose.
+#exit
+# -------------------
+
+# ----- page 4 -----
+#condition Lamp == 5 goto 5
+#
+# from page 4
+I looked at the moon the other day and a white rabbit looked back at me. \.I believe its name was Usagi. \.A bland name for a rabbit no?
+Regardless, \.I flashed my light at him, and he flashed back. \.something tells me many things behind the scenes of our current location are thanks to him. 
+I did once hear stories of a small pup on the moon becoming a rabbit. \.But how does a dog become a rabbit?
+#exit
+# -------------------
+
+# ----- page 5 -----
+#condition Lamp == 6 goto 6
+#
+# from page 5
+I find the peace rather odd, \.don’t you? \.Many who displayed hostilities before the towers creation are seemingly pacified.  
+ Anemia seems much healthier these days as well, \.I do wonder what has changed. I mean she does have occasional fainting spell but nothing terrible.   
+Outside of the tower seems to have fallen on time of peace, \.for now.  It is suspected that something is stirring within and for those drawn to it, \.though I’m at a loss as for what.
+#exit
+# -------------------
+

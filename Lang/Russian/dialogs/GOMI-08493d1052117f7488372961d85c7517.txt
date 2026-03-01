@@ -1,0 +1,54 @@
+﻿# Gomi
+# ----- page 0 -----
+#condition Gomi == 1 goto 1
+You see dat broad wit da blu hair? \.what a friggin bidtch....
+whats her friggin deal? she ain't foolin me with dat cutesy act.
+#exit
+# -------------------
+
+# ----- page 1 -----
+#condition Gomi == 2 goto 2
+#
+# from page 1
+I jus made some yuge bux man, you ain’tz gotta clue. \.I was in dis ol library and some fuggin guy gave me money to jus be a distraction to dem nerdz learnin.
+So i juz watch funny videos and slap my belly and giggle loudly and dey done gave me like a 100 bux!
+Yuge moves! \.dis will covers half da weeks beer costz!
+#exit
+# -------------------
+
+# ----- page 2 -----
+#condition Gomi == 3 goto 3
+#
+# from page 2
+Yo my homie got killedz in da streetz man…. \.and ain’t no one told me?
+Come ons man me and himiko was tight as fuuuuuug…. 
+I gotta drink dis one over….
+#exit
+# -------------------
+
+# ----- page 3 -----
+#condition Gomi == 4 goto 4
+#
+# from page 3
+ I sawz a grumpy broad in a dumb hat. \.Cute lady fo sho but damz bidtch yo face gon stickz if you keep scowlin like dat.  
+Shids so fuggin cool now too like why you frowning bidtch stop and smell da roses you frumpy bow legged grouch.
+She was liek reallyz mean, maybeee imz bias.
+bidtch.
+Get yo act together ladyz.
+#exit
+# -------------------
+
+# ----- page 4 -----
+#condition Gomi == 5 goto 5
+#
+# from page 4
+Aye Tomoz, \.you tryna be budz? Imz tryna start a crew, \.ya downz? \.Itz for liekz yazzified bad bidtches but liek we can workz on ya.
+ As first memberz you can be my top guy. 
+gal….
+#exit
+# -------------------
+
+# ----- page 5 -----
+#condition Gomi == 6 goto ?
+# -------------------
+

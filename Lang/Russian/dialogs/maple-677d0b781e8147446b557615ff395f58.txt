@@ -1,0 +1,57 @@
+﻿# maple
+# ----- page 0 -----
+#condition maple == 1 goto 1
+The new expanded Naraka truly is wonderful, \.but it seems to favor the nimble. \.lots of tough to reach places around. 
+There is a kind bald man around who strolls rather gingerly, \.but one day something must of got him in a tizzy. \.I saw reaching unforetold speeds and leap crazy heights in a heated pursuit!
+Do we all hold such potential? \.I do wonder what the tipping point to reaching this is. \. Maybe not though, \.we aren’t in a comic book after all. 
+Could have been one of those leaked dreams…. \.yes that would make sense.
+Memories and dreams have begun to leak out into the naraka causing massive expansion, though these memories are still around to be explored in their original state.
+#exit
+# -------------------
+
+# ----- page 1 -----
+#condition maple == 2 goto 2
+#
+# from page 1
+New fangled computer graphics are getting too real… false memories spilling out into the naraka based upon generated 3 dimensional objects and planes. 
+It’s making my little head spin on what's real and what isn't. \.you seem pretty smart though so maybe you’ve got a better grasp on this than me.
+I guess it's not the first time man and machine have begun to blend, \.but if this next life is supposed to be built upon dreams- \.well this is all very confusing to me.
+Before the expansion there was this mannequin who crawled around on all fours, \.he carried a portrait of this snow haired woman. \.Himiko her name was, \.I believe he loved her dearly.
+Can the inanimate begin to feel? \.The lines between man and machine blur with each passing day, \.despite this the world feels warmer, \.more beautiful. The hues of the trees appear much more beautiful than before.
+#exit
+# -------------------
+
+# ----- page 2 -----
+#condition maple == 3 goto ?
+#
+# from page 2
+I just found out there are systems where musical octaves aren’t chopped into 12 equal pieces — \.and one of them uses 31.
+An octave is still an octave. \.Same frequency doubling. \.But instead of 12 steps to get there, \.31 EDO divides it into 31 tiny equal steps. Each step is way smaller than a piano key. \. Almost 1 third of a semitone.
+I suppose I should have seen this as obvious, \.our human speech isn’t exactly in perfect pitch. \.Rather a sliding pitch.  
+There was even an old tale of Pythagoras hearing blacksmith's hammers making different pitches and having an epiphany about the mathematical nature of music.  
+#exit
+# -------------------
+
+# ----- page 3 -----
+#condition maple == 4 goto 4
+#
+# from page 3
+ Its a crazy world outside, I think we’re gonna lose our pride. I mean it can happen to anyone, you just gotta look up and around. 
+People are more volatile these days, but not on the streets but rather in their own minds. \.It can happen to you, \.it can happen to me. 
+These devices will be the death of us, \.you can bring your soul to life in many ways just by evading it.
+#exit
+# -------------------
+
+# ----- page 4 -----
+#condition maple == 5 goto 5
+#
+# from page 4
+Remember all that musical nonsense we spoke of? \.A muse told me there is a man in a cave who is far more knowledgeable on this.
+Apparently they meet rather often! \.if I can track them down I plan to do a bit of eavesdropping. \.keep that between us though. 
+It’s all in the name of learning after all so don’t stress your pretty lil head.
+ Besides, \.gamelan has such a beautiful sound! \.oh slendro tunings are so wonderfully haunting! 
+It lends itself so nice to percussive ensembles! \.I once watched a group of machines play this old steam machine whilst banging on various bells and drums. 
+It was rather amazing, \.wouldn’t you say?
+#exit
+# -------------------
+

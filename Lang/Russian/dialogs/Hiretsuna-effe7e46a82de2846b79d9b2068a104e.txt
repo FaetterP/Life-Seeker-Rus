@@ -1,0 +1,16 @@
+﻿# BARREL!
+# ----- page 0 -----
+#condition barrel == 1 goto 1
+......
+.........
+You just got robbed bitch!
+What? | I don't have anything worth taking...
+I got your nose dummy! \.Your sinus are rather backed up, \.are you perhaps sick?
+I’m sick. \.I’m a sick nasty thief, \.you know who the hell I am? \.I am THE Hiretsuna! \.The greatest thief alive.
+you best remember that name, \.I'm going to be known worldwide one day! \.trust.
+# -------------------
+
+# ----- page 1 -----
+#condition barrel == 2 goto ?
+# -------------------
+

@@ -1,0 +1,65 @@
+﻿# Kappa
+# ----- page 0 -----
+#condition kap == 1 goto next
+Woah lady, ].you reek of cigarettes. \.How are you so nimble if you chain smoke all day? \.I don’t get it.
+A real gift you got there! \.Cherish it for sure. \.I wonder when I’ll get my gift, \.feels like I’ve been waiting a long freakin’ time though.
+Wait- \.I get it now. \.Us being friends is the gift, ain’t it?
+Guess so! | Do you typically insult friends?
+#
+# next: condition: kap == 1
+# choice: Guess so!
+# choice: Do you typically insult friends?
+Forget my little observation, \.that’s all water under the bridge now! \.Me and you meeting is destiny, \. I can feel it! \.Though i’m sure you meet new folks all the time.
+#exit
+# -------------------
+
+# ----- page 1 -----
+#condition kap == 2 goto 2
+#
+# from page 1
+Hey you know that tall as heck Cherub lady? \.she’s looking for a ranch hand, maybe you could lend her a hand.
+Dont really know exactly what the job entails but im sure you can be of service to her, \.ya know? \.you just seem wise as hell.
+There’s lil treats that appear all around the naraka now that’s expanded, \.you could probably feed it to those on the ranch I bet!
+#exit
+# -------------------
+
+# ----- page 2 -----
+#condition kap == 3 goto 3
+#
+# from page 2
+A small pickle smelling creature accused ME of smelling fowl. \.who the hell does she think she is? \.I bathe daily in my pond, \,ain’t nothin’ but the truth there. 
+I gots a feelin nothing good comes from being around her- no ma’am. \.She oozes self destruction. 
+Reminds me, \.I met her in this grand library called the Bhool Bhulaiyaa. \.I was amazed by all I could read there. \.but pickle girl was watching short form videos on full volume! 
+She laid on her back slapping her belly giggling like a seal. \.I’ve never been annoyed by such abhorrent acts before but I feel I was close to discovering something important….
+I’ve no clue how to return to that place. \.could such an agent of chaos be sent to prevent me from discovering the truth?
+#exit
+# -------------------
+
+# ----- page 3 -----
+#condition kap == 4 goto 4
+#
+# from page 3
+In kindergarten while lining up to go outside i looked at the back of this kids hair and had the sudden urge to eat all his hair so I just bit down and started chewing.
+That was the moment I got banished to the pond, \.a really unfortunate set of events that has been. \. Kids do dumb stuff all the time though so can’t they cut me a break?
+What about you? \.I bet you’ve done dumb things as a kid!
+Of course.... | ehhh no.
+Tomorrow: A kind woman once offered me a slice of watermelon long ago.
+When I had gone home and explained the generosity to my family they told me that woman was none other than the muse of tragedy. 
+I regret nothing, \,it was very tasty.
+#exit
+# -------------------
+
+# ----- page 4 -----
+#condition kap == 5 goto 5
+#
+# from page 4
+There is a card game that acts as a pass time round here, \.lots of folks play it but I’ve never understood it. \.regardless, \.it’s kinda cool to collect them! 
+The guy who made the game made a card of EVERYONE. \.kinda creepy if you ask me. \.I wouldn't mind having a card of myself though. 
+I did see a card of you too, \.did you consent to this? \.I don’t remember doing so. \.The creator of the game seemingly vanished once the naraka expanded.
+#exit
+# -------------------
+
+# ----- page 5 -----
+#condition kap == 6 goto ?
+# -------------------
+
