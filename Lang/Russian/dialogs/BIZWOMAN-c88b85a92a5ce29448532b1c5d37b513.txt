@@ -2,27 +2,27 @@
 # ----- page 0 -----
 #condition Sickly == 2 goto 3-1
 #condition Sickly == 1 goto sick 2-1
-Oh dear.....\. have you seen my friend?\. she looks kind of serious and has a bandage on her head.
-After I lost my job as being a disruptive nuisance to those building the tower she had helped me find new work.
-I don't even remember why I was doing that....\. then again I was quite ill back then.
-Ill with what? | You feel better now?
+Ох, дорогая.....\. ты не видела мою подругу?\. Она выглядит довольно серьёзной и у неё на голове повязка.
+После того как я потеряла работу из-за того, что мешала строить башню, она помогла мне найти новую.
+Я даже не помню, зачем я это делала....\. впрочем, тогда я была совсем больна.
+Больна чем? | Тебе сейчас лучше?
 #
 # choice: Ill with what?
 # choice: You feel better now?
-Oh dear, \. it's nothing.\. I just tend to be a bit sickly.... 
-These days I am able to be much more clear headed.\. It's a rather nice change of pace.
+Ох, дорогая, \. ничего особенного.\. Я просто немного болезненная.... 
+Сейчас голова у меня куда яснее.\. Довольно приятное изменение.
 #exit
 #
 # sick 2-1: condition: Sickly == 1
-I wish to show you something if you don't mind...
-Let's go | not now
+Я хочу тебе кое-что показать, если ты не возражаешь...
+Пошли | Не сейчас
 #exit
-With everyone making their way to the tower,\. it's become rather hard to sell the realestate here.
-I don't suppose I can interest in a new home here deep within the city?
-No thanks. | I already have a home.
-but look how modern it is here!\. Not enticing? \. ........
+Теперь все стремятся попасть в башню,\. и продать недвижимость стало намного сложнее.
+Может, хоть тебя заинтересует новый дом здесь, в глубине города?
+Нет, спасибо. | У меня уже есть дом.
+Но только посмотри, какое здесь всё современное!\. Разве это не заманчиво? \. ........
 ............
-Oh dear.... \.I think I'm feeling quite ill again. Don't worry, \.this is normal and will pass.
+Ох, дорогая.... \.Кажется, мне снова немного поплохело. Не переживай, \.так случается, скоро всё пройдёт.
 #exit
 #
 # 3-1: condition: Sickly == 2

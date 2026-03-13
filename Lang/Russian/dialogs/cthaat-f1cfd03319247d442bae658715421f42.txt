@@ -1,9 +1,9 @@
 ﻿# chaat
 # ----- page 0 -----
 #condition CT == 1 goto page2
-I am a camera with its shutter open, \.quite passive, \.recording, \.not thinking.
+Я камера с открытым затвором, \.совсем пассивная, \.просто записываю, \.не думая.
 .......
-Please do not break my focus While I watch.
+Пожалуйста, не сбивай мой фокус, пока я смотрю.
 #exit
 # -------------------
 
