@@ -1,15 +1,15 @@
 ﻿# Kappa
 # ----- page 0 -----
 #condition kap == 1 goto next
-Woah lady, ].you reek of cigarettes. \.How are you so nimble if you chain smoke all day? \.I don’t get it.
-A real gift you got there! \.Cherish it for sure. \.I wonder when I’ll get my gift, \.feels like I’ve been waiting a long freakin’ time though.
-Wait- \.I get it now. \.Us being friends is the gift, ain’t it?
-Guess so! | Do you typically insult friends?
+Воу, дамочка, от тебя разит сигаретами. \.Как ты вообще можешь быть такой шустpой, если дымишь целый день? \.Я не врубаюсь.
+Тебе достался реальный подарок! \.Береги его как следует. \.Интересно, когда я получу свой подарок, \.как будто я его итак жду чертовски долго.
+Погоди- \.Я всё поняла. \.Ты моя подруга, и это и есть мой подарок, не так ли?
+Всё так! | А ты часто оскорбляешь друзей?
 #
 # next: condition: kap == 1
 # choice: Guess so!
 # choice: Do you typically insult friends?
-Forget my little observation, \.that’s all water under the bridge now! \.Me and you meeting is destiny, \. I can feel it! \.Though i’m sure you meet new folks all the time.
+Забудь, это мои небольшие наблюдения, \.не будем это дальше мусолить! \.Наша встреча - это судьба, \.я чувствую это! \.Хотя ты, наверное, постоянно встречаешься с новыми ребятами.
 #exit
 # -------------------
 
@@ -17,9 +17,9 @@ Forget my little observation, \.that’s all water under the bridge now! \.Me an
 #condition kap == 2 goto 2
 #
 # from page 1
-Hey you know that tall as heck Cherub lady? \.she’s looking for a ranch hand, maybe you could lend her a hand.
-Dont really know exactly what the job entails but im sure you can be of service to her, \.ya know? \.you just seem wise as hell.
-There’s lil treats that appear all around the naraka now that’s expanded, \.you could probably feed it to those on the ranch I bet!
+Эй, ты знаешь ту чертовски высокую даму-херувима? \.Она ищет помощника на ранчо, может, ты бы ей подсобила.
+Не особо в курсе, что там за работа такая, но уверен, ты бы ей пригодилась, \.ну ты понимаешь? \.Ты просто выглядишь чертовски мудрой.
+Теперь, когда Нарака расширилась, повсюду стали появляться маленькие вкусняшки, \.держу пари, ими можно было бы кормить тех, кто на ранчо!
 #exit
 # -------------------
 
@@ -27,11 +27,11 @@ There’s lil treats that appear all around the naraka now that’s expanded, \.
 #condition kap == 3 goto 3
 #
 # from page 2
-A small pickle smelling creature accused ME of smelling fowl. \.who the hell does she think she is? \.I bathe daily in my pond, \,ain’t nothin’ but the truth there. 
-I gots a feelin nothing good comes from being around her- no ma’am. \.She oozes self destruction. 
-Reminds me, \.I met her in this grand library called the Bhool Bhulaiyaa. \.I was amazed by all I could read there. \.but pickle girl was watching short form videos on full volume! 
-She laid on her back slapping her belly giggling like a seal. \.I’ve never been annoyed by such abhorrent acts before but I feel I was close to discovering something important….
-I’ve no clue how to return to that place. \.could such an agent of chaos be sent to prevent me from discovering the truth?
+Какое-то мелкое существо, пахнущее маринованными огурцами, сказало, что это Я воняю как дичь. \.Да кем она себя, мать её, возомнила? \.Я каждый день моюсь в своём пруду, \,и это чистая правда. 
+У меня прям чуйка, что пока она рядом не будет ничего хорошего- нет, мэм. \.От неё так и прёт саморазрушением. 
+Reminds me, \.Я встретил её в великой библиотеке под названием Бхул Бхулайя. \.Я обалдел от того, сколько там всего можно почитать. \.А эта огуречная девка смотрела короткие видосы на полной громкости! 
+Она валялась на спине, хлопала себя по пузу и ржала, как тюлень. \.Меня ещё никогда так не бесили настолько мерзкие выходки, но я чувствовал, что был уже близок к тому, чтобы открыть что-то важное...
+А сейчас я понятия не имею, как вернуться в это место. \.could such an agent of chaos be sent to prevent me from discovering the truth?
 #exit
 # -------------------
 
@@ -39,13 +39,13 @@ I’ve no clue how to return to that place. \.could such an agent of chaos be se
 #condition kap == 4 goto 4
 #
 # from page 3
-In kindergarten while lining up to go outside i looked at the back of this kids hair and had the sudden urge to eat all his hair so I just bit down and started chewing.
-That was the moment I got banished to the pond, \.a really unfortunate set of events that has been. \. Kids do dumb stuff all the time though so can’t they cut me a break?
-What about you? \.I bet you’ve done dumb things as a kid!
-Of course.... | ehhh no.
-Tomorrow: A kind woman once offered me a slice of watermelon long ago.
-When I had gone home and explained the generosity to my family they told me that woman was none other than the muse of tragedy. 
-I regret nothing, \,it was very tasty.
+В детсаду, когда мы строились на улицу, я уставился на затылок одного пацана и вдруг жутко захотел сожрать все его волосы, ну я и вцепился зубами и начал жевать.
+С этого самого момента меня и сослали в пруд, \.вот уж правда крайне неудачное стечение обстоятельств. \.Но дети же постоянно творят тупую херню, так неужели нельзя было сделать мне поблажку?
+А что насчёт тебя? \.Готов поспорить, ты тоже в детстве творила всякую тупые штуки!
+Конечно.... | Эээ, нет.
+Завтра: Одна добрая женщина однажды угостила меня ломтиком арбуза.
+Когда я вернулась домой и рассказала семье о её доброте, мне сказали, что та женщина была не кем иным, как музой трагедии.
+Ни о чём не жалею, \.это было очень вкусно.
 #exit
 # -------------------
 
@@ -53,9 +53,9 @@ I regret nothing, \,it was very tasty.
 #condition kap == 5 goto 5
 #
 # from page 4
-There is a card game that acts as a pass time round here, \.lots of folks play it but I’ve never understood it. \.regardless, \.it’s kinda cool to collect them! 
-The guy who made the game made a card of EVERYONE. \.kinda creepy if you ask me. \.I wouldn't mind having a card of myself though. 
-I did see a card of you too, \.did you consent to this? \.I don’t remember doing so. \.The creator of the game seemingly vanished once the naraka expanded.
+Тут есть одна карточная игра, которой народ убивает время, \.куча челов в неё рубится, но я так её и не понял. \.Несмотря на это, \.собирать эти карты вроде как прикольно! 
+Парень, который создал эту игру, сделал карточки про КАЖДОГО. \.Если хочешь знать моё мнение, это довольно крипово. \.Хотя я бы не отказался и от карточки с собой. 
+Кстати, я видел карточку даже с тобой, \.ты вообще соглашалась на это? \.Я вот не помню, что делал это. \.Создатель этой игры, похоже, просто исчез, как только Нарака расширилась.
 #exit
 # -------------------
 
