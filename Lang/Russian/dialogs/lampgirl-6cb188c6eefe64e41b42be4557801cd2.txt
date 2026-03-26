@@ -1,10 +1,10 @@
 ﻿# 
 # ----- page 0 -----
 #condition Lamp == 1 goto 2
-Can you hear me? \.I will not dim.
-The greatest glimpse of light, with your back to the wall.
-I will not dim! \.Can you hear me! \.god!
-Oh, \.Tomorrow. Sorry I was talking to someone else.
+Ты меня слышишь? \.Я не погасну.
+Величайший отблеск света, когда ты прижата спиной к стене.
+Я не погасну! \.Ты меня слышишь! \.Боже!
+Ой, \.Завтра. Прости, я разговаривала кое с кем другим.
 #exit
 # -------------------
 
@@ -12,19 +12,19 @@ Oh, \.Tomorrow. Sorry I was talking to someone else.
 #condition Lamp == 2 goto page2
 #
 # from page 1
-Tomorrow, \.you're back again? \.do you want to come with me to see something?
-Yes | No
-How wonderfully bright it is here! \.places like this used to never have existed!
-What could have possibly changed to allow such wonders to appear!
-I understand you seek something, \.correct? \.oh what a long distance run around you must be on.
-You've such bright eyes, Tomo. \.I do enjoy spending time with you. 
-Say, \.if your name is tomorrow then surely there must be a yesterday?
-..... | Nah | She's no longer around.
+Завтра, \.ты снова вернулась? \.Хочешь сходить со мной кое-что посмотреть?
+Да | Нет
+Как же здесь удивительно светло! \.Раньше таких мест попросту не существовало!
+Что же могло измениться, чтобы подобные чудеса вообще стали возможны!
+Я так понимаю, ты что-то ищешь, \.верно? \.Ох, какой же долгий путь тебе, должно быть, приходится проделывать.
+У тебя такие яркие глаза, Зава. \.Мне очень нравится проводить время с тобой. 
+Скажи, \.если тебя зовут Завтра, значит, где-то должно быть и Вчера?
+..... | Неа | Она больше не здесь
 #
 # choice: .....
 # choice: Nah
 # choice: She's no longer around.
-oh... \.Oh my days.
+Ох... \.Боже мой.
 #exit
 # -------------------
 
@@ -32,9 +32,9 @@ oh... \.Oh my days.
 #condition Lamp == 3 goto 3
 #
 # from page 2
-My Bright girl, \.you’re back! \.Oh how I wonder how you’ve been! 
-Things could be brighter for me, \.you see. \.an inconspicuous barrel has been appearing around me as of late. \. Ever since then my belongings magically vanish.
- The owner of the barrel continues to elude me. \. I’ve yet to even discover who has been placing this container.  
+Моя яркая девочка, \.ты вернулась! \.Ох, мне так интересно, как у тебя дела! 
+У меня, знаешь ли, \.всё могло бы быть и посветлее. \.В последнее время рядом со мной стала появляться какая-то неприметная бочка.\. И с тех самых пор мои вещи волшебным образом стали исчезать.
+Хозяин этой бочки всё ещё ускользает от меня. \.Я даже до сих пор не выяснила, кто вообще подбрасывает сюда этот контейнер.  
 #exit
 # -------------------
 
@@ -42,10 +42,10 @@ Things could be brighter for me, \.you see. \.an inconspicuous barrel has been a
 #condition Lamp == 4 goto 4
 #
 # from page 3
-Tomorrow, \.Have you considered teaching others in your agile ways? \.I do wish I could bounce as joyously as you. 
-Before memories had begun to leak into the naraka, \.the halls were more confined. \.this allowed for movement that felt more like walking in aimless circles.
-It is thanks to that muse and her golem that we can express such freedoms today. \.Thought the need for my lamp has since diminished. Yes, \.I am now unemployed. 
-The sun feels so warm now that it shines much more often, \. This is true freedom I suppose.
+Завтра, \.ты не думала учить других своей ловкости? \.Мне бы тоже хотелось скакать так же радостно, как ты. 
+До того как в Нараку начали просачиваться воспоминания, \.залы были куда теснее. \.Из-за этого любое движение больше напоминало бесцельное хождение по кругу.
+Именно благодаря той музе и её голему сегодня мы можем наслаждаться такой свободой. \. .Хотя нужда в моей лампе с тех пор заметно уменьшилась. Да, \.теперь я безработная. 
+Солнце теперь кажется таким тёплым, раз уж оно светит куда чаще. \.Полагаю, это и есть настоящая свобода.
 #exit
 # -------------------
 
@@ -53,9 +53,9 @@ The sun feels so warm now that it shines much more often, \. This is true freedo
 #condition Lamp == 5 goto 5
 #
 # from page 4
-I looked at the moon the other day and a white rabbit looked back at me. \.I believe its name was Usagi. \.A bland name for a rabbit no?
-Regardless, \.I flashed my light at him, and he flashed back. \.something tells me many things behind the scenes of our current location are thanks to him. 
-I did once hear stories of a small pup on the moon becoming a rabbit. \.But how does a dog become a rabbit?
+На днях я смотрела на луну, и белый кролик посмотрел на меня в ответ. \.Кажется, его звали Усаги. \.Скучноватое имя для кролика, тебе не кажется?
+Как бы то ни было, \.я мигнула ему своим светом, и он мигнул в ответ. \.Что-то подсказывает мне, что многим из того, что происходит за кулисами этого места, мы обязаны именно ему.
+Я однажды слышала истории о маленьком щенке на луне, который стал кроликом. \.Но как собака вообще может стать кроликом?
 #exit
 # -------------------
 
@@ -63,9 +63,9 @@ I did once hear stories of a small pup on the moon becoming a rabbit. \.But how 
 #condition Lamp == 6 goto 6
 #
 # from page 5
-I find the peace rather odd, \.don’t you? \.Many who displayed hostilities before the towers creation are seemingly pacified.  
- Anemia seems much healthier these days as well, \.I do wonder what has changed. I mean she does have occasional fainting spell but nothing terrible.   
-Outside of the tower seems to have fallen on time of peace, \.for now.  It is suspected that something is stirring within and for those drawn to it, \.though I’m at a loss as for what.
+Мне этот мир кажется довольно странным, \.а тебе? \.До появления башен многие здесь проявляли враждебность, но теперь они все будто бы успокоились.  
+Анемия в последнее время тоже выглядит куда здоровее, \.и мне интересно, что именно изменилось. У неё, конечно, всё ещё случаются редкие обмороки, но ничего сильно страшного.   
+Снаружи башни, похоже, настало время покоя, \.по крайней мере пока. Есть подозрение, что внутри что-то пробуждается, как и в тех, кто к ней тянется, \.хотя я и сама не понимаю, что именно.
 #exit
 # -------------------
 
