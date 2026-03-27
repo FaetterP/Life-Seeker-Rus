@@ -1,7 +1,6 @@
 ﻿# Cherub
 # ----- page 0 -----
-#condition Cherub1 == 1 goto Cherub2-1
-#condition Cherub1 == 2 goto cherub 3-1
+#condition Cherub == 1 goto page
 Ой\. это ты!\. Привет, Завтра....
 Мы знакомы? | Привет?
 #
@@ -19,8 +18,23 @@
 Ох,\. Зава... Не смотри так задумчиво. 
 Может быть, скоро ты вырастешь ещё больше! Ты просто можешь быть позднецветущей!
 #exit
+# -------------------
+
+# ----- page 1 -----
+#condition Cherub == 2 goto page2
 #
-# Cherub2-1: condition: Cherub1 == 1
+# from page 1
+Tomo, \.there is something I could use your help with. \.You see, \.there is a small ranch where I care for those in need, \. Just as Golem had done for me. \.
+Though to be honest, \..I am struggling to do this alone. \.I know you are a caring soul, perhaps you can lend me a hand some time? 
+It mostly involves feeding and scheduling. \.Helping our peers grow strong to compete in various tournaments. \.It requires a caring hand such as yours, \.I know you are capable of doing well.
+If you are willing to help me, please meet me at your house. \.I can fill you in more there.
+#exit
+# -------------------
+
+# ----- page 2 -----
+#condition Cherub == 3 goto 3
+#
+# from page 2
 Ой,\. Зава! Проведёшь со мной время?
 Да  | Пока нет
 #exit
@@ -35,8 +49,11 @@
 Я хочу почувствовать эти вещи, \.Зава. \. Как некогда мужчина и женщина сделали то же самое на своей земле. \.Можно сказать, это то яблоко, которое меня искушает.
 Если Ева вкусила яблоко, \.и это привело человека к такому концу.... \.Что случится, если тебя будут искушать тем, что находится по ту сторону стены?
 #exit
+# -------------------
+
+# ----- page 3 -----
 #
-# cherub 3-1: condition: Cherub1 == 2
-Ой, \.привет ещё раз, Зава!
+# from page 3
+.....
 # -------------------
 

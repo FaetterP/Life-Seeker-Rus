@@ -1,5 +1,35 @@
 ﻿# Peter
 # ----- page 0 -----
-Питер!!!!!!!!
+#condition peter == 1 goto 1
+Jo, \.griaß di du sportsbengel du. \.Tomo isch din Name gell? \.Bi üs set ma dass da Morga an Tag der Nüchternheit isch… \.Woasch eh… \.
+I bin o numma mehr da jüngst, \. aberrrr, \.du Tomo, \.din Nama set scho alles dass du am Morga scho guat uskummsch. 
+ You’re fantastisch! \. Da Zititräger hüt hot ma mine Zitig uf Steaga ahegworfa und du, \.i segs da, \. es war da ganze boda eine traurige Sauerei. \. I hope Morgen will change. 
+#exit
+# -------------------
+
+# ----- page 1 -----
+#condition peter == 2 goto 2
+#
+# from page 1
+Grüß Gott! \.Have you ever heard of that greeting? \.But let’s vergessen wir about this topic! \.I still haven’t eaten my Suppe today… \.I don’t like soup. 
+.I reject eating it. \.I am scared. \. Angst… \.Ich habe tiefergreifende Angst, \.dass wenn i meine Suppe net iss. \.etwas Schreckliches passieren kann. \. You don’t want to be scared right? \.Tomo? 
+#exit
+# -------------------
+
+# ----- page 2 -----
+#condition peter == 3 goto 3
+#
+# from page 2
+You’re soooo fantastisch, \.Tomo!!! \.You float like a white diamond up in the blue blue sky. \.Ach, \.mir wird schon so blau. \.Mir wird am meisten blau vor den Augen when i climb up the stairs. 
+I have this wunderbarer joy in me when I climb up the stairs. \. I miss climbing up the stairs back in my hometown. \.There was a stair called the “Himmelstreppe”. 
+You wanna know what that means? \.Heavenstairs. \.But as a kid I hated those stairs, \.because it took such a long time to climb them up. \. 
+Mir wurde unglaublich übel am Ende… \.Da ich eben nie Suppe geschlürft habe… \.That’s why Tomo, \.eating the Suppe would make you fantastisch blue! 
+#exit
+# -------------------
+
+# ----- page 3 -----
+#
+# from page 3
+.......
 # -------------------
 

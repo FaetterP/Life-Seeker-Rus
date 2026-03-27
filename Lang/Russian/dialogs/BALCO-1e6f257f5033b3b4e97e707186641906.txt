@@ -1,5 +1,20 @@
 ﻿# BALOO
 # ----- page 0 -----
-бралго
+#condition balco == 1 goto 1
+Yo lady, \.you need a ride?
+yes | no
+Servus, \.Tomo! \.This place makes me miss Wien. \.As a man, \.I’m not here to tell you what to do. \.I could tell you some stories about Vienna. \.All the Wiener i chauffeured back in Vienna, \. All of them wanted to go to the Prater. 
+All roads lead to the Prater. \.We’ve got nothing to do with murder and manslaughter, \.but we’re always up for a bit of Spass. \.If you ever come to Wien. 
+Well, \.you sure are taking your time. \.Are you going to get in or what? 
+I do not bite, \.I will take you wherever the road may lead.
+I came here because I left a Mädchen… \.That’s my opinion really…\.After three weeks I feel uncomfortable without a woman, and after four weeks with one. 
+It’s always been like that. \.Women are a mystery to me. \.So I came here with a watch, \.and myself. \.Na, \.mehr hab’ I net braucht. 
+#exit
+# -------------------
+
+# ----- page 1 -----
+#
+# from page 1
+.....
 # -------------------
 
