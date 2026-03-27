@@ -1,0 +1,106 @@
+﻿# d1
+# ----- page 0 -----
+#condition d1 == 1 goto 1
+parangaricutirimicuaroparangaricutirimicuaroparangaricutirimicuaroparangaricutirimicuaroparangaricutirimicuaro
+Can you say that fast over and over? \.No, \.probably not. \.Takes a LOT OF SKILL!
+How about - Camaron caramelo, caramelo camaron, camaron caramelo, caramelo camaron
+I will rip your arms off if you don't try it.
+Camaron caramelo, caramelo camaron.... | Parangaricutirimicuaro | Uhhh
+#
+# choice: Camaron caramelo, caramelo camaron....
+# choice: Parangaricutirimicuaro
+At least you gave it a shot! ain't too shabby too!
+#
+# choice: Uhhh
+YOU DIDN'T EVEN TRY!
+#exit
+# -------------------
+
+# ----- page 1 -----
+#condition d1 == 2 goto 2
+#
+# from page 1
+OI girl, \.Ya gonna finish that drink or ya gonna stare at it? \.dontcha know it ain’t easy to let your inhibitions go without it? \.Yup lets get nice and loose now after a long ol day.
+Why ya even here anyways? \.something on your noggin?
+A lot on my mind. | I’m trying to feel something again. | this is juice.
+#
+# choice: this is juice.
+That ain’t juice, \.I can smell the whiskey. \.Ain’t no need to fib, \.we all got our reasons. 
+#
+# choice: A lot on my mind.
+# choice: I’m trying to feel something again.
+Aye, \.reasons be reasons I reckon. \.something tantalizing about the emotional aspect of the brew, \.as if it just has the key to hearts. Or I suppose even the key to the depths, \.if that’s your thing.
+Are you an angry drunk, \.eh lady?
+maybe | No way! | GET LOST!
+#
+# choice: GET LOST!
+aye I’m just kiddin’ around…. I guess that answers it. 
+#
+# choice: maybe
+# choice: No way!
+Hmmm…. \.ol Hölzel gonna have to do more investigating before I believe you. 
+ I’m just killin’ time while I wait for my wonderful wife to come pick me up! \.Yup, \.My beautiful Jeanny should be here soon. \.she’s just the sweetest, \.I’ll introduce you two one day!  
+Such a lonely girl in a cold cold world… There’s someone who’s going to need you one day! \.what’s your name lady?
+Tomorrow
+#
+# choice: Tomorrow
+Oh you’ll tell me tomorrow? Uh okay…. \.you are an odd one.
+My name is Tomorrow.
+#
+# choice: My name is Tomorrow.
+Oh. \.That makes you even more odd. \.Anyways, \.I suppose I’ll see you tomorrow.
+#exit
+# -------------------
+
+# ----- page 2 -----
+#condition d1 == 3 goto 3
+#
+# from page 2
+ OI Tomo! \.is that you?\. Oh please you must come meet my wife jeanny! \.Now don’t be shy. \.Jeanny come, come on now. 
+Many years ago, like an eternity. Before the tree of life came to be above that tower. But it was love at first sight. Nobody wanted to understand us. 
+I said to her, \.”let me show you I’m your man jeanny!” \.and from there life's been peachy. People say to me “who knows how long this blessing will hold!” \.I pity them!  
+ Did you know she was on the Titanic when it sank? \.she even survived the grosse Maschinenbrand? \.The blessings grip seems immeasurable. 
+Oh dear, \.I do hope my husband has not talked your ears off to the point of tinnitus. \.he does do that on occasion….  
+ I hear you are rather down trodden, \. seeking some sort of flower. \.I do hope it has nothing to do with that tower that has appeared over the last few years. \. 
+You see we’ve no need for it. \.We have given decadence a prize and We have remained morally superior. Stay far from that place as it attracts nothing but conflict. Dear Tomo, \.your journey should be your own. 
+I suppose we should be on our way, \.our car is here.\.do enjoy your search,\. Tomorrow.
+#exit
+# -------------------
+
+# ----- page 3 -----
+#condition d1 == 4 goto 4
+#
+# from page 3
+AYE! \.We aren’t open. \.you gotta come back later, lady. \.Bikes out of commission so i can’t be dishin out rides right this minute. 
+Admiring the machine are ya? \. Well it's a piece of shit. \.won’t start, over heating caused the apex seals to fail. Stupid shit wankel engines. 
+You see, the corner of the rotor has seals in the way a piston has a piston ring. they wear out and then no more compression and you have to rebuild the motor.  What a freakin joke. 
+Come back maybe never cause I may just give up. 
+Have you ever been stranded in the middle of nowhere? \.Cold, soaked through, wind cutting straight through you like you don’t even matter? \.Nature doesn’t care about you. \.Never did.
+A man can beg for rain, \.food, \.or freedom, \.and never receive it. \.Machines like this are kind of our F-U to the restraints nature has placed upon us. 
+they’re us saying we’re done crawling, \.done begging, \.done getting crushed by something that doesn’t even notice we exist.  
+ Carve our own damn path! \.Nature wants me to carry a 30 rack of beer home on foot? \.NO WAY!  
+YEAHHHH!!! | You are verry passionate. | .....
+We take nature for ourselves! \.Every time I twist that throttle, \.I’m calling on fire and controlled explosions, \.timed down to the millisecond. 
+That’s combustion. \.That’s raw energy, \.the same force that drives storms and lightning, \.locked inside a chamber no bigger than my fist! 
+ Damn I’m getting a little carried away, \.but at least I’m motivated to fix this piece of shit rotary. \.Come see me again soon and I’ll give ya a ride. 
+#exit
+# -------------------
+
+# ----- page 4 -----
+#condition d1 == 5 goto 5
+#
+# from page 4
+you know how much platinum catalytic converters have? \.just hardly enough to justify me stealing this thing! 
+I’ve been trying for days but this broad just drinks herself to sleep right here in the garage! \.She will run in circles crying to amadeus the magic flute, \.chain smoking then curl up and sleep in the sidecar.
+What a pitiful life, \.making my job a lot harder too. \.Stupid drunkard hag.
+.............
+What the hell is that thing, \.some sort of goblin? \.don’t tell me you’ve been living in that barrel this whole time…. 
+#exit
+# -------------------
+
+# ----- page 5 -----
+#
+# from page 5
+It remainds locked.
+# -------------------
+

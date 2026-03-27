@@ -1,16 +1,18 @@
 ﻿# musenew
 # ----- page 0 -----
-#condition Erato == 3 goto 4-1
-#condition Erato == 2 goto 3-1
-#condition Erato == 1 goto 2-1
+#condition Erato == 1 goto 1
 Ohhh my...... \.darling. \.You reak of muse!
 I don't suppose you've been hanging around my sisters, \.have you?
 Oh yes, \.I surely smell Hymnia. \.I hope that naive girl is doing well.
 Is she pestering you to find things she finds beautiful? \.she tends to fixate on such.
 Try not to break her fragile heart, \.kay dear?
 #exit
+# -------------------
+
+# ----- page 1 -----
+#condition Erato == 2 goto 2
 #
-# 2-1: condition: Erato == 1
+# from page 1
 If it isn't the cutest dear Tomo! Oh my how I feel so bad for what you must endure.
 Speaking to my sisters I mean, \.truly an exhausting task that is.
 You see many of us gravitate towards rather.... \.hmmm... \.bland obsessions.
@@ -22,9 +24,12 @@ Perhaps these matters aren't as simple as they seem and I simply can't begin to 
 It would seem I too suffer from this lack of empathy epidemic.
 I can only hope you find what you seek.
 #exit
+# -------------------
+
+# ----- page 2 -----
+#condition Erato == 3 goto 3
 #
-# 3-1: condition: Erato == 2
-....
+# from page 2
 Oh, \.Tomo. \.My dear sister came to visit me recently. \.can you believe that? 
 Yes, \.I had stood above a great lake. \.somtimes it ripples in mysterious ways that can provide great insight.
 She had been watching me from below, \.coincidentally I had decided to loiter where she rests.
@@ -36,5 +41,11 @@ Color me surprised to learn it was her who had constructed the tower! \.I can't 
 it was enjoyable to catch up, \.though I do worry what kind of events will transpire. \.Her drive alludes me.
 Perhaps you could learn something from meeting her.
 #exit
+# -------------------
+
+# ----- page 3 -----
+#
+# from page 3
+.....
 # -------------------
 

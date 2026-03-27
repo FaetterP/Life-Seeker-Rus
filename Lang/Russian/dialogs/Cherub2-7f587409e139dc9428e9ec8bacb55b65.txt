@@ -1,7 +1,6 @@
 ﻿# Cherub
 # ----- page 0 -----
-#condition Cherub1 == 1 goto Cherub2-1
-#condition Cherub1 == 2 goto cherub 3-1
+#condition Cherub == 1 goto page
 Oh\. it's you!\. Hi Tomorrow....
 Do I know you? | Hi?
 #
@@ -19,8 +18,23 @@ Oh yes,\. I supposed I am much taller than you now. \. for someone your age I am
 Oh dear,\. Tomo... Don't look so pensive. 
 Maybe you'll grow even more soon! you could be a late bloomer!
 #exit
+# -------------------
+
+# ----- page 1 -----
+#condition Cherub == 2 goto page2
 #
-# Cherub2-1: condition: Cherub1 == 1
+# from page 1
+Tomo, \.there is something I could use your help with. \.You see, \.there is a small ranch where I care for those in need, \. Just as Golem had done for me. \.
+Though to be honest, \..I am struggling to do this alone. \.I know you are a caring soul, perhaps you can lend me a hand some time? 
+It mostly involves feeding and scheduling. \.Helping our peers grow strong to compete in various tournaments. \.It requires a caring hand such as yours, \.I know you are capable of doing well.
+If you are willing to help me, please meet me at your house. \.I can fill you in more there.
+#exit
+# -------------------
+
+# ----- page 2 -----
+#condition Cherub == 3 goto 3
+#
+# from page 2
 Oh, \. Tomo! will you come spend time with me?
 yes  | not yet
 #exit
@@ -35,8 +49,11 @@ I feel as if this city is devoid of wonders I hear in stories, in comparison our
 I want to feel these things, \.Tomo. \. Just as man and woman once did on their earth. \.You could say the apple has tempted me.
 If eve ate the apple, \.and that is what got man to this conclusion.... \.what transpires when tempted from the other side of this wall?
 #exit
+# -------------------
+
+# ----- page 3 -----
 #
-# cherub 3-1: condition: Cherub1 == 2
-Oh, \.hello again Tomo!
+# from page 3
+.....
 # -------------------
 

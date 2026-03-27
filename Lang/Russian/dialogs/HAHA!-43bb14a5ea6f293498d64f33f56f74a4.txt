@@ -1,1 +1,9 @@
 ﻿# HAHA
+# ----- page 0 -----
+#condition haha == 1 goto ?
+Listen lady, \.this ain’t the way to go about things. \.There AIN’T no more asphodel,\. pick a different flower to look for!  \.why not settle for a rose or a nice forget me not! 
+I know a wonderful field of forget me not, \.I visit it after work all the time! \.Hell you could probably grow your own meadow with how abundant they are.
+I should probably tell you this, \.but the way you run makes me laugh. \.oh no lady don’t change it, \.that’s what makes you who you are yeah?
+Think of all the folks whose day you made running like a silly goose like that!
+# -------------------
+

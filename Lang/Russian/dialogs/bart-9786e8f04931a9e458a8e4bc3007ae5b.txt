@@ -1,14 +1,15 @@
 ﻿# Bart
 # ----- page 0 -----
-#condition Bart == 4 goto 5-1
-#condition Bart == 3 goto 4-1
-#condition Bart == 2 goto Bart 3-1
-#condition Bart == 1 goto bart 2-1
+#condition Bart == 1 goto 1
 Oh... you are the nimble one I see running about. \.I wish I could be so nimble.
 A word of advice for you, \. going back the way you came may not lead to where you think it should. 
 #exit
+# -------------------
+
+# ----- page 1 -----
+#condition Bart == 2 goto 2
 #
-# bart 2-1: condition: Bart == 1
+# from page 1
  When we think of numbers we think of vast seas of zeros, \.dreaming to swim in this pool of excess. 
 Excess what?\. have you wondered that?\. Watermelon?\. apples?\. meats or money?\.dried cheese?
 What about those who think of small numbers.\. 3 the magic number,\ .a tripod, \ .a man a woman and a baby,\. the heart the brain and the body, \. a triangle.
@@ -16,8 +17,12 @@ What about those who think of small numbers.\. 3 the magic number,\ .a tripod, \
 And yet I only wish to stop before the end.\. where are the zeros to saturate this existence?
 would they do anything? \. 27 seems like a great place to stop counting.\. Though I read many just drop silent between 50 and 60. 
 #exit
+# -------------------
+
+# ----- page 2 -----
+#condition Bart == 3 goto 3
 #
-# Bart 3-1: condition: Bart == 2
+# from page 2
 Oh it's you! Will you join me on a stroll?
 Sure | Not now
 #exit
@@ -29,8 +34,13 @@ recently out of the naraka emerged a woman known as the Shekhinah to some.
 In her plight she brought forth a tree of life  that served as a sign that the Kabbalah still has some power over the conduct of man. 
 Togther her and her golem brought forth a great tower,\. an exit for those who wish to destroy their ego.
 Ever since then our city has expanded, yet the memories of those who were here grow distant.
+#exit
+# -------------------
+
+# ----- page 3 -----
+#condition Bart == 4 goto 4
 #
-# 4-1: condition: Bart == 3
+# from page 3
 Oh... hello
 It's nice here, \.I hope. \.I like to come here to think....
 Do you wish you could remember your past life?
@@ -43,8 +53,11 @@ Though I do hope you realize the significance of this yellow asphodel.
 I should probably get going, \.I think I will talk with my friend today.
 Don't worry, \.he loves you as well.
 #exit
+# -------------------
+
+# ----- page 4 -----
 #
-# 5-1: condition: Bart == 4
-Hmmm
+# from page 4
+Hmmm...
 # -------------------
 
