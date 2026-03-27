@@ -8,7 +8,8 @@ https://boosty.to/faetterp
 
 ---
 
-![image](https://github.com/user-attachments/assets/8195b281-758b-4b19-bb2e-69d4ef49b8d2)
+![image](https://github.com/user-attachments/assets/bff2f96e-d4e8-448a-97bf-c2ae25ccbbc6)
+![image](https://github.com/user-attachments/assets/895229cf-fb10-4c58-a1ca-9ce4b4c192d6)
 
 ## Установка
 
@@ -19,6 +20,7 @@ https://boosty.to/faetterp
 2) Открыть папку с игрой.  
 
 3) Из архива нужно переместить папку `Lang` в папку с игрой. Замены файлов **не будет**.  
+![image](https://github.com/user-attachments/assets/fe1e1cf9-24cf-4465-a910-30c425b74727)
 
-4) После этого в настройках появится выбор языка.
+4) После этого в настройках появится выбор языка.  
 ![image](https://github.com/user-attachments/assets/f582058f-e9ff-4f24-b043-5073ce6c2737)
