@@ -8,3 +8,45 @@
 # math=1+2 = 3
 
 # Add your translations here:
+
+pause.title=PAUSED
+pause.start=Start
+pause.settings=Settings
+pause.restart=Restart Level
+pause.home=Go Home
+pause.exit=EXIT
+pause.sprint=Sprint toggle
+pause.vsync=Vsync On
+pause.framerate=Frame Rate:
+pause.font=Dialog Font:
+pause.save=Save Settings
+pause.settings=Settings
+
+ranch.age=Age
+ranch.day=Day
+ranch.fortification=Fortification
+ranch.hated=Hated Food
+ranch.loved=Loved Food
+ranch.health=Health
+ranch.intelligence=Smarts
+ranch.love=Love
+ranch.nature=Nature
+ranch.rest=Do you want to rest this week?
+ranch.speed=Speed
+ranch.strength=Strength
+ranch.item=Item
+ranch.feed=Feed
+ranch.rest=Rest
+ranch.elemental=Elemental
+ranch.scissors=Scissors
+ranch.paper=Paper
+ranch.rock=Rock
+ranch.hp=HP:
+ranch.no=No
+ranch.yes=Yes
+ranch.info=Info
+ranch.back=Back
+ranch.exit=Exit
+ranch.use=Use
+ranch.battle=Battle
+ranch.notYet=You can't go to the ranch yet.
