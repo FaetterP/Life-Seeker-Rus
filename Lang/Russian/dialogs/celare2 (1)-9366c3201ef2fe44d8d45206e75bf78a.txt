@@ -1,10 +1,10 @@
 ﻿# CE
 # ----- page 0 -----
 #condition celare == 1 goto 1
-Oh it’s you! \.You remind me a lot of myself you know, \.have you thought to stop and smell the roses?  \.It can be rather nice, you know just slowing down a bit. 
-I was never much of a long jumper though, \.you’ll have to teach me that move. \. I Was more of like a shark…. \.Yeah just runnin and runnin annnnnd….
-Maybe that’s why they picked you over me! \.Some people think me and you are even related, \.but that’s rather silly.
-I could have blown their macho macho mind away! \.But While floating down the river nile I had some thought that maybe it was time for me to slow my roll. 
+Ой, это ты! \.Знаешь, ты очень напоминаешь мне саму себя. \.Ты никогда не думала остановиться и понюхать розы? \.Иногда сбавить темп бывает очень здорово. 
+Я, правда, никогда не была мастером по прыжкам в длину, \.так что тебе придётся научить меня этому движению. \.Я скорее больше как акула. \.Ага, просто бежишь, бежишь иииии...
+Может, поэтому они и выбрали тебя, а не меня! \.Некоторые вообще думают, что мы с тобой родственницы, \.но это достаточно глупо.
+Я бы им просто крышу снесла, всем этим мачо-мачо типам! \.Но пока я плыла себе по Нилу, мне вдруг пришло в голову, что, может, пора уже чуть притормозить. 
 #exit
 # -------------------
 
@@ -12,9 +12,9 @@ I could have blown their macho macho mind away! \.But While floating down the ri
 #condition celare == 2 goto 2
 #
 # from page 1
-I was listening to my cassette player the other day but it was all just ambient and it put me in a strange trance. \.Not for me, \.no ma’am, \.where are the riffs? \. If I’m out and about I want to bash my wig to sick riffs! 
-Yeah I tweak the heck out if there are no heavy sick riffs. Less im lookin’ for love then I’ll play something more chill…. People can’t handle my sick riffs.
-Ayuma thinks I’m a total weirdo, \.but think about it. Running a marathon across the naraka and bashing to sick riffs… \.yeah that rules.
+На днях я слушала свой кассетный плеер, но там был всего лишь эмбиент, и он погрузил меня в странный транс. \.Не, такое не по мне, \.нетушки, \.где нормальные риффы? \.Если уж я куда-то выбралась, я хочу отрываться под убойный рок! 
+Ага, меня прям начинает трясти, если в треке нету тяжёлых убойных риффов. Ну, только если я не ищу любовь, тогда могу поставить что-то поспокойнее... Люди не вывозят мои жёсткие риффы.
+Аюма считает меня полной чудачкой, \.но ты только подумай. Бежать марафон через всю Нараку под убойные риффы... \.Это же просто офигенно.
 #exit
 # -------------------
 
@@ -22,9 +22,9 @@ Ayuma thinks I’m a total weirdo, \.but think about it. Running a marathon acro
 #condition celare == 3 goto 3
 #
 # from page 2
-Flowers…. \.flowers….. \.flowers. \. You are looking for one yes? \. Have you considered looking underground?
-Before the expansion asphodel appeared in abundance underground. \.it was rather strange how all of a sudden they became so common only to vanish once more.
-I do wonder what Hymnia wants with such a flower. \.From my understanding she was the muse of hymns and eloquence, \.hell she even used to work as a mime! \.yes pantomime style theater! \.her motives elude me, \.does she just find it pretty? \.Junge Roemer!
+Цветы... \.Цветы.... \.Цветы. \.Ты ведь ищешь один из них, да? \.Не думала поискать под землёй?
+До расширения города асфодели в изобилии росли под землёй. \.Довольно странно, как они внезапно появились повсюду, а потом снова исчезли.
+Интересно, зачем Гимнии вообще понадобился такой цветок. \.Насколько я понимаю, она была музой гимнов и красноречия, \.чёрт, да она даже мимом раньше работала! \.Да, прямо в театре пантомим! \.Её мотивы ускользают от меня, \.может, она просто находит его красивым? \.Junge Roemer!
 #exit
 # -------------------
 
@@ -32,7 +32,7 @@ I do wonder what Hymnia wants with such a flower. \.From my understanding she wa
 #condition celare == 4 goto 4
 #
 # from page 3
-3 girls in sandals ran up to me the other day claiming to be my biggest fans, \.Don’t you know you can’t sprint in sandals! \.no fan of mine should wear such a thing!
+На днях ко мне подбежали 3 девчонки в сандалиях и заявили, что они мои самые большие фанатки. \.Разве ты не знаешь, что в сандалях бегать нельзя! \.Ни один мой фанат не должен носить такое!
 You gotta be ready to go at the drop of a dime!
 #exit
 # -------------------
