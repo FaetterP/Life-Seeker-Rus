@@ -1,4 +1,5 @@
 ﻿# Beetle
+# fa6c5fd4 e95b23b1 10e0ef77 d921cbf7 886fcc5c 1524cb98
 # ----- page 0 -----
 #condition beetle == 1 goto page1
 Я похожа на главного героя? \.Думаю, да. 
@@ -10,6 +11,7 @@
 #exit
 # -------------------
 
+# c524ee1b 092e50c9 1a16d6f1 0f7b8d2b f60a2b47 8e361136 6ea9702f 8871eee9
 # ----- page 1 -----
 #condition beetle == 2 goto page2
 #
@@ -27,6 +29,7 @@
 #exit
 # -------------------
 
+# a7ba1afa 0a604798 d3f75e89 f86508f8 fedab20d d02339da
 # ----- page 2 -----
 #condition beetle == 3 goto 3
 #
@@ -40,6 +43,7 @@
 #exit
 # -------------------
 
+# a38f9d12 7714f903 b78568d3 f20bd373
 # ----- page 3 -----
 #condition beetle == 4 goto 4
 #
@@ -51,6 +55,7 @@
 #exit
 # -------------------
 
+# a2bfb582 ff436862 ea1d2798
 # ----- page 4 -----
 #condition beetle == 5 goto 5
 #

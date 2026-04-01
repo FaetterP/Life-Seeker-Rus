@@ -1,4 +1,5 @@
 ﻿# Check var test
+# a328e603 75eccd94 0c99c292 a99489d3
 # ----- page 0 -----
 Это тест переменных.
 #condition GHOST_SPEAK_COUNT == 0 goto speak 0

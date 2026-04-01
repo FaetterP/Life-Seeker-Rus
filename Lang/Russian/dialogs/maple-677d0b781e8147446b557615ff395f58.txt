@@ -1,4 +1,5 @@
 ﻿# maple
+# c7b7ea36 4f4cf98e 53ddf9e1 c34e4037 6d159560
 # ----- page 0 -----
 #condition maple == 1 goto 1
 The new expanded Naraka truly is wonderful, \.but it seems to favor the nimble. \.lots of tough to reach places around. 
@@ -9,6 +10,7 @@ Memories and dreams have begun to leak out into the naraka causing massive expan
 #exit
 # -------------------
 
+# 06eb8a4b 7e3da02a 8fe29d1f 3b5d2b1f 91aafcdd
 # ----- page 1 -----
 #condition maple == 2 goto 2
 #
@@ -21,6 +23,7 @@ Can the inanimate begin to feel? \.The lines between man and machine blur with e
 #exit
 # -------------------
 
+# fc1106e8 049b3aea f5d70388 f4fb001e
 # ----- page 2 -----
 #condition maple == 3 goto ?
 #
@@ -32,6 +35,7 @@ There was even an old tale of Pythagoras hearing blacksmith's hammers making dif
 #exit
 # -------------------
 
+# 0452ad49 37911d27 e700e594
 # ----- page 3 -----
 #condition maple == 4 goto 4
 #
@@ -42,6 +46,7 @@ These devices will be the death of us, \.you can bring your soul to life in many
 #exit
 # -------------------
 
+# fc1315cc 4b379adf 13b08ca6 23243682 41ea1951 3169bb8d
 # ----- page 4 -----
 #condition maple == 5 goto 5
 #

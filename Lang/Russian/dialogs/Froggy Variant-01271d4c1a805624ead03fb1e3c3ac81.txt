@@ -1,4 +1,5 @@
-﻿# froggt
+﻿# froggy 0
+# 19b5701c 65d95cb3 81e09eb5 811c9dc5
 # ----- page 0 -----
 #condition Froggy == 1 goto 2-1
 Знаешь,\. ты гораздо проворнее, чем кажешься.

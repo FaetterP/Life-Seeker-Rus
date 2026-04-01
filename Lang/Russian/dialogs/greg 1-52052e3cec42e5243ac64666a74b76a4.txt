@@ -1,4 +1,5 @@
-﻿# 
+﻿# greg
+# 1abb3b71 5c1908b9 02ed23eb 9a1ea3b9 f4a48c5a 0321f54f 1f97e634
 # ----- page 0 -----
 #condition greg == 1 goto p1
 Ой, \.привет! \.Хорошего утречка, соседушка.
@@ -11,6 +12,7 @@
 #exit
 # -------------------
 
+# 0ca650c0 711dd3e0 12c8b4c3 66381916 12c8b4c3 8556bfb2
 # ----- page 1 -----
 #condition greg == 2 goto 2
 #
@@ -24,6 +26,7 @@
 #exit
 # -------------------
 
+# 02efba7a c0b5a4b3 2347e4d4
 # ----- page 2 -----
 #condition greg == 3 goto 3
 #
@@ -34,6 +37,7 @@
 #exit
 # -------------------
 
+# ddc881fc f01fbdd5 0ec210a6 b654e86b 3a7aac7d aa588892
 # ----- page 3 -----
 #condition greg == 4 goto 4
 #

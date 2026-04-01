@@ -1,4 +1,5 @@
 ﻿# Chiyo
+# 4bf728f2 06a11995 10162533
 # ----- page 0 -----
 #condition chiyo == 1 goto 1
 Yes, \.you'll have to forgive me, \.but I love mysеlf! \.Is that really so bad! \.every friend i’ve met has betrayed me and i’m all I can and will ever be! They refer to me as an egoist.
@@ -7,6 +8,7 @@ Doesn’t matter I suppose. \.Because I'm just an egoist The person who's closes
 #exit
 # -------------------
 
+# ce171c74 5bc60f50 01fd637d 0a225f56
 # ----- page 1 -----
 #condition chiyo == 2 goto 2
 #
@@ -18,6 +20,7 @@ anyways I gotta go!
 #exit
 # -------------------
 
+# 1fdaa472 b23edad3 9e51c012 b364394b
 # ----- page 2 -----
 #condition chiyo == 3 goto 3
 #

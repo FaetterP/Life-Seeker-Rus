@@ -1,4 +1,5 @@
 ﻿# Hymnia
+# 21c402d0 69fff028 23f9b7eb 50f30abd aee522ad d76cbed4 78a2c920 50a8a88c 6e78ec85 9a55c182 eb4e0e22 7f453eda b29d6b3b 7b5ff33b 1ae51e1e 30afdf67 82051c25 f941d528 0e0f9e81 811c9dc5
 # ----- page 0 -----
 #condition HymniaPost == 1 goto hymnia2-1
 The world feels so vast up here, \.don't you think?

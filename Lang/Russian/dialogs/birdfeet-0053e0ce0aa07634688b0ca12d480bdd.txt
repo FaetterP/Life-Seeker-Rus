@@ -1,4 +1,5 @@
 ﻿# bird
+# 8ae392ad 38ad062e e4f246e3 e06867df
 # ----- page 0 -----
 #condition Crow == 1 goto 1
 Отойди от меня.
