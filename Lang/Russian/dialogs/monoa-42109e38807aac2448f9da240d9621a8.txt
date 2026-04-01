@@ -1,4 +1,5 @@
 ﻿# Monao
+# 6cf7d8bf 270448c7 81b90523 94d89a0c 11bb4cf7 c9ea88a7 5adf2ac1 448d7b49 e7687bd7 45d06957 b4af834a
 # ----- page 0 -----
 #condition Monoa == 1 goto ?
 Can I show you something?

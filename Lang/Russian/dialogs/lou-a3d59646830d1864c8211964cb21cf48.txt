@@ -1,4 +1,5 @@
 ﻿# lou
+# 181f8abe f1c483e3 76073a7e 36409110 da463a76 ad4889d4 00053ffa 4b4bffd0 268b1daa 6e7a0a27 c636e168 29b1cc6f 7483000a 1268877c
 # ----- page 0 -----
 #condition lou == 1 goto page1
 Have you seen it? \.the new grand spire? \.I can take you there if you wish.
@@ -21,6 +22,7 @@ I'll try to keep my eyes peeled for that flower, \.Don't you worry.
 #exit
 # -------------------
 
+# da57d77f ae1429b9 9ba7adf3 f9bb9641 98f7e68d
 # ----- page 1 -----
 #condition lou == 2 goto p2
 #

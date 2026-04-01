@@ -1,4 +1,5 @@
 ﻿# Peter
+# c0da1363 c78c7e69 be16425c
 # ----- page 0 -----
 #condition peter == 1 goto 1
 Jo, \.griaß di du sportsbengel du. \.Tomo isch din Name gell? \.Bi üs set ma dass da Morga an Tag der Nüchternheit isch… \.Woasch eh… \.
@@ -7,6 +8,7 @@ I bin o numma mehr da jüngst, \. aberrrr, \.du Tomo, \.din Nama set scho alles 
 #exit
 # -------------------
 
+# bef52c66 04f10bbb
 # ----- page 1 -----
 #condition peter == 2 goto 2
 #
@@ -16,6 +18,7 @@ Grüß Gott! \.Have you ever heard of that greeting? \.But let’s vergessen wir
 #exit
 # -------------------
 
+# 74c63191 7e01f870 e1edcacb 85c5a1ac
 # ----- page 2 -----
 #condition peter == 3 goto 3
 #
@@ -27,6 +30,7 @@ Mir wurde unglaublich übel am Ende… \.Da ich eben nie Suppe geschlürft habe�
 #exit
 # -------------------
 
+# f055e813
 # ----- page 3 -----
 #
 # from page 3

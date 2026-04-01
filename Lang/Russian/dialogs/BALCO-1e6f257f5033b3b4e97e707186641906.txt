@@ -1,4 +1,5 @@
 ﻿# BALOO
+# debcfb60 270448c7 f3182ce7 f53e491a 49c2fef4 1af7f82b de385888 2f11b0ce
 # ----- page 0 -----
 #condition balco == 1 goto 1
 Yo lady, \.you need a ride?
@@ -12,6 +13,7 @@ It’s always been like that. \.Women are a mystery to me. \.So I came here with
 #exit
 # -------------------
 
+# 12c8b4c3
 # ----- page 1 -----
 #
 # from page 1

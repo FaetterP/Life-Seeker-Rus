@@ -1,4 +1,5 @@
-﻿# 
+﻿# Lampgirlwoman
+# a2cf5685 5dbb0293 a0100eeb 24125222
 # ----- page 0 -----
 #condition Lamp == 1 goto 2
 Can you hear me? \.I will not dim.
@@ -8,6 +9,7 @@ Oh, \.Tomorrow. Sorry I was talking to someone else.
 #exit
 # -------------------
 
+# 6df54bb1 06b0cb87 5f22d824 183b125b 7510e18d 89370085 57948559 f8257f17 27767c34
 # ----- page 1 -----
 #condition Lamp == 2 goto page2
 #
@@ -28,6 +30,7 @@ oh... \.Oh my days.
 #exit
 # -------------------
 
+# bbc4d1df 1d39f903 ba7d68b3
 # ----- page 2 -----
 #condition Lamp == 3 goto 3
 #
@@ -38,6 +41,7 @@ Things could be brighter for me, \.you see. \.an inconspicuous barrel has been a
 #exit
 # -------------------
 
+# 36f89a76 ec6fc882 6a38e2a0 f26400d6
 # ----- page 3 -----
 #condition Lamp == 4 goto 4
 #
@@ -49,6 +53,7 @@ The sun feels so warm now that it shines much more often, \. This is true freedo
 #exit
 # -------------------
 
+# c667b916 8b8d3a95 8c1e3335
 # ----- page 4 -----
 #condition Lamp == 5 goto 5
 #
@@ -59,6 +64,7 @@ I did once hear stories of a small pup on the moon becoming a rabbit. \.But how 
 #exit
 # -------------------
 
+# 0413d73d c24e3fdd 2527fa4d
 # ----- page 5 -----
 #condition Lamp == 6 goto 6
 #

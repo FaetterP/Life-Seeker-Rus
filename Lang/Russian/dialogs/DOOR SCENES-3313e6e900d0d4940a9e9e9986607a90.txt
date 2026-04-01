@@ -1,4 +1,5 @@
 ﻿# d1
+# 863dc0aa ab179bae e24073c9 72d79b24 02e2e68b 2f0e50b3 d681e05c
 # ----- page 0 -----
 #condition d1 == 1 goto 1
 parangaricutirimicuaroparangaricutirimicuaroparangaricutirimicuaroparangaricutirimicuaroparangaricutirimicuaro
@@ -16,6 +17,7 @@ YOU DIDN'T EVEN TRY!
 #exit
 # -------------------
 
+# cf8f014f b51b131f 91e96ae9 47c5a65e b6556f4d bc0624ae f571b2f3 a4a050a1 7b1ca48f a1251d97 f74e26d0 c648343c d3aca66b 951af0fb f3c5a226
 # ----- page 1 -----
 #condition d1 == 2 goto 2
 #
@@ -52,6 +54,7 @@ Oh. \.That makes you even more odd. \.Anyways, \.I suppose I’ll see you tomorr
 #exit
 # -------------------
 
+# bcf704bc 16ee1cad 4e61c76a 71e9ed39 09b899f9 6b3fb3a1 6a790d5f f60a34d9
 # ----- page 2 -----
 #condition d1 == 3 goto 3
 #
@@ -67,6 +70,7 @@ I suppose we should be on our way, \.our car is here.\.do enjoy your search,\. T
 #exit
 # -------------------
 
+# c1638b50 e46d5c9c 2ec832d9 653c2d19 27b228e7 cb7401de 76b5e903 1c74de50 9840ed3f 4a2ecf51 d28833e7 0c93e533
 # ----- page 3 -----
 #condition d1 == 4 goto 4
 #
@@ -86,6 +90,7 @@ That’s combustion. \.That’s raw energy, \.the same force that drives storms 
 #exit
 # -------------------
 
+# 1a176d0b dcd6fb64 c0171259 b0e53403 755df260
 # ----- page 4 -----
 #condition d1 == 5 goto 5
 #
@@ -98,6 +103,7 @@ What the hell is that thing, \.some sort of goblin? \.don’t tell me you’ve b
 #exit
 # -------------------
 
+# bdf92cdf
 # ----- page 5 -----
 #
 # from page 5

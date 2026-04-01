@@ -1,4 +1,5 @@
 ﻿# Amarutsu
+# b7b7ca63
 # ----- page 0 -----
 TEST MESSAGE!!! BAAAAAAAAAHH!!!
 # -------------------

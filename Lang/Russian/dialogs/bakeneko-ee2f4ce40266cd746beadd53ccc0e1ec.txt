@@ -1,4 +1,5 @@
 ﻿# neko
+# 8395b5b8 2b445821 b4919668 64a96417 d96d1b9d 60f741bc f2652735 36d13a8c
 # ----- page 0 -----
 #condition Bneko == 1 goto p1
 Aye squirt, \.I'm on the run ya see. A small creature i saw had a delectable treat, \.it was imperative I steal it.

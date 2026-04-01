@@ -1,4 +1,5 @@
 ﻿# musenew
+# 8dfd3b9b e2affaf0 e08d6d61 fb5f68ca 1008bb6c
 # ----- page 0 -----
 #condition Erato == 1 goto 1
 Ohhh my...... \.darling. \.You reak of muse!
@@ -9,6 +10,7 @@ Try not to break her fragile heart, \.kay dear?
 #exit
 # -------------------
 
+# d6a8e726 c38e9100 b013b41e 8290eda7 e6694f80 d6ae017f ac151199 f0bd582d af641453 8ecdb93f
 # ----- page 1 -----
 #condition Erato == 2 goto 2
 #
@@ -26,6 +28,7 @@ I can only hope you find what you seek.
 #exit
 # -------------------
 
+# 7e90b74a 59565950 194d6bac ee264877 36ed2187 99f30531 74a12094 0fc245cc c52bd4e6 194e2610
 # ----- page 2 -----
 #condition Erato == 3 goto 3
 #
@@ -43,6 +46,7 @@ Perhaps you could learn something from meeting her.
 #exit
 # -------------------
 
+# 12c8b4c3
 # ----- page 3 -----
 #
 # from page 3

@@ -1,4 +1,5 @@
 ﻿# CE
+# c9ccfa9b 9f2e729a 87fa2179 c9448aa6
 # ----- page 0 -----
 #condition celare == 1 goto 1
 Oh it’s you! \.You remind me a lot of myself you know, \.have you thought to stop and smell the roses?  \.It can be rather nice, you know just slowing down a bit. 
@@ -8,6 +9,7 @@ I could have blown their macho macho mind away! \.But While floating down the ri
 #exit
 # -------------------
 
+# c8bf21df 0eddacd5 cc985255
 # ----- page 1 -----
 #condition celare == 2 goto 2
 #
@@ -18,6 +20,7 @@ Ayuma thinks I’m a total weirdo, \.but think about it. Running a marathon acro
 #exit
 # -------------------
 
+# f0421cc8 69b66eb1 42a13573
 # ----- page 2 -----
 #condition celare == 3 goto 3
 #
@@ -28,6 +31,7 @@ I do wonder what Hymnia wants with such a flower. \.From my understanding she wa
 #exit
 # -------------------
 
+# 46a80872 ad7d6c71
 # ----- page 3 -----
 #condition celare == 4 goto 4
 #

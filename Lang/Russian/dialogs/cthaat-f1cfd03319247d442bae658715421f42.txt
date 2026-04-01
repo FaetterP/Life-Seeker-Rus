@@ -1,4 +1,5 @@
 ﻿# chaat
+# 03d7cf9e f055e813 4324ba6b
 # ----- page 0 -----
 #condition CT == 1 goto page2
 I am a camera with its shutter open, \.quite passive, \.recording, \.not thinking.

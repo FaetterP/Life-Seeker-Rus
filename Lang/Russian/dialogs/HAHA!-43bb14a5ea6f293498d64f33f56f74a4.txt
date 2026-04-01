@@ -1,4 +1,5 @@
 ﻿# HAHA
+# a491040e f7c8f175 b54039e4 6b5ffb59
 # ----- page 0 -----
 #condition haha == 1 goto ?
 Listen lady, \.this ain’t the way to go about things. \.There AIN’T no more asphodel,\. pick a different flower to look for!  \.why not settle for a rose or a nice forget me not! 

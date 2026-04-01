@@ -1,4 +1,5 @@
 ﻿# caather
+# 614f13cd 99ed53be 7fd3c1cb e2bb3eb5
 # ----- page 0 -----
 #condition Cath == 1 goto p1
 I hear the last cup of coffee is gone. \.now how can this be? \.surely it can't be so!
@@ -8,6 +9,7 @@ In fact I've a plan! \.oh yes, \.I had met a vampire who I think can solve my cr
 #exit
 # -------------------
 
+# b8f2b24c bf2dee8c b421f094 225c1372 cad9a6be 8b9a1367 b50cb93b fadfcc56 59b25d60
 # ----- page 1 -----
 #condition Cath == 2 goto p2
 #

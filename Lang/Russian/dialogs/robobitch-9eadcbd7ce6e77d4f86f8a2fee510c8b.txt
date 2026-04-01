@@ -1,4 +1,5 @@
 ﻿# Urania
+# 7a77741a ac1ea1b4 7c8968d2 126eb30f
 # ----- page 0 -----
 #condition Urania == 1 goto page1
 an umbrella? \.how often do you see it rain? \.Naaaawt much. 
@@ -8,6 +9,7 @@ I know a guy if you're into that kinda thing! \.totally painless too! \.infact I
 #exit
 # -------------------
 
+# 975886d4 75b9f1c6 2edcff4f f9cfae4d 108c2ead c82e0143 3f0733d3 79cea2d4 3bd0c133
 # ----- page 1 -----
 #condition Urania == 2 goto page2
 #
