@@ -2,9 +2,9 @@
 # 4bf728f2 06a11995 10162533
 # ----- page 0 -----
 #condition chiyo == 1 goto 1
-Yes, \.you'll have to forgive me, \.but I love mysеlf! \.Is that really so bad! \.every friend i’ve met has betrayed me and i’m all I can and will ever be! They refer to me as an egoist.
-Did you miss me? \.surely we’ve met since EVERYONE seems to know me…. \. Or heard of me. \.Right? \.oh don’t give me that blank stare.  
-Doesn’t matter I suppose. \.Because I'm just an egoist The person who's closest to me is me. \.That’s what you want to tell me right? \.SCREW you. 
+Да, \.тебе придётся простить меня, \.но я люблю себя! \.Это что, настолько плохо?! \..Все друзья, что у меня были, меня предавали, и в итоге у меня есть только я сама! А они ещё считаю меня эгоисткой.
+Ты скучала по мне? \.Конечно же мы встречались с тех пор как про меня здесь узнал КАЖДЫЙ... \.Или хотя бы слышал. \.Правда ведь? \.Ой, только не смотри на меня таким пустым взглядом.  
+Хотя, наверное, это уже не важно. \.Потому что я всего лишь эгоистка. И у меня нету никого ближе себя. \.ты же мне хочешь сказать именно это, да? \.ДА ПОШЛА ТЫ. 
 #exit
 # -------------------
 
@@ -13,10 +13,10 @@ Doesn’t matter I suppose. \.Because I'm just an egoist The person who's closes
 #condition chiyo == 2 goto 2
 #
 # from page 1
- My character arc is literally the most tragic! \.They should make a movie about me, \.don’t you agree? \.I’ve been trampled, \.conked on the head, \.stitched up and thrown out to pasture! 
-Am I doing something wrong! \.at least you listen to me, \.Tomo! \.In fact I think you are the only one.  
-It’s not like I’d burn my one and only friend ya know…..
-anyways I gotta go!
+Моя сюжетная арка буквально самая трагичная из всех! \.Про меня должны были снять фильм, \.разве ты с этим не согласна? \.Меня растоптали, \.били по голове, \.порвали и просто выбросили! 
+Я действительно что-то делаю не так?! \.По крайней мере ты меня слушаешь, \.Зава! \.На самом деле, я думаю, ты одна такая.  
+Не то что бы я стала сжигать своего единственного друга, ну знаешь...
+Ладно, я пойду!
 #exit
 # -------------------
 
@@ -25,10 +25,10 @@ anyways I gotta go!
 #condition chiyo == 3 goto 3
 #
 # from page 2
-Damn tomo you look restless and like well, \.uh, \.shit. \.You should probably quit smoking. \.Luckily just standing next to me makes you look infinitely better with my healthy glow masking your putrid smoker stench. 
-Also don’t even think about lighting up next to me. \.I’ve seen first hand what that can do to someone of my figure. 
-Had a friend die that way, \.tragic…. \.Yup, \.terrible accident. \.YOU WOULDN’T DO THAT THOUGH!
-In fact it keeps me awake at night that one day someone may just flick their ash my way causing me to burst into some sort of red hot glowing retribution…..
+Чёрт, Зава, выглядишь беспокойно и вообще, \.эм, \.паршиво. \.Тебе бы лучше, наверное, завязывать с курением. \.К счастью, просто стоя рядом со мной, ты выглядишь бесконечно лучше, ведь моё здоровое сияние перебивает твою отвратительную вонь курильщицы. 
+И даже не думай поджигать огонь рядом со мной. \.Я не по наслышке знаю, что это может сделать с кем-то вроде меня. 
+У меня так подруга умерла, \.трагично. \.Ага, \.ужасный несчастный случай. \.ТЫ ЖЕ ТАКОЕ НЕ СДЕЛАЕШЬ!
+Вообще, меня по ночам не отпускает мысль, что однажды кто-нибудь просто стряхнёт пепел в мою сторону, и я вспыхну каким-нибудь раскалённым алым возмездием...
 #exit
 # -------------------
 
