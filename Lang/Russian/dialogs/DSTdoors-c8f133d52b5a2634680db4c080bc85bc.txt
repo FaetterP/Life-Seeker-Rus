@@ -1,0 +1,27 @@
+﻿# Teledoor
+# 749e105f 2d39ee46 08da53c0 46eb5c47 ecb93c21 0be1de8f a74306c1 7e668bda b3d45a1f 7c4b8d4b f90fcac9 660acd3e a73e5867 f2f3cfdb f76b930a 6d98d5b9 68f4c5a2 be43dc97 cf3cb81f 875b32ba
+# ----- page 0 -----
+The sun sets over a cozy camp site...
+Tomo? \. I was wondering when you may return.
+I wish to show you something come morning, \.I think I found what it is you seek.
+I won't spoil the surprise, \.for now lets enjoy the fire and forest.
+I spend most my days camping here now. \.Long ago I had pressed Jophiel to enact a campaign against that in which he saught to avoid. 
+He is far too kind for his own good, \.he refused. \. our campaigning days are over, \.it would seem
+That's right.... \. you never met him, \.have you? \.you two would probably get along.
+We at least have him to thank for these wonderful forests. 
+We should rest before we  travel, \.I'll see you tomorrow..... \.Tomorrow.
+After much time, \.Tomorrow and Uriel awaken to stroll under the morning sun.
+Here, \.This is surely the flower you were looking for.
+They are called forget-me-not, \.planted here by a dear friend.
+A flower of memory, \.care and tenderness. \.I'm sure Hymnia will be pleased.
+I was looking for a yellow flower.
+#
+# choice: I was looking for a yellow flower.
+Oh.... \.I see. \. excuse me then.
+There is a tale of a man falling into a river, tossing these flowers to his companion.
+As the rapids swept him away, \.he shouted "forget me not!"
+At least that is the legend on how they obtained their name. \. Regardless, I hope you can enjoy such a view. \.I will continue searching for your flower.
+Do you see that over there? \. it seems we are being watched.
+Yes, \.a woman in the meadow... \.laughing at us.
+# -------------------
+

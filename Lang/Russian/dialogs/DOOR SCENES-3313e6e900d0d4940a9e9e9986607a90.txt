@@ -103,10 +103,38 @@ What the hell is that thing, \.some sort of goblin? \.don’t tell me you’ve b
 #exit
 # -------------------
 
-# bdf92cdf
+# 280d175d 03b6cdb8 1b6cb8ce 62ed0b06 46dc2e8b
 # ----- page 5 -----
+#condition d1 == 6 goto 6
 #
 # from page 5
-It remainds locked.
+ We are back up and runnin! \.only took ages thanks to that little goblin rat thing. \.well not really, \.I decided we don’t need a catalytic converter. \.I reckon things are just simpler this way, \.yah? 
+What’s your deal anyways? \.anyone ever teach you to knock? \. You remind me of another fella who just sort of wandered into any door he say in the naraka. \.bit rude ain’t it?
+ tearing through the city with the night air wrapping around me… \.it feels more natural than anything I’ve ever known. \.This is where I belong I reckon. \.When I heard someone tried to stop the expansion of the city it kinda threw me for a loop. 
+ Modernization is impossible to stop, \.It feels like ain’t that the reason we were put here? \.things will change and continue to do so as more dreams and memories flood the naraka, \.same as it always has been.  
+We can’t stop change here like ya can on earth. \.and yet both places ain’t much different. 
+#exit
+# -------------------
+
+# 3127e994 9a3fa60f cb11954b f2652735 34a76ea5 e7740c5b 41097f8b
+# ----- page 6 -----
+#condition d1 == 7 goto 7
+#
+# from page 6
+There’s nobody on the other side of the door but myself this time. \.where is everyone? 
+A moment to myself. \.I’ve not had one since I began searching with Hymnia…. \.Her idea of searching seems more like meandering than it does looking for a flower.
+I suppose I’m doing the same right at this moment. 
+......
+an asphodel? \.A pale, \.quiet little flower that most folks would walk right past without a second thought. \.It just… \.exists. \.Soft. \.Subtle. \.Almost like it’s waiting to be forgotten.
+Many folks seem to remember some sort of relevance about it, \.so there is more than meets the eye. 
+I wonder if it will make me feel something. 
+#exit
+# -------------------
+
+# 005760d9
+# ----- page 7 -----
+#
+# from page 7
+Locked.
 # -------------------
 

@@ -1,1 +1,31 @@
 ﻿# Hymnia
+# e47b728d 6f9870e0 a479b376 0637726b 8db12ce4 61967056 82328ccf 877c048f 0134f150 d4ef8846 377d2090 48307898 a82da40e 8bcdabd3 429c5afe 6d7cb78e e27bffec
+# ----- page 0 -----
+Oh, \. and who are you?
+My name is Tomorrow. | What are you doing out here?
+#
+# choice: My name is Tomorrow.
+It's a wonderful name.
+#
+# choice: What are you doing out here?
+I'm looking for something I've lost, \.you see.
+Perhaps you're looking for something too? 
+What is it you are out here seeking?
+I'm looking for beauty | I'm looking for companionship | I'm looking for a muse | I'm looking for a new life
+#
+# choice: I'm looking for beauty
+# choice: I'm looking for companionship
+# choice: I'm looking for a muse
+# choice: I'm looking for a new life
+I see, \.maybe we can help one another on our pursuit? \.I'm looking for a yellow asphodel.
+It's a rather wonderful flower. \.Briefly they had been abundant but it seems its once again faded into rarity.
+This flower may aid you on your own journey, \.don't you think? 
+why a flower?
+You can consider me somewhat of a curator for beauty. \.I simply want to see it in all of its eloquence. \.To spend a moment with it would be most wonderful. 
+Maybe that's why I'm asking for your help,  I see that we are on similar paths. 
+We can share the moment together. 
+Will you help me? 
+I nearly forgot to tell you my name. It's Polyhymnia, \.But you may call me Hymnia. 
+I'm going to send you on your way now, \.but don't worry I won't be far. I'll see you, Tomorrow.
+# -------------------
+
