@@ -2,11 +2,11 @@
 # c7b7ea36 4f4cf98e 53ddf9e1 c34e4037 6d159560
 # ----- page 0 -----
 #condition maple == 1 goto 1
-The new expanded Naraka truly is wonderful, \.but it seems to favor the nimble. \.lots of tough to reach places around. 
-There is a kind bald man around who strolls rather gingerly, \.but one day something must of got him in a tizzy. \.I saw reaching unforetold speeds and leap crazy heights in a heated pursuit!
-Do we all hold such potential? \.I do wonder what the tipping point to reaching this is. \. Maybe not though, \.we aren’t in a comic book after all. 
-Could have been one of those leaked dreams…. \.yes that would make sense.
-Memories and dreams have begun to leak out into the naraka causing massive expansion, though these memories are still around to be explored in their original state.
+Новая расширяющаяся Нарака действительно чудесная, \.но, похоже, она больше подходит для кого-то проворного. \.Тут полно мест, до которых тяжело добраться. 
+Тут есть один добрый лысый мужчина, который гуляет очень осторожно, \.но однажды что-то, должно быть, вывело его из себя. \.Я видела, как в пылкой погоне он достиг небывалых скоростей и прыгал на безумную высоту!
+Неужели в каждом из нас есть такой потенциал? \.Интересно, что становится тем переломным моментом для достижения этой цели. \.Хотя, может и нет, \.в конце концов мы не в комиксе. 
+Может, это был один из тех просочившихся снов... \.Да, это бы имело смысл.
+Воспоминания и сны начали просачиваться в Нараку, после чего она так сильно разрослась, хотя эти воспоминания всё ещё есть, и их можно исследовать в их оригинальном виде.
 #exit
 # -------------------
 
@@ -15,11 +15,11 @@ Memories and dreams have begun to leak out into the naraka causing massive expan
 #condition maple == 2 goto 2
 #
 # from page 1
-New fangled computer graphics are getting too real… false memories spilling out into the naraka based upon generated 3 dimensional objects and planes. 
-It’s making my little head spin on what's real and what isn't. \.you seem pretty smart though so maybe you’ve got a better grasp on this than me.
-I guess it's not the first time man and machine have begun to blend, \.but if this next life is supposed to be built upon dreams- \.well this is all very confusing to me.
-Before the expansion there was this mannequin who crawled around on all fours, \.he carried a portrait of this snow haired woman. \.Himiko her name was, \.I believe he loved her dearly.
-Can the inanimate begin to feel? \.The lines between man and machine blur with each passing day, \.despite this the world feels warmer, \.more beautiful. The hues of the trees appear much more beautiful than before.
+Новомодная компьютерная графика становится слишком реальной... Ложные воспоминания, вытекающие в Нараку, основаны на сгенерированных трехмерных объектах и плоскостях. 
+От этого моя маленькая голова кругом идёт: что реально, а что нет. \.Но ты вроде умная, так что, может, понимаешь во всём этом лучше меня.
+Полагаю, это не первый раз, когда человек и машина начинают сливаться, \.но если эта следующая жизнь и правда должна быть построена на снах- \.для меня всё это звучит очень запутанно.
+До расширения здесь был один манекен, который ползал на четвереньках, \.он носил с собой портрет беловолосой женщины. \.Её звали Химико. \.Я уверен, что он её очень любил.
+Может ли неживое чувствовать? \..Граница между человеком и машиной с каждым днём размывается всё сильнее, \.и всё же мир кажется теплее, \.более красивым. Оттенки деревьев теперь выглядят куда прекраснее, чем раньше.
 #exit
 # -------------------
 
@@ -28,10 +28,10 @@ Can the inanimate begin to feel? \.The lines between man and machine blur with e
 #condition maple == 3 goto ?
 #
 # from page 2
-I just found out there are systems where musical octaves aren’t chopped into 12 equal pieces — \.and one of them uses 31.
-An octave is still an octave. \.Same frequency doubling. \.But instead of 12 steps to get there, \.31 EDO divides it into 31 tiny equal steps. Each step is way smaller than a piano key. \. Almost 1 third of a semitone.
-I suppose I should have seen this as obvious, \.our human speech isn’t exactly in perfect pitch. \.Rather a sliding pitch.  
-There was even an old tale of Pythagoras hearing blacksmith's hammers making different pitches and having an epiphany about the mathematical nature of music.  
+Я вот только что узнала, что есть системы, где музыкальная октава не делится на 12 равных частей— \.и одна из них использует 31.
+Октава всё ещё остаётся октавой. \.То же самое удвоение частоты. \.Но вместо 12 шагов, \.31-EDO делит её на 31 крошечный шаг. Каждый шаг немного меньше клавиши на пианино. \.Почти треть полутона.
+Наверное, это очевидно, \.но наша человеческая речь не звучит идеально на одной высоте. \.Это скорее скользящая высота.  
+Существовала даже старое придание о том, как Пифагор услышал стук кузнечных молотов разной высоты, и на него снизошло озарение о математической природе музыки.  
 #exit
 # -------------------
 
@@ -40,9 +40,9 @@ There was even an old tale of Pythagoras hearing blacksmith's hammers making dif
 #condition maple == 4 goto 4
 #
 # from page 3
- Its a crazy world outside, I think we’re gonna lose our pride. I mean it can happen to anyone, you just gotta look up and around. 
-People are more volatile these days, but not on the streets but rather in their own minds. \.It can happen to you, \.it can happen to me. 
-These devices will be the death of us, \.you can bring your soul to life in many ways just by evading it.
+Снаружи какой-то безумный мир, и мне кажется, мы скоро потеряем свою гордость. Я имею в виду, что такое может случиться с каждым, просто посмотри вокруг. 
+Последнее время люди стали более непостоянными, но не на улицах, а в своём сознании. \.Это может случиться с тобой, \.это может случиться со мной. 
+Эти устройства станут нашей погибелью, \.ты можешь вернуть свою душу к жизни множеством способов, если будешь избегать их.
 #exit
 # -------------------
 
@@ -51,12 +51,12 @@ These devices will be the death of us, \.you can bring your soul to life in many
 #condition maple == 5 goto 5
 #
 # from page 4
-Remember all that musical nonsense we spoke of? \.A muse told me there is a man in a cave who is far more knowledgeable on this.
-Apparently they meet rather often! \.if I can track them down I plan to do a bit of eavesdropping. \.keep that between us though. 
-It’s all in the name of learning after all so don’t stress your pretty lil head.
- Besides, \.gamelan has such a beautiful sound! \.oh slendro tunings are so wonderfully haunting! 
-It lends itself so nice to percussive ensembles! \.I once watched a group of machines play this old steam machine whilst banging on various bells and drums. 
-It was rather amazing, \.wouldn’t you say?
+Помнишь ту музыкальную ерунду, о которой мы говорили? \.Одна муза сказала мне, что в пещере живёт человек, который разбирается в этом куда лучше.
+Похоже, они встречались довольно часто! \.Если мне удастся их выследить, я планирую их немого подслушать. \.Но это только между нами. 
+Это же всё ради знаний, так что не забивай свою миленькую головушку.
+И вообще, \.у гамелана такой красивый звук! \.Ох, мелодия слендро так чудесно завораживает! 
+Он так хорошо ложится на ансамбль из ударных! \.Однажды я видела, как группа машин играла на старой паровой машине, одновременно колотя по разным колокольчикам и барабанам. 
+Это было очень поразительно, \.ты так не считаешь?
 #exit
 # -------------------
 
