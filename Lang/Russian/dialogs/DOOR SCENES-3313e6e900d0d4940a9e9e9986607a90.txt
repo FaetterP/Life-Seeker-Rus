@@ -108,11 +108,11 @@
 #condition d1 == 6 goto 6
 #
 # from page 5
- We are back up and runnin! \.only took ages thanks to that little goblin rat thing. \.well not really, \.I decided we don’t need a catalytic converter. \.I reckon things are just simpler this way, \.yah? 
-What’s your deal anyways? \.anyone ever teach you to knock? \. You remind me of another fella who just sort of wandered into any door he say in the naraka. \.bit rude ain’t it?
- tearing through the city with the night air wrapping around me… \.it feels more natural than anything I’ve ever known. \.This is where I belong I reckon. \.When I heard someone tried to stop the expansion of the city it kinda threw me for a loop. 
- Modernization is impossible to stop, \.It feels like ain’t that the reason we were put here? \.things will change and continue to do so as more dreams and memories flood the naraka, \.same as it always has been.  
-We can’t stop change here like ya can on earth. \.and yet both places ain’t much different. 
+Мы теперь снова на ходу! \.Это заняло целую вечность, и всё из-за этой мелкой гоблинской крысы. \.Ну вообще не совсем, \.я решил, что нам не нужен каталитический конвертер. \.Я считаю, что так банально проще, \.а? 
+А ты вообще кто такая? \.Тебя никто не учил стучать? \.Ты напоминаешь мне одного чела, который просто заваливался в каждую дверь в Нараке, которую только увидит. \.Немного грубо, не думаешь?
+Мчаться через город, а ночной воздух обволакивает тебя со всех сторон... \.Это кажется более естественным, чем всё, что я когда-либо знал. \.Похоже, моё место именно здесь. \.И когда я услышал, что кто-то пытался остановить разрастание города, меня это немного выбило из колеи. 
+Модернизацию невозможно остановить, \.Нет ощущения, что нас только для этого сюда и поместили? \.Вещи будут меняться, и всё будет так продолжаться, пока всё больше снов и воспоминаний будут затапливать Нараку, \.как это всегда и было.  
+Ты не можешь остановить изменения так, как могла это делать на земле. \.И всё же эти два места не так сильно отличаются. 
 #exit
 # -------------------
 
@@ -121,13 +121,13 @@ We can’t stop change here like ya can on earth. \.and yet both places ain’t 
 #condition d1 == 7 goto 7
 #
 # from page 6
-There’s nobody on the other side of the door but myself this time. \.where is everyone? 
-A moment to myself. \.I’ve not had one since I began searching with Hymnia…. \.Her idea of searching seems more like meandering than it does looking for a flower.
-I suppose I’m doing the same right at this moment. 
+На этот раз по ту сторону двери нет никого, кроме меня самой. \.Где все? 
+Момент наедине с собой. \.У меня такого не было с тех пор, как я начала поиски вместе с Гимнией... \.Её идея поиска больше похожа на блуждание, чем на поиски цветка.
+Наверное, в данный момент я делаю то же самое.
 ......
-an asphodel? \.A pale, \.quiet little flower that most folks would walk right past without a second thought. \.It just… \.exists. \.Soft. \.Subtle. \.Almost like it’s waiting to be forgotten.
-Many folks seem to remember some sort of relevance about it, \.so there is more than meets the eye. 
-I wonder if it will make me feel something. 
+Асфодель? \.Бледный, \.тихий, маленький цветок, мимо которого большинство просто пройдёт не задумываясь. \.Он просто... \.существует. \.Мягкий. \.Нежный. \.Будто бы ждёт, чтобы о нём забыли.
+Похоже, многие помнят, что он имеет какое-то отношение к делу, \.значит в нём есть нечто большее, чем кажется на первый взгляд. 
+Интересно, заставит ли он меня что-нибудь почувствовать. 
 #exit
 # -------------------
 
@@ -135,6 +135,6 @@ I wonder if it will make me feel something.
 # ----- page 7 -----
 #
 # from page 7
-Locked.
+Закрыто.
 # -------------------
 
