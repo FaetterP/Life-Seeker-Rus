@@ -2,12 +2,12 @@
 # fa6c5fd4 e95b23b1 10e0ef77 d921cbf7 886fcc5c 1524cb98
 # ----- page 0 -----
 #condition beetle == 1 goto page1
-Do I look like a protaganist to you? \.I think I do. 
-Really I want to move like you, \.jump around and explore!
-Unfortunately my story was  canceled , in favor of yours.. \.how cruel. 
-Me and froggy would make a great protag duo!
-You kinda look like you don't believe me. 
-I don't think I even got any lines last time I was on camera, \.my bad for feeling burnt by that.
+Я похожа на главного героя? \.Думаю, да. 
+На самом деле я хочу двигаться, как ты, \.прыгать повсюду и исследовать мир!
+К сожалению, мою историю отменили в пользу твоей... \.Как жестоко. 
+Из меня и жабки получился бы отличный дуэт героев!
+Похоже, ты мне не веришь. 
+В прошлый раз у меня, кажется, даже не было реплик, \.и я виноват, что меня это задевает.
 #exit
 # -------------------
 
@@ -16,16 +16,16 @@ I don't think I even got any lines last time I was on camera, \.my bad for feeli
 #condition beetle == 2 goto page2
 #
 # from page 1
-You again.... \.I'm still feelin a type of way you know.
-Do you ever wish you could be an action hero? there seems like there is not really much room for that.
-Life is.... \.rather mundane. \.that and being mundane is the norm.
-What about life with froggy?
+Опять ты.... \.Ты понимаешь, в каком состоянии я сейчас нахожусь.
+Тебе когда-нибудь хотелось быть героем боевика? Похоже, в жизни для такого места почти нету.
+Жизнь.... \.довольно обыденная. \.И быть обыденным тоже нормально.
+Как тебе жить с жабкой?
 #
 # choice: What about life with froggy?
-Yeah.... \.I do have fun with him. \.He shows me neat places!
-Before the naraka got brighter, \.Froggy had shown me a wonderful pond.
-I cherished that spot. \.these days things are much brighter.
-Now there is so much more to cherish!
+Да.... \.Мне с ним весело. \.Он показывает мне уютные места!
+Ещё до того, как Нарака стала светлее, \.Жабка показал мне чудесный пруд.
+Я очень дорожил этим местом. \.Сейчас там намного ярче.
+Теперь есть ещё столько всего, чем можно дорожить!
 #exit
 # -------------------
 
@@ -34,12 +34,12 @@ Now there is so much more to cherish!
 #condition beetle == 3 goto 3
 #
 # from page 2
-You know even Celare was once determined she could be a protagonist. \.That woulda been pretty sick. \.I heard she trained in like fire arms and stuff.
-Talk about bad ass, \.huh! All I can do is like blow bubbles and what not. \.That ain’t exactly cool I guess.
-Here I was thinkin she had like a soft belly or something and she was trying to hide it by running all the time! \.well actually I guess she stopped doing that….
-You do probably get pretty tough from that too… \.what am I thinking! I could probably take her in a fight thought. 
- I’m tough as hell! \.Beetle exoskeleton Tomo, \.trust me. \.I can take a beatin! 
-Beetlin….. \.Beatin beetlin.
+Знаешь, даже Селаре когда-то верила, что может быть главной героиней. \.Это была бы просто пушка. \.Я слышала, что она там тренировалась с оружием и всё такое.
+Она даёт жару, \.ха! А я только и могу, что пускать пузыри. \.И не то что бы это очень круто.
+А я вот думала, что у неё там пузико, и она всё бегает, чтобы это скрыть! \.Хотя, думаю, она уже завязала с этим...
+Это наверняка делает тебя более жёсткой... \.О чём я вообще думаю! Я её в драке наверняка уделала бы. 
+Я довольно крепкий орешек! \.У меня жучий экзоскелет, Зава, \.поверь. \.Мне не страшно получить по морде! 
+Жучок... \.Битый жучок.
 #exit
 # -------------------
 
@@ -48,10 +48,10 @@ Beetlin….. \.Beatin beetlin.
 #condition beetle == 4 goto 4
 #
 # from page 3
-A small paper girl has been trying to befriend me…. \.I find her rather insufferable. \.Apparently she tried to befriend many folks before me.  Why is she so desperate for friends?  
-Should I feel guilty and just play along? \.I do feel somewhat bad that she is this lonely. I guess her best friend was taken away in some sort of fire. Rather tragic that. 
-Me and froggy ain’t need know third wheel though, \.ya feel? \.That’s like if I tried to tag along on you and Hymnia’s adventure. 
-Ugh these moral conundrums surely make me feel like I need to eat something spicy to get my brain jogged again.
+Какая-то маленькая бумажная девочка всё норовит со мной подружиться. \.Я нахожу её довольно невыносимой. \.Очевидно, до меня она пыталась подружиться много с кем. И зачем ей только нужны друзья?
+Мне нужно было чувствовать вину и подыграть ей? \.Мне действительно немного не по себе от того, что она так одинока. Кажется, её лучшую подругу забрал какой-то пожар или что-то такое. Это довольно трагично. 
+Нам с жабкой не нужны роли второго плана, \.понимаешь? \.Это как если бы я попыталась присоединиться к твоему приключению с Гимнией.
+После этих моральных заморочек мне хочется съесть что-нибудь острое, чтобы встряхнуть себе мозги.
 #exit
 # -------------------
 
@@ -60,9 +60,9 @@ Ugh these moral conundrums surely make me feel like I need to eat something spic
 #condition beetle == 5 goto 5
 #
 # from page 4
-From a mechanical standpoint some of these machines I keep running into are cool. \.from a sentience stand point its rather scary….
-Mel Told me a story about an entire race of machines harvesting angels to power themselves. \.though they lived to regret it. 
-I don’t think anything crazy happened, \.they just fizzled out one day. \.I wonder what those regrets were. 
+С точки зрения механики, некоторые машины, на которые я натыкаюсь, классные. \.Но с точки зрения разума они скорее пугают...
+Мэл рассказала историю о целой расе машин, которые собирают ангелов, чтобы питать себя. \.Но потом они пожалели об этом. 
+Я не думаю, что там произошло что-то сумасшедшее, \.в один день они просто все отрубились. \.Интересно, о чём были их сожаления?
 #exit
 # -------------------
 

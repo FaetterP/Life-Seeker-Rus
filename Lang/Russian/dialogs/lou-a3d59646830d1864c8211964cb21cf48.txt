@@ -2,23 +2,23 @@
 # 181f8abe f1c483e3 76073a7e 36409110 da463a76 ad4889d4 00053ffa 4b4bffd0 268b1daa 6e7a0a27 c636e168 29b1cc6f 7483000a 1268877c
 # ----- page 0 -----
 #condition lou == 1 goto page1
-Have you seen it? \.the new grand spire? \.I can take you there if you wish.
-sure | Not now
+Ты уже видела его? \.Новый великий шпиль? \.Я могу отвести тебя туда, если хочешь.
+Конечно | Не сейчас
 #exit
-Well? i\.it's quite nice out here wouldn't you say? \. The walls of the city don't come close to here.
-This spire was constructed only recently, though a rumor has spread that it may come under siege soon
-It's nothing to concern yourself with though. \.The man who aided in its rise will soon arrive once again to protect it.
-You are on your own journey after all, \.correct? 
-I'm looking for a an  asphodel.
+Ну что же? \.Здесь ведь довольно славно, ты так не думаешь? \.Городские стены и близко не сравнятся с этим местом.
+Этот шпиль возвели совсем недавно, хотя уже ходят слухи, что скоро на него будет осада.
+Впрочем, тебе не о чем беспокоиться. \.Человек, который помог ему вознестись, скоро вновь придёт, чтобы его защитить.
+В любом случае, у тебя всё равно есть свой путь, \.верно? 
+Я ищу асфодель.
 #
 # choice: I'm looking for a an  asphodel.
-That's right, \.Hymnia had told me. I can't help you there.
-There was once a great sage, \.after she had vanished the yellow asphodel was in abundance.
-Renown for her gentle soul and caring nature these flowers were picked clean by those who longed for her to return.
-Some say you can even hear her soothing voice in the flower itself in times of personal struggle.
-coincidentally it was this very tower that led to her demise, \.as she was no longer needed as a guide for lost souls.
-Karmic checks and balances have a strange way of working I reckon....
-I'll try to keep my eyes peeled for that flower, \.Don't you worry.
+Правильно, \.Гимния говорила мне про это. С этим я тебе не помогу.
+Когда-то здесь жила великая мудрая женщина, \.и после её исчезновения жёлтых асфоделей стало огромное количество повсюду.
+Она славилась своей доброй душой и заботой, и потому те, кто жаждал её возвращения, сорвали эти цветы подчистую.
+Некоторые говорят, что в минуты душевной тяжести можно услышать её успокаивающий голос в самом цветке.
+Так уже получилось, что именно эта башня и привела её к гибели, \.потому что она была проводницей для заблудших душ и стала больше не нужна.
+По-моему, система кармы и равновесия работает странным образом...
+Я постараюсь смотреть в оба и поискать этот цветок, \.не волнуйся.
 #exit
 # -------------------
 
@@ -27,11 +27,11 @@ I'll try to keep my eyes peeled for that flower, \.Don't you worry.
 #condition lou == 2 goto p2
 #
 # from page 1
-I'm yet to find a flower, \. though I did meet a rather brash woman who saught out a mirror.
-Yes, \.the mirror that leads to the other side. \.Everyone seems to be looking for something, \.I wonder why this is.
-Nothing has changed, \.there was a time where items that brought happiness were deeply saught after.
-My favorite was a cat who had exchanged soul for liquor. 
-I do not recommend this exchange.
+Я пока что ещё не нашёл цветок, \.зато встретил довольно дерзкую женщину, которая искала зеркало.
+Да, \.зеркало, которое ведёт на другую сторону. \.Похоже, каждый здесь что-то ищет, \.и мне интересно, почему так.
+Ничего не изменилось, \.было время, когда вещи, приносящие счастье, искали с таким же рвением.
+Моим любимцем был кот, который обменял душу на ликёр. 
+Не советую заключать такую сделку.
 #exit
 # -------------------
 

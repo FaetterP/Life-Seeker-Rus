@@ -4,11 +4,11 @@
 #condition barrel == 1 goto 1
 ......
 .........
-You just got robbed bitch!
-What? | I don't have anything worth taking...
-I got your nose dummy! \.Your sinus are rather backed up, \.are you perhaps sick?
-I’m sick. \.I’m a sick nasty thief, \.you know who the hell I am? \.I am THE Hiretsuna! \.The greatest thief alive.
-you best remember that name, \.I'm going to be known worldwide one day! \.trust.
+Тебя только что ограбили, сучка!
+Что? | У меня нечего воровать...
+Я у тебя нос спёрла, дурёха! \.Твои пазухи сильно заложены, \.ты чувствуешь боль?
+Вот у меня есть боль. \.Я до боли крутая воровка, \.ты вообще знаешь, кто я такая? \.Я САМА Хирецуна! \.Величайший вор на свете.
+Лучше запомни это имя, \.Когда-нибудь обо мне узнает весь мир! \.Честное слово.
 # -------------------
 
 # ----- page 1 -----

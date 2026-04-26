@@ -2,14 +2,14 @@
 # debcfb60 270448c7 f3182ce7 f53e491a 49c2fef4 1af7f82b de385888 2f11b0ce
 # ----- page 0 -----
 #condition balco == 1 goto 1
-Yo lady, \.you need a ride?
-yes | no
-Servus, \.Tomo! \.This place makes me miss Wien. \.As a man, \.I’m not here to tell you what to do. \.I could tell you some stories about Vienna. \.All the Wiener i chauffeured back in Vienna, \. All of them wanted to go to the Prater. 
-All roads lead to the Prater. \.We’ve got nothing to do with murder and manslaughter, \.but we’re always up for a bit of Spass. \.If you ever come to Wien. 
-Well, \.you sure are taking your time. \.Are you going to get in or what? 
-I do not bite, \.I will take you wherever the road may lead.
-I came here because I left a Mädchen… \.That’s my opinion really…\.After three weeks I feel uncomfortable without a woman, and after four weeks with one. 
-It’s always been like that. \.Women are a mystery to me. \.So I came here with a watch, \.and myself. \.Na, \.mehr hab’ I net braucht. 
+Йо, леди, \.тебя подбросить?
+Да | Нет
+[Servus](австр. привет), \.Зава! \.От этого места я начинаю скучать по [Wien](нем. город Вена). \.Как мужчина, \.не мне тебе указывать, что делать. \.Но я мог бы рассказать тебе пару баек о Вене. \.Всех [wiener](житель Вены), кого я катал в Вене, \.всех до единого тянуло в Пратер. 
+Все дороги ведут в Пратер. \.Мы тут не по части убийств и смертей, \.но немного [spass](веселье) мы всегда уважаем. \.Вдруг ты когда-нибудь заглянешь в Wien. 
+Конечно, \. ты никуда не спешишь. \.Но ты садишься уже или как? 
+Я не кусаюсь, \.довезу тебя куда угодно, куда бы нас дорога не завела.
+Я приехал сюда, потому что бросил одну [Mädchen](девушка)... \.У меня такое мнение, что... \.Три недели без женщины не могу, но и четыре недели с женщиной тоже не могу. 
+У меня всегда так было. \.Женщины для меня - это какая-то загадка. \.Вот я и приехал сюда только с часами \.и самим собой. \.Na, \.[mehr hab’ I net braucht](больше мне и не надо). 
 #exit
 # -------------------
 

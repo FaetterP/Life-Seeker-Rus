@@ -2,22 +2,22 @@
 # f7346981 e553d46c df1d37f8 9b7afeb7 eb59f3db 860af9e3 045eddaa b5c041b8 ffd88842
 # ----- page 0 -----
 #condition Cherub == 1 goto page
-Oh\. it's you!\. Hi Tomorrow....
-Do I know you? | Hi?
+Ой\. это ты!\. Привет, Завтра....
+Мы знакомы? | Привет?
 #
 # choice: Do I know you?
 # choice: Hi?
-Oh,\. Tomo, \. Don't you remember me?\. I'm the cherub you had used to play with!
-I thank you for caring for me after my father had vanished..... \. I do wonder where he had gone.
-You got rather tall! | How do I grow wings like this?
+Ой,\. Зава, \. ты меня не помнишь?\. Я тот херувим, с которым ты когда-то играла!
+Спасибо, что заботилась обо мне после того, как мой отец исчез.....\. Интересно куда он делся.
+Ты сильно выросла! | Как мне отрастить такие крылья?
 #
 # choice: How do I grow wings like this?
-My wings? \. well,\. one day while rolling about they sort of just popped out!\. maybe you need them shaken out of you!
+Ты про мои крылья? \. Ну,\. они как-то однажды сами собой выскочили, пока я каталась!\. Может, тебе нужно их вытряхнуть из себя!
 #
 # choice: You got rather tall!
-Oh yes,\. I supposed I am much taller than you now. \. for someone your age I am quite surprised how short you are.!
-Oh dear,\. Tomo... Don't look so pensive. 
-Maybe you'll grow even more soon! you could be a late bloomer!
+О да,\. кажется, я теперь намного выше тебя.\. Для своего возраста ты удивительно невысокая.!
+Ох,\. Зава... Не смотри так задумчиво. 
+Может быть, скоро ты вырастешь ещё больше! Ты просто можешь быть позднецветущей!
 #exit
 # -------------------
 
@@ -26,10 +26,10 @@ Maybe you'll grow even more soon! you could be a late bloomer!
 #condition Cherub == 2 goto page2
 #
 # from page 1
-Tomo, \.there is something I could use your help with. \.You see, \.there is a small ranch where I care for those in need, \. Just as Golem had done for me. \.
-Though to be honest, \..I am struggling to do this alone. \.I know you are a caring soul, perhaps you can lend me a hand some time? 
-It mostly involves feeding and scheduling. \.Helping our peers grow strong to compete in various tournaments. \.It requires a caring hand such as yours, \.I know you are capable of doing well.
-If you are willing to help me, please meet me at your house. \.I can fill you in more there.
+Зава, \.есть кое-что, с чем ты бы мне могла помочь. \.Понимаешь, \.у меня есть небольшое ранчо, где я забочусь о тех, кто в этом нуждается. \.Также как когда-то Голем заботился обо мне. 
+Но если честно, \.мне очень тяжело делать это одной. \.Я знаю, что ты очень заботливая душа, и, может, ты мне как-нибудь мне поможешь? 
+В основном, там нужно кормить и следить за расписанием. \.Также помогать нашим постояльцам стать сильнее и сражаться в различных турнирах. \.Для этого нужна заботливая рука вроде твоей. \.Я уверена, что ты бы преуспела в этом.
+Если ты захочешь мне помочь, пожалуйста, встретимся у тебя дома. \.Там я расскажу тебе всё подробнее.
 #exit
 # -------------------
 
@@ -38,19 +38,19 @@ If you are willing to help me, please meet me at your house. \.I can fill you in
 #condition Cherub == 3 goto 3
 #
 # from page 2
-Oh, \. Tomo! will you come spend time with me?
-yes  | not yet
+Ой,\. Зава! Проведёшь со мной время?
+Да  | Пока нет
 #exit
 #
 # choice: yes 
-Oh how wonderful!
-I thnk about this city alot.\. I hear there was an effort to stop its expansion at one point,\. but for some reason it seems to have gone neglected.  
-For the best,\. I reckon.\. Many of us live here after all.\. I hear stories of people seeking beautiful things only to never return. 
-For me,\. I don't think I've ever seen anything I can describe as beautiful so perhaps maybe one day I will leave too.
-I do love it here,\. I've my friends after all.\. Like you tomo!\. But..... \.  
-I feel as if this city is devoid of wonders I hear in stories, in comparison our home is just a rusted processed heap of mans scrap. \.it bares no resemblance to the stories I hear of warm grass beneath the feet, and a breeze kissing your cheek.
-I want to feel these things, \.Tomo. \. Just as man and woman once did on their earth. \.You could say the apple has tempted me.
-If eve ate the apple, \.and that is what got man to this conclusion.... \.what transpires when tempted from the other side of this wall?
+Ой, это замечательно!
+Я очень много думала об этом городе.\. Я слышала, что когда-то его рост пытались остановить,\. по по какой-то причине, похоже, эту идею забросили.  
+Наверное,\. это даже к лучшему.\. Многие из нас живут здесь.\. Я слышала истории о людях, которые ищут что-то прекрасное, но которые никогда уже не вернулись. 
+А что про меня,\. вряд ли я видела что-нибудь, что можно было назвать прекрасным, так что, может, однажды и я тоже уйду.
+Мне здесь, правда, нравится.\. В конце-концов у меня здесь есть друзья.\. Как ты, Зава!\. Но..... \.  
+Мне кажется, что в этом городе нет чудес, о которых я слышала в рассказах. По сравнению с ними наш дом - просто груда переработанного человеческого хлама. \.Ничего общего с теми историями, которые я слышу о тёплой траве под ногами и лёгком ветерке, целующем тебя в щеку.
+Я хочу почувствовать эти вещи, \.Зава. \. Как некогда мужчина и женщина сделали то же самое на своей земле. \.Можно сказать, это то яблоко, которое меня искушает.
+Если Ева вкусила яблоко, \.и это привело человека к такому концу.... \.Что случится, если тебя будут искушать тем, что находится по ту сторону стены?
 #exit
 # -------------------
 

@@ -2,12 +2,12 @@
 # ebb09a27 13793fc2 4e09e477 9ffd06a5 8175da4d 54927a94
 # ----- page 0 -----
 #condition iya == 1 goto 1
-Ain't you quaint, mate. \.what's got ya so hoppy?
-Things ain't like they used to be round here, \.aye? \. Everyones got some new found pep.
-Met a bloke who I reckon mucked everything all up for us. \.Yep, \.came in with that same dead stare you got.
-Yer a helluva lot cuter though, \.tell ya what.
-back in my day there were way more freaks around, \.ya know that? \.seems most the freaks pissed off to the tower.
-Only the strongest linger in the processed world now.
+Ну ты и занятная, подруга. \.Чё это ты такая прыгучая?
+Тут всё уже не так, как раньше, \.ай? \. У всех вдруг энергия откуда-то взялась.
+Встретила я одного типа, и, по-моему, это он тут всё нам запорол. \.Ага, \.зашёл с таким же мертвым взглядом, как и у тебя.
+Но ты-то чертовски милее, \.скажу я тебе.
+В мои времена тут было куда больше придурков, \.ты знала об этом? \.Похоже, большая часть этих уродов свалила в башню.
+Теперь в обработанном мире остались только самые крепкие.
 #exit
 # -------------------
 
@@ -16,25 +16,25 @@ Only the strongest linger in the processed world now.
 #condition iya == 2 goto 2
 #
 # from page 1
-LIl Tomo. \.Bug eyed girl.
-I'm not bug eyed. | Yes?
+Малышка Зава. \.Девочка с выпученными глазами.
+Они не выпучены. | Да?
 #
 # choice: I'm not bug eyed.
 # choice: Yes?
-aye, \.aye... \.is okay to be a lil borked ya know?
-I wanna know, \.what ya wanna see out the world. \. ya feel me?
-Many folks meander, \.they ain't even know if they are alive or what they may be lookin' for.
-You'd think that would only happen here, \.round the naraka. \.But nah, \.happens on earth too. 
-Land of the livin' my ass. \.I know a girl who, \.a special breed of girl many knew about.
-Retained her memories, \.and sent us letters. \.man the place sounds like a drag, \.and life is so short!
-I want to see a pretty flower. | I want to make lots of friends.
+Ага, \.ага... \.Да это нормально быть чутка с прибабахом, знаешь?
+Я вот что хочу знать, \.что ты хочешь увидеть в этом мире?. \.Понимаешь меня?
+Многие просто шатаются повсюду \.и даже сами толком не знают, живы ли они вообще или, может, ищут что-то.
+Ты можешь подумать, \.что такое случается только вокруг Нараки. \.Но нифига, \.на земле происходит то же самое. 
+Тоже мне, земля живых. \.Я знаю одну девчонку, \.особенную такую, о которой многие знали.
+Она сохранила воспоминания, \.и слала нам письма. \.Блин, это место такое занудное, \.а жизнь такая короткая!
+Я хочу увидеть красивый цветок. | Я хочу завести много друзей.
 #
 # choice: I want to see a pretty flower.
 # choice: I want to make lots of friends.
-That's freakin lame.
-I'm lookin for somethin sick. \.It'll blow your tiny little head off its neck, \.and lucky for you I may even show it to you when I find it!.
-there's a mirror around, \.yeah? \. well, \.on rare occasion the mirror opens a portal to the land of the living. 
-I wanna go see that place for myself, \.maybe i'll member somethin or another!
+Ну и тухляк.
+А я ищу кое-нибудь крышесносное. \.Это точно снесёт твою крошечную башку напрочь, \.и к счастью для тебя, я, возможно, даже покажу тебе это, когда найду!
+Здесь же где-то есть зеркало, \.да? \. Ну, \.изредка оно открывает портал в земли живых. 
+Я хочу отправиться туда и увидеть это место своими глазами, \.глядишь, чего-нибудь и вспомню!
 #exit
 # -------------------
 
@@ -43,8 +43,8 @@ I wanna go see that place for myself, \.maybe i'll member somethin or another!
 #condition iya == 3 goto 3
 #
 # from page 2
-Aye, \.tomo. \.I'm busy ya see? lil green ate the last of my sweets and im gonna squeeze em out of em!
-What ya wanna watch? \.didn't know you were such a freak tomo......
+Эйоу, \.Зава. \.Я занята, не видишь? Эта зелёная малявка съела мои последние сладости, и я собираюсь вытрясти их из неё!
+Что ты хочешь здесь увидеть? \.Не знала, что ты у нас такая чудная, Зава......
 #exit
 # -------------------
 
@@ -52,6 +52,6 @@ What ya wanna watch? \.didn't know you were such a freak tomo......
 # ----- page 3 -----
 #
 # from page 3
-Not now....
+Не сейчас....
 # -------------------
 

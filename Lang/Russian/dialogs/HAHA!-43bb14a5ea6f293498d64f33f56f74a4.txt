@@ -2,9 +2,9 @@
 # a491040e f7c8f175 b54039e4 6b5ffb59
 # ----- page 0 -----
 #condition haha == 1 goto ?
-Listen lady, \.this ain’t the way to go about things. \.There AIN’T no more asphodel,\. pick a different flower to look for!  \.why not settle for a rose or a nice forget me not! 
-I know a wonderful field of forget me not, \.I visit it after work all the time! \.Hell you could probably grow your own meadow with how abundant they are.
-I should probably tell you this, \.but the way you run makes me laugh. \.oh no lady don’t change it, \.that’s what makes you who you are yeah?
-Think of all the folks whose day you made running like a silly goose like that!
+Слушай, леди, \.так дела не делаются. \.Больше НЕТУ никакого асфоделя,\. поищи лучше другой цветок! \.Почему бы не остановиться на розе или красивой незабудке! 
+Я знаю прекрасное поле незабудок, \.я постоянно туда хожу после работы! \.Чёрт, ты, вероятно, могла бы вырастить свой собственный луг, учитывая, насколько их много.
+Наверное, мне нужно тебе это сказать, \.но меня смешит, как ты бегаешь. \.Ой нет, леди, только не меняй это, \.это ведь то, что делает тебя тобой, а?
+Подумай, скольким людям ты сделала день, пока бегала как глупый гусь!
 # -------------------
 

@@ -2,13 +2,13 @@
 # 1abb3b71 5c1908b9 02ed23eb 9a1ea3b9 f4a48c5a 0321f54f 1f97e634
 # ----- page 0 -----
 #condition greg == 1 goto p1
-Oh, \.heyo! \.Fine mornin' to ya neighbor.
-My fortune cookie said somethin rather profound! \.funny that.
-Oh dear, \.yeah it said the ocean yearned for me.
-Tell that ocean my wife won't be too pleased! \.bwahahah....
-She used to make the greatest sweet corn, \.oh god rest her soul.
-Though I don't mind a fine wander through here! \.maybe one day I may even meet her again.
-Wouldn't that be grand!
+Ой, \.привет! \.Хорошего утречка, соседушка.
+Моё печенье с предсказанием сказало кое-что довольно важное! \.Забавно.
+Ох, \.да, там было написано, что океан тоскует по мне.
+Скажи этому океану, что моя жена будет не слишком довольна! \.Буахаха....
+Раньше она готовила самую вкусную сладкую кукурузу, \.царствие ей небесное.
+Хотя я не против приятной прогулки по здешним местам! \.Может, однажды я даже встречу её снова.
+Разве это не было бы великолепно!
 #exit
 # -------------------
 
@@ -17,12 +17,12 @@ Wouldn't that be grand!
 #condition greg == 2 goto 2
 #
 # from page 1
-Oh howdy again neighbor! \.what’s bouncin! Bwahahaha….
-Do you get it? \.cause you are so bouncy?
+Ох, снова здарова, соседушка! \.Как тебе скачется! Буахахаха….
+Улавливаешь? \.Ну это потому что ты такая прыгучая?
 .....
-Ol’ Mr Bick’s jokes just don’t land anymore I guess…… \.They bounced too high!
+Похоже, шутки старика Бика больше не заходят..... \.Они просто отскакивают от людей!
 .....
-I’m so lonely without my wife.
+Мне так одиноко без своей жены.
 #exit
 # -------------------
 
@@ -31,9 +31,9 @@ I’m so lonely without my wife.
 #condition greg == 3 goto 3
 #
 # from page 2
-Howdy neighbor! \.Seems I’m a bit lost today. \.You see, \.I went for a nice stroll to collect salt water for my salt water salamander collection.
- When I returned home a large pink thing with gills had broken in and freed all my pets! \.I chased him as long as I could…. \.now here I am, \.winded and lost.  
-“Big Sal’s big justice!”, \.he kept shouting. \.I promise I meant no harm to those lil guys. \.I just like lookin at em is all.
+Приветствую, соседушка! \.Похоже, я сегодня немного потерялся. \.Понимаешь, \.я вышел на славную прогулку, чтобы набрать солёной воды для своей коллекции морских саламандр.
+Когда я вернулся домой, какая-то большая розовая штуковина с жабрами вломилась внутрь и выпустила всех моих питомцев! \.Я гнался за ним, сколько мог... \.И теперь я здесь, \.запыхавшийся и потерянный.  
+Он продолжал кричать\. “Большая справедливость Большого Сала!”. \.Честное слово, я не хотел вреда этим малышам. \.Мне просто нравилось на них смотреть, вот и всё.
 #exit
 # -------------------
 
@@ -42,12 +42,12 @@ Howdy neighbor! \.Seems I’m a bit lost today. \.You see, \.I went for a nice s
 #condition greg == 4 goto 4
 #
 # from page 3
-Howdy neighbor. \.Ol Mr Bick still seems to be lost. \.Oh how troublesome…..
-It seems like every which way is so confusing, \.sometimes I go in circles sometimes up somewhere new!
-If i were you I’d be careful, \.never know where you are gonna wind up runnin around all willy nily, \.ya know?
-Heck, \.One time I even wound up in that new fangled tower they built! \.I guess they weren’t kiddin when they said people were drawn to climbin it.
- That tower thing, \.It’s been around a few years now ain’t it? \.woah nelly that means I’ve been here a few years now too I reckon!\. 
-I hear they already got some trouble up there, \.some dastardly foe throwin things off. \.scared me when I wound up there and couldn’t find a way out. 
+Приветствую, соседушка. \.Старина мистер Бик, похоже, всё ещё потерян. \.Ох и хлопотно и же это...
+Куда ни пойду, всё какое-то запутанное: \.то хожу кругами, то вдруг выхожу куда-то совсем в новое место!
+Если бы я был на твоём месте, я бы был поосторожнее, \.никогда ведь не знаешь, куда тебя занесёт, если будешь носиться туда-сюда, \.понимаешь?
+Чёрт возьми, \.однажды меня даже занесло в эту их новомодную башню! \.Похоже, они не шутили, когда говорили, что людей тянет взбираться на неё.
+Вот эта башня, да, \.она же уже тут стоит уже несколько лет, не так ли? \.Ух ты ж ё, выходит, и я сам тут уже несколько лет, надо полагать!\. 
+Слыхал, у них там наверху уже какие-то неприятности, \.какой-то подлый супостат устроил там что-то. \.Меня аж передёрнуло, когда я туда попал и не мог найти выход. 
 #exit
 # -------------------
 

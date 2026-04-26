@@ -4,34 +4,34 @@
 #condition hellgirl == 3 goto 1
 #condition hellgirl == 2 goto ?
 #condition hellgirl == 1 goto 2-1
-You're the lil jumpy girl! \.whats got you so peppy aye?
-Don't ya feel it? \.there's something in the air..... \.like a great crescendo about to grace our ears. 
-Boy am I excited for the conflict. 
+Это ты та прыгучая мелкая девка! \.Чё тебя так развезло, а?
+Ты это чувствуешь? \.Что-то витает в воздухе..... \.как громкое крещендо, которое вот-вот раздастся в наших ушах. 
+Чел, я так рад этому конфликту. 
 .......
-Don't worry, \.It doesn't involve you. Nor I for that matter! \.I just want to watch!
+Не переживай, \.тебя это не касается. Меня, если уж на то пошло, тоже! \.Я просто хочу посмотреть!
 #exit
 #
 # 2-1: condition: hellgirl == 1
-Come with me!
-yes | no
-Have you noticed? \. the lost and confused are so much more rare these days.
-I used to enjoy telling them subtle mischievous lies.... much harder to deceive new folks these days. 
-People see a cute face and don't really ask questions!
-That must be how that muse of tragedy tricked that guy! 
-Oh how I wish I had her job.... to blow tragic kisses onto man that well into catastrophe
-she didn't like that job. | ......
+Пошли со мной!
+Да | Нет
+Заметила? \. Потерянные и сбитые с толку люди последнее время встречаются гораздо реже.
+Раньше мне нравилось рассказывать им мелкие небылицы.... а новых людей теперь обманывать куда сложнее. 
+Люди увидят милую рожицу и даже вопросов не задают!
+Должно быть, именно так та муза трагедии того типа и надула!
+Эх, как бы я хотела получить её работу.... Посылать трагические воздушные поцелуи тем, кто близок к катастрофе.
+Ей не нравилась эта работа. | ......
 #
 # choice: she didn't like that job.
-What the hell would you know! \.jump off a tall cliff you uppity bitch!
+Да откуда тебе вообще это знать! \.Иди и прыгни с обрыва, наглая сучка!
 #
 # choice: ......
-I know everything about her, \.In fact I plan to replace her once she's gone!
-You hangout with ONE muse and think you know it all huh?
-Hymnia?
+Я знаю всё про неё. \.И вообще я планирую заменить её, как только она исчезнет!
+А ты потусовалась с ОДНОЙ музой и уже думаешь, что всё про всех знаешь, да?
+Гимния?
 #
 # choice: Hymnia?
-Yeah her! She's quite lovely isn't she.... \.so sweet. 
-Ugh I can't stand her.
+Ага! Она же такая очаровательная, ведь так.... \.Такая милашка. 
+Фу, не переношу её.
 #exit
 # -------------------
 
@@ -40,10 +40,10 @@ Ugh I can't stand her.
 #condition hellgirl == 4 goto 2
 #
 # from page 1
-Worried about me? \.You don’t gotta check on me so often, \.Tomo. \.worry about yourself, \.Aren’t you looking for a flower? 
-What could be so important about this flower? \.surely not much right?
-Yellow asphodels were so much more common like 20 years ago all of a sudden. \.You are just a little too late as they are all but gone now.
-It took the death of someone incredibly beloved in the naraka to have them appear in such an abundance, when that muse was poking around things surely were chaotic. 
+Ты беспокоишься обо мне? \.Тебе не обязательно так часто меня проверять, \.Зава. \.Подумай о себе, \.ты же цветок ищешь? 
+Что же в этом цветке может быть такого важного? \.не может же быть там ничего такого?
+Жёлтые асфодели ещё лет двадцать назад встречались куда чаще. \.Ты немного опоздала, потому что их уже почти не осталось.
+Чтобы они расплодились в таком количестве, в Нараке должен был умереть кто-то всеми любимый. Но когда та муза рыскала повсюду, всё пошло вразнос. 
 #exit
 # -------------------
 
