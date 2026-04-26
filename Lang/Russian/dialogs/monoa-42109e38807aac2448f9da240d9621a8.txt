@@ -2,18 +2,18 @@
 # 6cf7d8bf 270448c7 81b90523 94d89a0c 11bb4cf7 c9ea88a7 5adf2ac1 448d7b49 e7687bd7 45d06957 b4af834a
 # ----- page 0 -----
 #condition Monoa == 1 goto ?
-Can I show you something?
-yes | no
+Могу я тебе кое-что показать?
+Да | Нет
 #exit
-Are you seeing this! \.Who would deface this wonderful city with such a thing!
-Actually these folks look familiar too...
-It kind of reminds me of the homeless people gomi had hung out with who were known for passing out free beer.
-Fortunately I put them behind bars!
-that's my job, \.when an evil man does a dangerous maneuver.
-Or was it a dangerous man does an evil maneuver?
-Doesn't matter!
-It's also my job to scrub this stupid wall
-You don't suppose you've seen her, \.have you?
+Ты только посмотри! \.Кто мог испортить этот чудесный город такими вещами!
+Вообще, эти типы тоже выглядят знакомыми...
+Это мне чем-то напоминает бездомных, с которыми отвисала Гоми, и которые известны тем, что раздавали бесплатное пиво.
+К счастью, я упрятал их за решётку!
+Это моя работа, \.когда злой человек совершает опасный манёвр.
+Или когда опасный человек совершает злой манёвр?
+Не важно!
+А ещё моя работа - это драить эту тупую стену.
+Ты, случайно, её не видела, \.нет?
 #exit
 # -------------------
 
