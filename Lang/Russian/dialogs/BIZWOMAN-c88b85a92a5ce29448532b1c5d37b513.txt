@@ -1,7 +1,7 @@
 ﻿# sickly
 # 2cbec43e 84fb2f3b d3d46efb cbabf737 0a8ca321 4beb0b2b
 # ----- page 0 -----
-#condition Sickly == 1 goto 1
+#condition Sickly >= 1 goto 1
 Oh dear.....\. have you seen my friend?\. she looks kind of serious and has a bandage on her head.
 After I lost my job as being a disruptive nuisance to those building the tower she had helped me find new work.
 I don't even remember why I was doing that....\. then again I was quite ill back then.
@@ -16,7 +16,7 @@ These days I am able to be much more clear headed.\. It's a rather nice change o
 
 # ec97cd38 16d45c5b f9e33a9e 911ea941 f460e600 8e3bba35 9fed35a5 7977172d
 # ----- page 1 -----
-#condition Sickly == 2 goto 2
+#condition Sickly >= 2 goto 2
 #
 # from page 1
 I wish to show you something if you don't mind...

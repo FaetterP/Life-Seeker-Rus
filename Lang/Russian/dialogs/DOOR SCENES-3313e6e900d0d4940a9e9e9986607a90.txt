@@ -1,7 +1,7 @@
 ﻿# d1
 # 863dc0aa ab179bae e24073c9 72d79b24 02e2e68b 2f0e50b3 d681e05c
 # ----- page 0 -----
-#condition d1 == 1 goto 1
+#condition d1 >= 1 goto 1
 parangaricutirimicuaroparangaricutirimicuaroparangaricutirimicuaroparangaricutirimicuaroparangaricutirimicuaro
 Can you say that fast over and over? \.No, \.probably not. \.Takes a LOT OF SKILL!
 How about - Camaron caramelo, caramelo camaron, camaron caramelo, caramelo camaron
@@ -19,7 +19,7 @@ YOU DIDN'T EVEN TRY!
 
 # cf8f014f b51b131f 91e96ae9 47c5a65e b6556f4d bc0624ae f571b2f3 a4a050a1 7b1ca48f a1251d97 f74e26d0 c648343c d3aca66b 951af0fb f3c5a226
 # ----- page 1 -----
-#condition d1 == 2 goto 2
+#condition d1 >= 2 goto 2
 #
 # from page 1
 OI girl, \.Ya gonna finish that drink or ya gonna stare at it? \.dontcha know it ain’t easy to let your inhibitions go without it? \.Yup lets get nice and loose now after a long ol day.
@@ -56,7 +56,7 @@ Oh. \.That makes you even more odd. \.Anyways, \.I suppose I’ll see you tomorr
 
 # bcf704bc 16ee1cad 4e61c76a 71e9ed39 09b899f9 6b3fb3a1 6a790d5f f60a34d9
 # ----- page 2 -----
-#condition d1 == 3 goto 3
+#condition d1 >= 3 goto 3
 #
 # from page 2
  OI Tomo! \.is that you?\. Oh please you must come meet my wife jeanny! \.Now don’t be shy. \.Jeanny come, come on now. 
@@ -72,7 +72,7 @@ I suppose we should be on our way, \.our car is here.\.do enjoy your search,\. T
 
 # c1638b50 e46d5c9c 2ec832d9 653c2d19 27b228e7 cb7401de 76b5e903 1c74de50 9840ed3f 4a2ecf51 d28833e7 0c93e533
 # ----- page 3 -----
-#condition d1 == 4 goto 4
+#condition d1 >= 4 goto 4
 #
 # from page 3
 AYE! \.We aren’t open. \.you gotta come back later, lady. \.Bikes out of commission so i can’t be dishin out rides right this minute. 
@@ -92,7 +92,7 @@ That’s combustion. \.That’s raw energy, \.the same force that drives storms 
 
 # 1a176d0b dcd6fb64 c0171259 b0e53403 755df260
 # ----- page 4 -----
-#condition d1 == 5 goto 5
+#condition d1 >= 5 goto 5
 #
 # from page 4
 you know how much platinum catalytic converters have? \.just hardly enough to justify me stealing this thing! 
@@ -105,7 +105,7 @@ What the hell is that thing, \.some sort of goblin? \.don’t tell me you’ve b
 
 # 280d175d 03b6cdb8 1b6cb8ce 62ed0b06 46dc2e8b
 # ----- page 5 -----
-#condition d1 == 6 goto 6
+#condition d1 >= 6 goto 6
 #
 # from page 5
  We are back up and runnin! \.only took ages thanks to that little goblin rat thing. \.well not really, \.I decided we don’t need a catalytic converter. \.I reckon things are just simpler this way, \.yah? 
@@ -118,7 +118,7 @@ We can’t stop change here like ya can on earth. \.and yet both places ain’t 
 
 # 3127e994 9a3fa60f cb11954b f2652735 34a76ea5 e7740c5b 41097f8b
 # ----- page 6 -----
-#condition d1 == 7 goto 7
+#condition d1 >= 7 goto 7
 #
 # from page 6
 There’s nobody on the other side of the door but myself this time. \.where is everyone? 

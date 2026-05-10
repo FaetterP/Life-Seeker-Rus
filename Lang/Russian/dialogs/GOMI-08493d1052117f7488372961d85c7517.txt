@@ -1,7 +1,7 @@
 ﻿# Gomi
 # 0ba9e9a4 489d75f2
 # ----- page 0 -----
-#condition Gomi == 1 goto 1
+#condition Gomi >= 1 goto 1
 You see dat broad wit da blu hair? \.what a friggin bidtch....
 whats her friggin deal? she ain't foolin me with dat cutesy act.
 #exit
@@ -9,7 +9,7 @@ whats her friggin deal? she ain't foolin me with dat cutesy act.
 
 # d3baef08 392b2013 ba2efe6d
 # ----- page 1 -----
-#condition Gomi == 2 goto 2
+#condition Gomi >= 2 goto 2
 #
 # from page 1
 I jus made some yuge bux man, you ain’tz gotta clue. \.I was in dis ol library and some fuggin guy gave me money to jus be a distraction to dem nerdz learnin.
@@ -20,7 +20,7 @@ Yuge moves! \.dis will covers half da weeks beer costz!
 
 # 126c1d74 7ccc03bb b4e88bc3
 # ----- page 2 -----
-#condition Gomi == 3 goto 3
+#condition Gomi >= 3 goto 3
 #
 # from page 2
 Yo my homie got killedz in da streetz man…. \.and ain’t no one told me?
@@ -31,7 +31,7 @@ I gotta drink dis one over….
 
 # 3781e923 e0d6d982 6875fe50 fa94b24b 618b922d
 # ----- page 3 -----
-#condition Gomi == 4 goto 4
+#condition Gomi >= 4 goto 4
 #
 # from page 3
  I sawz a grumpy broad in a dumb hat. \.Cute lady fo sho but damz bidtch yo face gon stickz if you keep scowlin like dat.  
@@ -44,7 +44,7 @@ Get yo act together ladyz.
 
 # dd8dc999 6532101d 4c9bdce7
 # ----- page 4 -----
-#condition Gomi == 5 goto 5
+#condition Gomi >= 5 goto 5
 #
 # from page 4
 Aye Tomoz, \.you tryna be budz? Imz tryna start a crew, \.ya downz? \.Itz for liekz yazzified bad bidtches but liek we can workz on ya.
@@ -54,6 +54,6 @@ gal….
 # -------------------
 
 # ----- page 5 -----
-#condition Gomi == 6 goto ?
+#condition Gomi >= 6 goto ?
 # -------------------
 

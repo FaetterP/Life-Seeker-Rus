@@ -1,7 +1,7 @@
 ﻿# BALOO
 # debcfb60 270448c7 f3182ce7 f53e491a 49c2fef4 1af7f82b de385888 2f11b0ce
 # ----- page 0 -----
-#condition balco == 1 goto 1
+#condition balco >= 1 goto 1
 Yo lady, \.you need a ride?
 yes | no
 Servus, \.Tomo! \.This place makes me miss Wien. \.As a man, \.I’m not here to tell you what to do. \.I could tell you some stories about Vienna. \.All the Wiener i chauffeured back in Vienna, \. All of them wanted to go to the Prater. 

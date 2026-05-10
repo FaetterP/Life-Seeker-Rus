@@ -1,7 +1,7 @@
 ﻿# maple
 # c7b7ea36 4f4cf98e 53ddf9e1 c34e4037 6d159560
 # ----- page 0 -----
-#condition maple == 1 goto 1
+#condition maple >= 1 goto 1
 The new expanded Naraka truly is wonderful, \.but it seems to favor the nimble. \.lots of tough to reach places around. 
 There is a kind bald man around who strolls rather gingerly, \.but one day something must of got him in a tizzy. \.I saw reaching unforetold speeds and leap crazy heights in a heated pursuit!
 Do we all hold such potential? \.I do wonder what the tipping point to reaching this is. \. Maybe not though, \.we aren’t in a comic book after all. 
@@ -12,7 +12,7 @@ Memories and dreams have begun to leak out into the naraka causing massive expan
 
 # 06eb8a4b 7e3da02a 8fe29d1f 3b5d2b1f 91aafcdd
 # ----- page 1 -----
-#condition maple == 2 goto 2
+#condition maple >= 2 goto 2
 #
 # from page 1
 New fangled computer graphics are getting too real… false memories spilling out into the naraka based upon generated 3 dimensional objects and planes. 
@@ -25,7 +25,7 @@ Can the inanimate begin to feel? \.The lines between man and machine blur with e
 
 # fc1106e8 049b3aea f5d70388 f4fb001e
 # ----- page 2 -----
-#condition maple == 3 goto ?
+#condition maple >= 3 goto ?
 #
 # from page 2
 I just found out there are systems where musical octaves aren’t chopped into 12 equal pieces — \.and one of them uses 31.
@@ -37,7 +37,7 @@ There was even an old tale of Pythagoras hearing blacksmith's hammers making dif
 
 # 0452ad49 37911d27 e700e594
 # ----- page 3 -----
-#condition maple == 4 goto 4
+#condition maple >= 4 goto 4
 #
 # from page 3
  Its a crazy world outside, I think we’re gonna lose our pride. I mean it can happen to anyone, you just gotta look up and around. 
@@ -48,7 +48,7 @@ These devices will be the death of us, \.you can bring your soul to life in many
 
 # fc1315cc 4b379adf 13b08ca6 23243682 41ea1951 3169bb8d
 # ----- page 4 -----
-#condition maple == 5 goto 5
+#condition maple >= 5 goto 5
 #
 # from page 4
 Remember all that musical nonsense we spoke of? \.A muse told me there is a man in a cave who is far more knowledgeable on this.

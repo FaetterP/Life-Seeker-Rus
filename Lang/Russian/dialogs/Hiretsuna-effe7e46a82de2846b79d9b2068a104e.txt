@@ -1,7 +1,7 @@
 ﻿# BARREL!
 # f2652735 b8b59aa3 a98072b3 164d472d 1512531c a10903ee 77147f81
 # ----- page 0 -----
-#condition barrel == 1 goto 1
+#condition barrel >= 1 goto 1
 ......
 .........
 You just got robbed bitch!
@@ -12,6 +12,6 @@ you best remember that name, \.I'm going to be known worldwide one day! \.trust.
 # -------------------
 
 # ----- page 1 -----
-#condition barrel == 2 goto ?
+#condition barrel >= 2 goto ?
 # -------------------
 

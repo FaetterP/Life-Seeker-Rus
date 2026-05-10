@@ -1,7 +1,7 @@
 ﻿# Lampgirlwoman
 # a2cf5685 5dbb0293 a0100eeb 24125222
 # ----- page 0 -----
-#condition Lamp == 1 goto 2
+#condition Lamp >= 1 goto 2
 Can you hear me? \.I will not dim.
 The greatest glimpse of light, with your back to the wall.
 I will not dim! \.Can you hear me! \.god!
@@ -11,7 +11,7 @@ Oh, \.Tomorrow. Sorry I was talking to someone else.
 
 # 6df54bb1 06b0cb87 5f22d824 183b125b 7510e18d 89370085 57948559 f8257f17 27767c34
 # ----- page 1 -----
-#condition Lamp == 2 goto page2
+#condition Lamp >= 2 goto page2
 #
 # from page 1
 Tomorrow, \.you're back again? \.do you want to come with me to see something?
@@ -32,7 +32,7 @@ oh... \.Oh my days.
 
 # bbc4d1df 1d39f903 ba7d68b3
 # ----- page 2 -----
-#condition Lamp == 3 goto 3
+#condition Lamp >= 3 goto 3
 #
 # from page 2
 My Bright girl, \.you’re back! \.Oh how I wonder how you’ve been! 
@@ -43,7 +43,7 @@ Things could be brighter for me, \.you see. \.an inconspicuous barrel has been a
 
 # 36f89a76 ec6fc882 6a38e2a0 f26400d6
 # ----- page 3 -----
-#condition Lamp == 4 goto 4
+#condition Lamp >= 4 goto 4
 #
 # from page 3
 Tomorrow, \.Have you considered teaching others in your agile ways? \.I do wish I could bounce as joyously as you. 
@@ -55,7 +55,7 @@ The sun feels so warm now that it shines much more often, \. This is true freedo
 
 # c667b916 8b8d3a95 8c1e3335
 # ----- page 4 -----
-#condition Lamp == 5 goto 5
+#condition Lamp >= 5 goto 5
 #
 # from page 4
 I looked at the moon the other day and a white rabbit looked back at me. \.I believe its name was Usagi. \.A bland name for a rabbit no?
@@ -66,7 +66,7 @@ I did once hear stories of a small pup on the moon becoming a rabbit. \.But how 
 
 # 0413d73d c24e3fdd 2527fa4d
 # ----- page 5 -----
-#condition Lamp == 6 goto 6
+#condition Lamp >= 6 goto 6
 #
 # from page 5
 I find the peace rather odd, \.don’t you? \.Many who displayed hostilities before the towers creation are seemingly pacified.  

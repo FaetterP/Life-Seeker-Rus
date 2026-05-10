@@ -1,7 +1,7 @@
 ﻿# CE
 # c9ccfa9b 9f2e729a 87fa2179 c9448aa6
 # ----- page 0 -----
-#condition celare == 1 goto 1
+#condition celare >= 1 goto 1
 Oh it’s you! \.You remind me a lot of myself you know, \.have you thought to stop and smell the roses?  \.It can be rather nice, you know just slowing down a bit. 
 I was never much of a long jumper though, \.you’ll have to teach me that move. \. I Was more of like a shark…. \.Yeah just runnin and runnin annnnnd….
 Maybe that’s why they picked you over me! \.Some people think me and you are even related, \.but that’s rather silly.
@@ -11,7 +11,7 @@ I could have blown their macho macho mind away! \.But While floating down the ri
 
 # c8bf21df 0eddacd5 cc985255
 # ----- page 1 -----
-#condition celare == 2 goto 2
+#condition celare >= 2 goto 2
 #
 # from page 1
 I was listening to my cassette player the other day but it was all just ambient and it put me in a strange trance. \.Not for me, \.no ma’am, \.where are the riffs? \. If I’m out and about I want to bash my wig to sick riffs! 
@@ -22,7 +22,7 @@ Ayuma thinks I’m a total weirdo, \.but think about it. Running a marathon acro
 
 # f0421cc8 69b66eb1 42a13573
 # ----- page 2 -----
-#condition celare == 3 goto 3
+#condition celare >= 3 goto 3
 #
 # from page 2
 Flowers…. \.flowers….. \.flowers. \. You are looking for one yes? \. Have you considered looking underground?
@@ -33,7 +33,7 @@ I do wonder what Hymnia wants with such a flower. \.From my understanding she wa
 
 # 46a80872 ad7d6c71
 # ----- page 3 -----
-#condition celare == 4 goto 4
+#condition celare >= 4 goto 4
 #
 # from page 3
 3 girls in sandals ran up to me the other day claiming to be my biggest fans, \.Don’t you know you can’t sprint in sandals! \.no fan of mine should wear such a thing!
@@ -42,6 +42,6 @@ You gotta be ready to go at the drop of a dime!
 # -------------------
 
 # ----- page 4 -----
-#condition celare == 5 goto ?
+#condition celare >= 5 goto ?
 # -------------------
 

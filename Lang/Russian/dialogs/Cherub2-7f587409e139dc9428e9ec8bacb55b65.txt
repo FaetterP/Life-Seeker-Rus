@@ -1,7 +1,7 @@
 ﻿# Cherub
 # f7346981 e553d46c df1d37f8 9b7afeb7 eb59f3db 860af9e3 045eddaa b5c041b8 ffd88842
 # ----- page 0 -----
-#condition Cherub == 1 goto page
+#condition Cherub >= 1 goto page
 Oh\. it's you!\. Hi Tomorrow....
 Do I know you? | Hi?
 #
@@ -23,7 +23,7 @@ Maybe you'll grow even more soon! you could be a late bloomer!
 
 # d6816609 ef6786a5 4e66e08e 50d481cf
 # ----- page 1 -----
-#condition Cherub == 2 goto page2
+#condition Cherub >= 2 goto page2
 #
 # from page 1
 Tomo, \.there is something I could use your help with. \.You see, \.there is a small ranch where I care for those in need, \. Just as Golem had done for me. \.
@@ -35,7 +35,7 @@ If you are willing to help me, please meet me at your house. \.I can fill you in
 
 # 4f061b61 d31cb55b e1e57ea9 a97a0a7c c232acbc 292d3b0f 6f5645aa 623831e3 e53d9cf5 5c9911fd
 # ----- page 2 -----
-#condition Cherub == 3 goto 3
+#condition Cherub >= 3 goto 3
 #
 # from page 2
 Oh, \. Tomo! will you come spend time with me?

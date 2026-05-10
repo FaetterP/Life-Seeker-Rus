@@ -1,7 +1,7 @@
 ﻿# Iya
 # ebb09a27 13793fc2 4e09e477 9ffd06a5 8175da4d 54927a94
 # ----- page 0 -----
-#condition iya == 1 goto 1
+#condition iya >= 1 goto 1
 Ain't you quaint, mate. \.what's got ya so hoppy?
 Things ain't like they used to be round here, \.aye? \. Everyones got some new found pep.
 Met a bloke who I reckon mucked everything all up for us. \.Yep, \.came in with that same dead stare you got.
@@ -13,7 +13,7 @@ Only the strongest linger in the processed world now.
 
 # e2714d2a 99fc717c 418f6d9a 31b4aa32 e015ec40 577ccef0 4e4808d1 318feb63 15447e2e f44c5ecf bb18f6f0 4fa63064 3cf0e4e3
 # ----- page 1 -----
-#condition iya == 2 goto 2
+#condition iya >= 2 goto 2
 #
 # from page 1
 LIl Tomo. \.Bug eyed girl.
@@ -40,7 +40,7 @@ I wanna go see that place for myself, \.maybe i'll member somethin or another!
 
 # 2324b4ce 797dc095
 # ----- page 2 -----
-#condition iya == 3 goto 3
+#condition iya >= 3 goto 3
 #
 # from page 2
 Aye, \.tomo. \.I'm busy ya see? lil green ate the last of my sweets and im gonna squeeze em out of em!

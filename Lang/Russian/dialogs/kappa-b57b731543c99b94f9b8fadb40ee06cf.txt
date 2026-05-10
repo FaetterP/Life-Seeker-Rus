@@ -1,13 +1,13 @@
 ﻿# Kappa
 # 4fd4bcdb 6a72d45f 4f351feb 1f9c2843 0671e5b1
 # ----- page 0 -----
-#condition kap == 1 goto next
+#condition kap >= 1 goto next
 Woah lady, ].you reek of cigarettes. \.How are you so nimble if you chain smoke all day? \.I don’t get it.
 A real gift you got there! \.Cherish it for sure. \.I wonder when I’ll get my gift, \.feels like I’ve been waiting a long freakin’ time though.
 Wait- \.I get it now. \.Us being friends is the gift, ain’t it?
 Guess so! | Do you typically insult friends?
 #
-# next: condition: kap == 1
+# next: condition: kap >= 1
 # choice: Guess so!
 # choice: Do you typically insult friends?
 Forget my little observation, \.that’s all water under the bridge now! \.Me and you meeting is destiny, \. I can feel it! \.Though i’m sure you meet new folks all the time.
@@ -16,7 +16,7 @@ Forget my little observation, \.that’s all water under the bridge now! \.Me an
 
 # b2f32eba c9e5c000 5f22d93d
 # ----- page 1 -----
-#condition kap == 2 goto 2
+#condition kap >= 2 goto 2
 #
 # from page 1
 Hey you know that tall as heck Cherub lady? \.she’s looking for a ranch hand, maybe you could lend her a hand.
@@ -27,7 +27,7 @@ There’s lil treats that appear all around the naraka now that’s expanded, \.
 
 # 5e58e3c2 6ecaa344 82e24b83 58a43c18 f31a81ab
 # ----- page 2 -----
-#condition kap == 3 goto 3
+#condition kap >= 3 goto 3
 #
 # from page 2
 A small pickle smelling creature accused ME of smelling fowl. \.who the hell does she think she is? \.I bathe daily in my pond, \,ain’t nothin’ but the truth there. 
@@ -40,7 +40,7 @@ I’ve no clue how to return to that place. \.could such an agent of chaos be se
 
 # 0c118211 8e55f554 ba3b1f6a 48e2de97 f170ffee 6c21d327 d44f13eb
 # ----- page 3 -----
-#condition kap == 4 goto 4
+#condition kap >= 4 goto 4
 #
 # from page 3
 In kindergarten while lining up to go outside i looked at the back of this kids hair and had the sudden urge to eat all his hair so I just bit down and started chewing.
@@ -55,7 +55,7 @@ I regret nothing, \,it was very tasty.
 
 # 6c21b29f a6009f22 ed108021
 # ----- page 4 -----
-#condition kap == 5 goto 5
+#condition kap >= 5 goto 5
 #
 # from page 4
 There is a card game that acts as a pass time round here, \.lots of folks play it but I’ve never understood it. \.regardless, \.it’s kinda cool to collect them! 
@@ -65,6 +65,6 @@ I did see a card of you too, \.did you consent to this? \.I don’t remember doi
 # -------------------
 
 # ----- page 5 -----
-#condition kap == 6 goto ?
+#condition kap >= 6 goto ?
 # -------------------
 

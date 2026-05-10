@@ -1,7 +1,7 @@
 ﻿# Bart
 # ef700839 e769982e
 # ----- page 0 -----
-#condition Bart == 1 goto 1
+#condition Bart >= 1 goto 1
 Oh... you are the nimble one I see running about. \.I wish I could be so nimble.
 A word of advice for you, \. going back the way you came may not lead to where you think it should. 
 #exit
@@ -9,7 +9,7 @@ A word of advice for you, \. going back the way you came may not lead to where y
 
 # f670dd16 69a92331 42af6fb5 9abed792 ff8f0ec0 23969289
 # ----- page 1 -----
-#condition Bart == 2 goto 2
+#condition Bart >= 2 goto 2
 #
 # from page 1
  When we think of numbers we think of vast seas of zeros, \.dreaming to swim in this pool of excess. 
@@ -23,7 +23,7 @@ would they do anything? \. 27 seems like a great place to stop counting.\. Thoug
 
 # 7fa42fe3 4cff59c3 ea614a04 13123062 49238c7d 5a3d8ccc a104d7a3 a814f76e 0d24606e 87316afd
 # ----- page 2 -----
-#condition Bart == 3 goto 3
+#condition Bart >= 3 goto 3
 #
 # from page 2
 Oh it's you! Will you join me on a stroll?
@@ -42,7 +42,7 @@ Ever since then our city has expanded, yet the memories of those who were here g
 
 # 97110fa6 7009ed4a eb124b2b 304b19bd 9ff0eed4 faa8081b 8998347e 8abc2dc5 d12b2b78 e4ac6e35 6ffe46ef
 # ----- page 3 -----
-#condition Bart == 4 goto 4
+#condition Bart >= 4 goto 4
 #
 # from page 3
 Oh... hello
