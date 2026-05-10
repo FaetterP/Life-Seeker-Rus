@@ -1,13 +1,13 @@
 ﻿# tomosleepy
 # e7cdec1d 7bcf1d54 78d14239 4f7ed2d2 8c0df956 68110eab 3297ccfc 4ffe7ec4 596147c4 ee36f952 970c6285 f2652735 bc9d90d0 39ad2c11 c39ae0eb 12c8b4c3
 # ----- page 0 -----
-#condition sleepy == 2 goto 2
-#condition sleepy == 1 goto 1
+#condition sleepy >= 2 goto 2
+#condition sleepy >= 1 goto 1
 I think it's time for rest.....
 Tomo, \.Don't you think it's time to get up?
 huh... | why are you in my house?
 #
-# 1: condition: sleepy == 1
+# 1: condition: sleepy >= 1
 # choice: huh...
 # choice: why are you in my house?
 I wanted to see where you live.  \.I have to say, \.It's an interesting little spot.
@@ -20,7 +20,7 @@ I have a feeling if I did not wake you, \.you may just sleep forever.
 are you not happy to see me on this fine afternoon?
 ......
 #
-# 2: condition: sleepy == 2
+# 2: condition: sleepy >= 2
 # choice: ......
 I see.... \. well shall we be off?
 Next time should I bring you a coffee? \.Or pehaps even a beer? \.My sister had used to use this trick.

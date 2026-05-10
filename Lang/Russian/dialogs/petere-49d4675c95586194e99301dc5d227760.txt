@@ -1,7 +1,7 @@
 ﻿# Peter
 # c0da1363 c78c7e69 be16425c
 # ----- page 0 -----
-#condition peter == 1 goto 1
+#condition peter >= 1 goto 1
 Jo, \.griaß di du sportsbengel du. \.Tomo isch din Name gell? \.Bi üs set ma dass da Morga an Tag der Nüchternheit isch… \.Woasch eh… \.
 I bin o numma mehr da jüngst, \. aberrrr, \.du Tomo, \.din Nama set scho alles dass du am Morga scho guat uskummsch. 
  You’re fantastisch! \. Da Zititräger hüt hot ma mine Zitig uf Steaga ahegworfa und du, \.i segs da, \. es war da ganze boda eine traurige Sauerei. \. I hope Morgen will change. 
@@ -10,7 +10,7 @@ I bin o numma mehr da jüngst, \. aberrrr, \.du Tomo, \.din Nama set scho alles 
 
 # bef52c66 04f10bbb
 # ----- page 1 -----
-#condition peter == 2 goto 2
+#condition peter >= 2 goto 2
 #
 # from page 1
 Grüß Gott! \.Have you ever heard of that greeting? \.But let’s vergessen wir about this topic! \.I still haven’t eaten my Suppe today… \.I don’t like soup. 
@@ -20,7 +20,7 @@ Grüß Gott! \.Have you ever heard of that greeting? \.But let’s vergessen wir
 
 # 74c63191 7e01f870 e1edcacb 85c5a1ac
 # ----- page 2 -----
-#condition peter == 3 goto 3
+#condition peter >= 3 goto 3
 #
 # from page 2
 You’re soooo fantastisch, \.Tomo!!! \.You float like a white diamond up in the blue blue sky. \.Ach, \.mir wird schon so blau. \.Mir wird am meisten blau vor den Augen when i climb up the stairs. 

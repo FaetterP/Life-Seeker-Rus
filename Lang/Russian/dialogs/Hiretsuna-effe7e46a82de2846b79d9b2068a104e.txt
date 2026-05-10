@@ -1,7 +1,7 @@
 ﻿# BARREL!
 # f2652735 b8b59aa3 a98072b3 164d472d 1512531c a10903ee 77147f81
 # ----- page 0 -----
-#condition barrel == 1 goto 1
+#condition barrel >= 1 goto 1
 ......
 .........
 Тебя только что ограбили, сучка!
@@ -12,6 +12,6 @@
 # -------------------
 
 # ----- page 1 -----
-#condition barrel == 2 goto ?
+#condition barrel >= 2 goto ?
 # -------------------
 
