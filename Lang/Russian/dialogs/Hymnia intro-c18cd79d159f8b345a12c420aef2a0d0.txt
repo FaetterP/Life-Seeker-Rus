@@ -1,31 +1,31 @@
 ﻿# Hymnia
 # e47b728d 6f9870e0 a479b376 0637726b 8db12ce4 61967056 82328ccf 877c048f 0134f150 d4ef8846 377d2090 48307898 a82da40e 8bcdabd3 429c5afe 6d7cb78e e27bffec
 # ----- page 0 -----
-Oh, \. and who are you?
-My name is Tomorrow. | What are you doing out here?
+Ой, \.и уто же ты?
+Меня зовут Завтра. | Что ты здесь делаешь?
 #
 # choice: My name is Tomorrow.
-It's a wonderful name.
+Чудесное имя.
 #
 # choice: What are you doing out here?
-I'm looking for something I've lost, \.you see.
-Perhaps you're looking for something too? 
-What is it you are out here seeking?
-I'm looking for beauty | I'm looking for companionship | I'm looking for a muse | I'm looking for a new life
+Я кое-что потеряла и теперь ищу это, \.понимаешь.
+Может, ты тоже что-нибудь ищешь? 
+Что тебя сюда привело?
+Я ищу красоту | Я ищу дружеского общения | Я ищу музу | Я мщу новую жизнь
 #
 # choice: I'm looking for beauty
 # choice: I'm looking for companionship
 # choice: I'm looking for a muse
 # choice: I'm looking for a new life
-I see, \.maybe we can help one another on our pursuit? \.I'm looking for a yellow asphodel.
-It's a rather wonderful flower. \.Briefly they had been abundant but it seems its once again faded into rarity.
-This flower may aid you on your own journey, \.don't you think? 
-why a flower?
-You can consider me somewhat of a curator for beauty. \.I simply want to see it in all of its eloquence. \.To spend a moment with it would be most wonderful. 
-Maybe that's why I'm asking for your help,  I see that we are on similar paths. 
-We can share the moment together. 
-Will you help me? 
-I nearly forgot to tell you my name. It's Polyhymnia, \.But you may call me Hymnia. 
-I'm going to send you on your way now, \.but don't worry I won't be far. I'll see you, Tomorrow.
+Понимаю, \.может, мы можем помочь друг другу с нашими целями? \.Я ищу жёлтый асфодель.
+Это довольно удивительный цветок. \.Какое-то время они были в изобилии, но, похоже, теперь снова стали редкостью.
+Этот цветок может помочь и тебе в твоём путешествии, \.ты так не думаешь? 
+Зачем тебе цветок?
+Можешь считать меня своего рода хранителем красоты. \.Я просто хочу видеть её во всём её великолепии. \.Было бы замечательно провести с ним хотя бы мгновение. 
+Может, поэтому я и ищу у тебя помощи. Я вижу, что мы идём схожими путями. 
+Мы можем разделить этот момент вместе. 
+Ты поможешь мне? 
+Я чуть не забыла представиться. Меня зовут Полигимния, \.но можешь звать меня просто Гимнией. 
+Теперь я отпущу тебя, \.но не беспокойся, я буду не далеко. Увидимся, Завтра.
 # -------------------
 
