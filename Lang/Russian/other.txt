@@ -1,4 +1,4 @@
-﻿# Other localized texts
+# Other localized texts
 # Format: key=localized text
 # Empty lines and lines starting with # are ignored
 # You can use any characters in key and value, including equal sign (=)
@@ -9,44 +9,44 @@
 
 # Add your translations here:
 
-pause.title=PAUSED
-pause.start=Start
-pause.settings=Settings
-pause.restart=Restart Level
-pause.home=Go Home
-pause.exit=EXIT
-pause.sprint=Sprint toggle
-pause.vsync=Vsync On
-pause.framerate=Frame Rate:
-pause.font=Dialog Font:
-pause.save=Save Settings
-pause.settings=Settings
+pause.title=ПАУЗА
+pause.start=Продолжить
+pause.settings=Настройки
+pause.restart=Перезапустить уровень
+pause.home=Отправиться домой
+pause.exit=ВЫХОД
+pause.sprint=Переключение спринта
+pause.vsync=VSync вкл.
+pause.framerate=Частота кадров:
+pause.font=Шрифт:
+pause.save=Сохранить настройки
+pause.settings=Настройки
 
-ranch.age=Age
-ranch.day=Day
-ranch.fortification=Fortification
-ranch.hated=Hated Food
-ranch.loved=Loved Food
-ranch.health=Health
-ranch.intelligence=Smarts
-ranch.love=Love
-ranch.nature=Nature
-ranch.rest=Do you want to rest this week?
-ranch.speed=Speed
-ranch.strength=Strength
-ranch.item=Item
-ranch.feed=Feed
-ranch.rest=Rest
-ranch.elemental=Elemental
-ranch.scissors=Scissors
-ranch.paper=Paper
-ranch.rock=Rock
-ranch.hp=HP:
-ranch.no=No
-ranch.yes=Yes
-ranch.info=Info
-ranch.back=Back
-ranch.exit=Exit
-ranch.use=Use
-ranch.battle=Battle
-ranch.notYet=You can't go to the ranch yet.
+ranch.age=Возраст
+ranch.day=День
+ranch.fortification=Укрепление
+ranch.hated=Нелюбимая еда
+ranch.loved=Любимая еда
+ranch.health=Здоровье
+ranch.intelligence=Смекалка
+ranch.love=Любовь
+ranch.nature=Натура
+ranch.rest=Отдохнуть на этой неделе?
+ranch.speed=Скорость
+ranch.strength=Сила
+ranch.item=Предмет
+ranch.feed=Кормить
+ranch.rest=Отдых
+ranch.elemental=Стихия
+ranch.scissors=Ножницы
+ranch.paper=Бумага
+ranch.rock=Камень
+ranch.hp=ОЗ:
+ranch.no=Нет
+ranch.yes=Да
+ranch.info=Справка
+ranch.back=Назад
+ranch.exit=Выйти
+ranch.use=Использовать
+ranch.battle=Бой
+ranch.notYet=Пока что на ранчо попасть нельзя.

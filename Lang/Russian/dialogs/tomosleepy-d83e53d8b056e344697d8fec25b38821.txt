@@ -3,29 +3,29 @@
 # ----- page 0 -----
 #condition sleepy >= 2 goto 2
 #condition sleepy >= 1 goto 1
-I think it's time for rest.....
-Tomo, \.Don't you think it's time to get up?
-huh... | why are you in my house?
+Кажется, пора отдохнуть.....
+Зава, \.разве тебе не пора вставать?
+Аа... | Что ты делаешь в моём доме?
 #
 # 1: condition: sleepy >= 1
 # choice: huh...
 # choice: why are you in my house?
-I wanted to see where you live.  \.I have to say, \.It's an interesting little spot.
-I can't let you sleep all day! \.there are many wonderful things we may find on our search!
-We also can't find a yellow aspodell with our eyes closed, \.of course.
-My, Tomo. \.are you always so slow to rise? \.You look.... ragged.
-Have you considered stretching, \.or maybe even resting a bit earlier? \.You may not age so gracefully at this rate.
-Or your face may get stuck that way, \.then everyone may think you are a grouch.
-I have a feeling if I did not wake you, \.you may just sleep forever.
-are you not happy to see me on this fine afternoon?
+Хотела посмотреть, где ты живёшь. \.Должна сказать, \.местечко довольно занятное.
+Я не могу тебе позволить спать весь день! \.Нас ждёт столько интересных вещей в нашем пути!
+И конечно же\. мы не сможем найти жёлтый асфодель с закрытыми глазами.
+Боже, Зава, \.ты всегда так медленно просыпаешься? \.Выглядишь.... потрёпанно.
+Ты не думала размяться, \.или хотя бы лечь пораньше? \.С такими темпами можешь забыть о том, чтобы быть красивой в старости.
+А то твоё лицо так и останется в таком положении, \.и все будут думать, что ты вечно злая.
+Мне кажется, что если бы я тебя не разбудила, \.ты бы проспала всю вечность.
+Разве ты не рада видеть меня в такой чудесный день?
 ......
 #
 # 2: condition: sleepy >= 2
 # choice: ......
-I see.... \. well shall we be off?
-Next time should I bring you a coffee? \.Or pehaps even a beer? \.My sister had used to use this trick.
+Понятно.... \.Ну что, пошли?
+Может, в следующий раз тебе принести кофе? \.Или, может, сразу пиво? \.Моя сестра проворачивала такое.
 #exit
-Time for rest....
+Пора отдохнуть....
 .....
 #exit
 # -------------------

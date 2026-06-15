@@ -2,9 +2,9 @@
 # c0da1363 c78c7e69 be16425c
 # ----- page 0 -----
 #condition peter >= 1 goto 1
-Jo, \.griaß di du sportsbengel du. \.Tomo isch din Name gell? \.Bi üs set ma dass da Morga an Tag der Nüchternheit isch… \.Woasch eh… \.
-I bin o numma mehr da jüngst, \. aberrrr, \.du Tomo, \.din Nama set scho alles dass du am Morga scho guat uskummsch. 
- You’re fantastisch! \. Da Zititräger hüt hot ma mine Zitig uf Steaga ahegworfa und du, \.i segs da, \. es war da ganze boda eine traurige Sauerei. \. I hope Morgen will change. 
+Йо, \.[griaß di du sportsbengel du](а ты спортивная малая). \.Зава [isch din Name gell?](это твоё имя, да?) \.Bi üs set ma dass da Morga an Tag der Nüchternheit isch… \.Woasch eh… \.
+[I bin o numma mehr da jüngst](Я уже не молодой), \. [aberrrr](ноооо), \.Зава, \.[din Nama set scho alles dass du am Morga scho guat uskummsch](твоё имя говорит само за себя, что у тебя по утрам всё хорошо). 
+Ты fantastisch! \.[Da Zititräger hüt hot ma mine Zitig uf Steaga ahegworfa und du](Газетчик мне сегодня закинул газету на лестницу), \.[es war da ganze boda eine traurige Sauerei](и на полу был сплошной беспорядок). \.Надеюсь [morgen](завтра утром) всё изменится. 
 #exit
 # -------------------
 
@@ -13,8 +13,8 @@ I bin o numma mehr da jüngst, \. aberrrr, \.du Tomo, \.din Nama set scho alles 
 #condition peter >= 2 goto 2
 #
 # from page 1
-Grüß Gott! \.Have you ever heard of that greeting? \.But let’s vergessen wir about this topic! \.I still haven’t eaten my Suppe today… \.I don’t like soup. 
-.I reject eating it. \.I am scared. \. Angst… \.Ich habe tiefergreifende Angst, \.dass wenn i meine Suppe net iss. \.etwas Schreckliches passieren kann. \. You don’t want to be scared right? \.Tomo? 
+[Grüß Gott](нем.-австр. приветствие, букв. "Да приветствует тебя Бог")! \.Ты когда-нибудь слышала такое? \.Но давай [vergessen](нем. забудем) про эту тему! \.Я за сегодня так и не поел свой suppe. \.Не люблю суп. 
+Я отказываюсь его есть. \.Мне страшно. \. [Angst](нем. страх, тревога)... \.[Ich habe tiefergreifende Angst](У меня есть более глубокий страх), \.[dass wenn i meine Suppe net iss](что если я не съем свой суп). \.[Etwas Schreckliches passieren kann](Что-то ужасное может случиться). \. Ты же не хочешь бояться, правда? \.Зава? 
 #exit
 # -------------------
 
@@ -23,10 +23,10 @@ Grüß Gott! \.Have you ever heard of that greeting? \.But let’s vergessen wir
 #condition peter >= 3 goto 3
 #
 # from page 2
-You’re soooo fantastisch, \.Tomo!!! \.You float like a white diamond up in the blue blue sky. \.Ach, \.mir wird schon so blau. \.Mir wird am meisten blau vor den Augen when i climb up the stairs. 
-I have this wunderbarer joy in me when I climb up the stairs. \. I miss climbing up the stairs back in my hometown. \.There was a stair called the “Himmelstreppe”. 
-You wanna know what that means? \.Heavenstairs. \.But as a kid I hated those stairs, \.because it took such a long time to climb them up. \. 
-Mir wurde unglaublich übel am Ende… \.Da ich eben nie Suppe geschlürft habe… \.That’s why Tomo, \.eating the Suppe would make you fantastisch blue! 
+Ты такаааая fantastisch, \.Зава!!! \.Ты паришь, как белый бриллиант в синем-синем небе. \.Ах, \.[mir wird schon so blau](всё вокруг становится синим). \.[Mir wird am meisten blau vor den Augen](Сильнее всего у меня синеет перед глазами) когда я поднимаюсь по лестнице. 
+У меня внутри такая [wunderbarer](чудесная) радость, когда я забираюсь по лестнице. \.Я скучаю по лестнице в моём родном городе. \.Там была лестница под названием “Himmelstreppe”. 
+Хочешь знать, что это значит? \.Лестница в небо. \.Но в детстве я ненавидел эти лестницы, \.потому что забираться по ним занимает так много времени. \. 
+[Mir wurde unglaublich übel am Ende](В конце мне становилось ужасно плохо)... \.[Da ich eben nie Suppe geschlürft habe](Потому что я никогда не ел суп). \.Вот почему, Зава, \.если ты будешь есть Suppe, ты станешь fantastisch синей! 
 #exit
 # -------------------
 
