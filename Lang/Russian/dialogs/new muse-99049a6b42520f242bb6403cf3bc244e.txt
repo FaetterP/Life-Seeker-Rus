@@ -2,11 +2,11 @@
 # 8dfd3b9b e2affaf0 e08d6d61 fb5f68ca 1008bb6c
 # ----- page 0 -----
 #condition Erato >= 1 goto 1
-Ohhh my...... \.darling. \.You reak of muse!
-I don't suppose you've been hanging around my sisters, \.have you?
-Oh yes, \.I surely smell Hymnia. \.I hope that naive girl is doing well.
-Is she pestering you to find things she finds beautiful? \.she tends to fixate on such.
-Try not to break her fragile heart, \.kay dear?
+Оххх боже...... \.дорогуша. \.от тебя разит музой!
+Ты что, крутилась рядом с моими сёстрами, \.не так ли?
+О да, \.я определённо чую Гимнию. \.Надеюсь, эта наивная девочка в порядке.
+Она приставала к тебе с просьбами найти то, что ей кажется прекрасным? \.Оня любит зацикливаться на подобном.
+Постарайся не разбить её хрупкое сердечко, \.лады?
 #exit
 # -------------------
 
@@ -15,16 +15,16 @@ Try not to break her fragile heart, \.kay dear?
 #condition Erato >= 2 goto 2
 #
 # from page 1
-If it isn't the cutest dear Tomo! Oh my how I feel so bad for what you must endure.
-Speaking to my sisters I mean, \.truly an exhausting task that is.
-You see many of us gravitate towards rather.... \.hmmm... \.bland obsessions.
-It can be tough to find a purpose in a world that moves as fast as ours, \.don't you agree?
-I suppose I rather envy their simplistic nature. \.You seem more complex though, \.I can see it behind those cute eyes.
-What could possibly weigh so heavily on your mind, \.Tomo?
-I want to see beautiful things. | I want to make friends
-Perhaps these matters aren't as simple as they seem and I simply can't begin to understand.
-It would seem I too suffer from this lack of empathy epidemic.
-I can only hope you find what you seek.
+Это же наша милейшая Зава! О боже, мне так тебя жаль из-за того, через что тебе проходится проходить.
+Я имею в виду общение с моими сёстрами, \.это по-настоящему изматывающая задача.
+Понимаешь, многие из нас тяготеют к весьма.... \.хммм... \.безобидным маниям.
+Иногда бывает трудно найти цель в мире, который развивается так же быстро, как наш, \.согласна?
+Признаться, я немного завидую их простоте. \.Но ты явно сложнее, \.я это вижу даже за твоими милыми глазами.
+Что же на тебя может так сильно давить, \.Зава?
+Я хочу увидеть красивые вещи | Я хочу завести друзей
+Возможно, всё не так просто как кажется, и мне просто не дано это понять.
+Похоже, я тоже страдаю от этой эпидемии отсутствия эмпатии.
+Я могу только надеяться, что ты найдёшь то, что ищешь.
 #exit
 # -------------------
 
@@ -33,16 +33,16 @@ I can only hope you find what you seek.
 #condition Erato >= 3 goto 3
 #
 # from page 2
-Oh, \.Tomo. \.My dear sister came to visit me recently. \.can you believe that? 
-Yes, \.I had stood above a great lake. \.somtimes it ripples in mysterious ways that can provide great insight.
-She had been watching me from below, \.coincidentally I had decided to loiter where she rests.
-It was not my intent to wake her.... \.I promise that.
-But I could feel it, \.some of her heavy guilt lifted. \.it was rather comforting.
-It was like she knew a great conclusion to her purpose was on the cusp of gracing the coming moments.
-Then she emerged from the water, \.for a moment she even smilled. \.I've not seen her do so in many years.
-Color me surprised to learn it was her who had constructed the tower! \.I can't say I much understand it though.
-it was enjoyable to catch up, \.though I do worry what kind of events will transpire. \.Her drive alludes me.
-Perhaps you could learn something from meeting her.
+Ой, \.Зава. \.Моя дорогая сестра недавно меня навестила. \.Можешь себе представить? 
+Да, \.я стояла над большим озером. \.Иногда оно таинственным образом колеблется, и это может привести к глубокому пониманию.
+Она наблюдала за мной снизу, \.и так совпало, что я решила побродить там, где она обычно отдыхает.
+Я совсем не собиралась её будить.... \.Клянусь.
+Но я это почувствовала, \.часть её тяжёлой вины как будто упала. \.Это было немного успокаивающе.
+Как будто она знала, что великое достижение её цели вот-вот украсит грядущие мгновения.
+Затем она появилась из воды, \.и даже на миг улыбнулась. \.Я не видела этого уже много лет.
+Представь моё удивление, когда я узнала, что это именно она возвела башню! \.Хотя я не могу сказать, что сильно это понимаю.
+Было приятно вот так встретиться, \.хотя я действительно беспокоюсь о том, что будет дальше. \.Я не понимаю её устремлений.
+Возможно, встретившись с ней ты научишься чему-то.
 #exit
 # -------------------
 
