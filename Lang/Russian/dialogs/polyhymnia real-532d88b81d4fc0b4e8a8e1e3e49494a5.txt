@@ -2,33 +2,33 @@
 # 21c402d0 69fff028 23f9b7eb 50f30abd aee522ad d76cbed4 78a2c920 50a8a88c 6e78ec85 9a55c182 eb4e0e22 7f453eda b29d6b3b 7b5ff33b 1ae51e1e 30afdf67 82051c25 f941d528 0e0f9e81 811c9dc5
 # ----- page 0 -----
 #condition HymniaPost >= 1 goto hymnia2-1
-The world feels so vast up here, \.don't you think?
-it's a wonderful place to come and think. \.the weather has been oh so nice ever since the arrival of the tower.
-My sister was the one who constucted it, \.though I'm not sure what her goals are.....
-To be honest, \.us muses don't speak much to each other. \.we've all gone our seperate ways.
-Do you have people you care for you speak to regularly? 
-I've met mel once. | no
+Отсюда мир кажется таким необъятным, \.как ты думаешь?
+Это замечательное место, чтобы подумать. \.Погода стала такой чудесной с тех пор, как появилась башня.
+Моя сестра была одной из тех, кто её построил, \.хотя я не уверена, чего она эти добивалась.....
+Честно говоря, \.мы, музы, почти не общаемся. \.Каждая из нас пошла своим путём.
+У тебя есть люди, о которых ты заботишься, и с кем регулярно разговариваешь? 
+Я однажды встретила Мел | Нет
 #
 # choice: I've met mel once.
-Oh really? \.I hope she is doing well.
+Ох, правда? \.Надеюсь, у неё всё хорошо.
 #
 # choice: no
-Before I had resolved myself to seek the asphodel I had traveled very far.
-I met many people, \.between the earth and the naraka.
-It seems the denizens of each are quite similar, all hold on and strive for more.
-Yet they repeat the same loop. \.few understand how to bask in the beauty laid before them.
-Yes, \.it's true. \.an epidemic of those who ignore the moments.
-What are you thinking right now?
-of this moment. | I zoned out.
+Прежде чем я решилась отправиться на поиски асфоделя, я прошла очень долгий путь.
+Я встретила много людей \.между землёй и Наракой.
+Похоже, их обитатели очень похожи между собой: все цепляются и стремятся к большему.
+И всё же они идут по одному и тому же кругу. \.Только немногие понимают, как можно наслаждаться открывшейся вокруг них красотой.
+Да, \.это так. \.Настоящая эпидемия тех, кто не замечает этих мгновений.
+о чём ты думаешь прямо сейчас?
+Об этом мгновении. | Я отвлеклась.
 #
 # choice: of this moment.
-I'm glad.
+Я рада.
 #
 # choice: I zoned out.
-Oh \.Tomo..... \.I brought you up here to enjoy this moment with you. \. do you see it?
-You are looking too hard, \.Tomo.
-To enjoy this seafoam sky, \.the wind in our faces, \.few know where to experience such beauty.
-We are truly lucky.
+Ох, \.Зава..... \.я привела тебя сюда, чтобы насладиться этим моментом вместе. \.Ты это видишь?
+Ты слишком стараешься, \.Зава.
+Наслаждаться этим небом цвета морской пены, \.ветром, дующим в твоё лицо. \.Немногие знают, где можно прикоснуться к такой красоте.
+Нам поистине повезло.
 #exit
 #
 # hymnia2-1: condition: HymniaPost >= 1
